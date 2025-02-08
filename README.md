@@ -3,6 +3,11 @@
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
+
+## GitHub Stats 📊
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabi98&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=radical)
+
 ## Experience 💼
 * 👩‍🏫 **Language Tutor** _(July 2024 - Present)_
    * Creating personalized learning paths for students
@@ -71,10 +76,6 @@ _(More projects coming soon!)_
 [![Email](https://img.shields.io/badge/Email-hacmanvioricagabriela@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hacmanvioricagabriela@gmail.com)
 
 ### 📍 Based in Ladispoli, Rome (Italy)
-
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabi98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=radical)
 
 ---
 ⭐️ From [DevGabi98](https://github.com/DevGabi98)
