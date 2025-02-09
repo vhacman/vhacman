@@ -9,17 +9,11 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=radical)
 
 ## Experience 💼
-* 👩‍🏫 **Language Tutor** _(July 2024 - Present)_
-   * Creating personalized learning paths for students
-   * Applying problem-solving techniques in teaching
-   * Using analytical thinking to develop effective study methods
-   * Managing multiple student projects simultaneously
 
 * 🏢 **Property Manager - Booking.com** _(2020 - Present)_
-   * Managing digital platform and database updates
-   * Organizing and optimizing booking systems
+   * Managing digital platform updates
+   * Organizing booking systems
    * Handling data analysis and reporting
-   * Problem-solving in a digital environment
 
 * 👥 **Restaurant Team Lead** _(April 2022 - December 2024)_
    * Led daily operations and team coordination
