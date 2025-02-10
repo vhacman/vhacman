@@ -10,14 +10,13 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## Experience 💼
 
-* 🏢 **Property Manager - Booking.com** _(2020 - Present)_
+* 🏢 **Property Booking Manager - Booking.com - Cazare Casa Andreia** _(2020 - Present)_
    * Managing digital platform updates
    * Organizing booking systems
    * Handling data analysis and reporting
 
 * 👥 **Restaurant Team Lead** _(April 2022 - December 2024)_
    * Led daily operations and team coordination
-   * Implemented efficient organizational systems
    * Improved service workflow through systematic approaches
    * Managed digital payment systems and administrative tasks
 
@@ -29,7 +28,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - ⚡ Quick learner and adaptable
 
 ## Education 🎓
-- 🖥️ **42 Roma Luiss** - Software Engineering Student _(2024 - Present)_
+- 🖥️ **42 Roma Luiss** - Software Engineering Student(C programming) _(2024 - Present)_
 - 📚 **Università e-Campus** - Degree in Languages and European Cultures _(2022 - 2024)_ - Final Grade: 95/110
 - 🌐 **Master in Social Media Management** - Future Academy _(2022 - 2023)_
 
