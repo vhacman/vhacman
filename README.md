@@ -31,7 +31,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - 🖥️ **42 Roma Luiss** - Software Engineering Student(C programming) _(2024 - Present)_
 - 📚 **Università e-Campus** - Degree in Languages and European Cultures _(2022 - 2024)_ - Final Grade: 95/110
 - 🌐 **Master in Social Media Management** - Future Academy _(2022 - 2023)_
-_(2013 - 2018)_ **Liceo Linguistico** -Italian, English, German, French. Final Grade: 95/100
+- 📚 **Liceo Linguistico** -Italian, English, German, French. _(2013 - 2018)_ -Final Grade: 95/100
 ## Languages 🌍
 - 🇮🇹 Italian (Bilingual)
 - 🇬🇧 English (C1)
