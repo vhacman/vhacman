@@ -11,9 +11,6 @@
 
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
----
-![Build Status](https://github.com/vhacman/libft/actions/workflows/main.yml/badge.svg)
----
 
 ## 🛠️ Languages and Tools
 
