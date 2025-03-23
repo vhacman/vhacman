@@ -5,8 +5,8 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 
 ## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevGabi98&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=radical)
 
 ## Experience 💼
 
