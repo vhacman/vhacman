@@ -69,13 +69,12 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - **Liceo Linguistico** - Italian, English, German, French (2013 - 2018) - Grade: 95/100
 
 ---
-
 ## 🌍 Languages
 
-- 🇮🇹 Italian (Bilingual)
-- EN English (C1)
-- 🇷🇴 Romanian (Native)
-- 🇩🇪 German (B2)
+- 🇮🇹 **Italian** – Bilingual  
+- 🇬🇧 **English** – C1  
+- 🇷🇴 **Romanian** – Native  
+- 🇩🇪 **German** – B2
 
 ---
 
