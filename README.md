@@ -15,7 +15,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | Git & GitHub    | Daily Use      |
 | VSCode          | Main Editor    |
 ----
-![Top Lang](https://img.shields.io/github/languages/top/vhacman/42_project?style=flat&logo=c)
+![Top Lang](https://img.shields.io/github/languages/top/vhacman/?style=flat&logo=c)
 
 ---
 ## 📬 Connect with Me
