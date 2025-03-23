@@ -73,7 +73,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ## 🌍 Languages
 
 - 🇮🇹 Italian (Bilingual)
-- 🇬🇧 English (C1)
+- EN English (C1)
 - 🇷🇴 Romanian (Native)
 - 🇩🇪 German (B2)
 
