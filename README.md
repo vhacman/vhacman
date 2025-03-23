@@ -1,6 +1,7 @@
-# Hi there, I'm Viorica Gabriela Hacman 👋
+# Hi there, I'm Gabriela 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile%20views&color=0e75b6&style=flat)
 ![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
-![Build Status](https://github.com/vhacman/42_project/actions/workflows/main.yml/badge.svg)
 
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
