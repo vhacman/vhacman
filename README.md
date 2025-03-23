@@ -71,4 +71,4 @@ _(More projects coming soon!)_
 ### 📍 Based in Ladispoli, Rome (Italy)
 
 ---
-⭐️ From [DevGabi98](https://github.com/DevGabi98)
+⭐️ From [Hacman Viorica Gabriela](https://github.com/vhacman)
