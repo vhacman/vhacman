@@ -4,9 +4,48 @@
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
 
-## GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=radical)
+<!-- README.md per il profilo GitHub di Gabriela -->
+
+<h1 align="center">Hi 👋, I'm Gabriela</h1>
+<p align="center">💻 Passionate about C and Web Development (Self-Taught) 🌱</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+</p>
+
+---
+
+### 📈 Gabriela's GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevGabi98&layout=compact&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DevGabi98&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevGabi98&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Learning
+
+- `C` (42 School)
+- `HTML` & `JavaScript` (Self-Taught)
+
+---
+
+### 📬 Connect with me
+
+- 🌐 [42 Intra Profile](https://profile.intra.42.fr/users/DevGabi98)
 
 ## Experience 💼
 
