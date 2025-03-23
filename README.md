@@ -84,7 +84,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - C Programming
 - Git & GitHub
 - Problem Solving
-- Shell Scripting
 - UNIX Systems
 
 ## 🤝 Soft Skills
@@ -102,7 +101,8 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 - **libft** – C Standard Library Implementation
 - **ft_printf** – Printf Recreation
-- More projects coming soon...
+- **get_next_line**
+- **Born2beroot**
 
 ---
 
