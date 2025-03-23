@@ -3,6 +3,12 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile%20views&color=0e75b6&style=flat)
 ![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
 
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090802467237)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriela_aleirbag_/)
+
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
@@ -18,16 +24,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | Git & GitHub    | Daily Use      |
 | VSCode          | Main Editor    |
 ----
-## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090802467237)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriela_aleirbag_/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile%20views&color=0e75b6&style=flat)
-
-
-
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight)
