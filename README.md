@@ -110,10 +110,10 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ---
 ## 📂 Projects
 
-- [**libft**](https://github.com/vhacman/42_project/tree/main/libft) – C Standard Library Implementation  
-- [**ft_printf**](https://github.com/vhacman/42_project/tree/main/ft_printf) – Printf Recreation  
-- [**get_next_line**](https://github.com/vhacman/42_project/tree/main/get_next_line) – Read line by line from file descriptors  
-- [**Born2beroot**](https://github.com/vhacman/42_project/tree/main/born2beroot) – System Administration on VirtualBox/Debian
+- [**libft**](https://github.com/vhacman/42_project/libft) – C Standard Library Implementation  
+- [**ft_printf**](https://github.com/vhacman/42_project/ft_printf) – Printf Recreation  
+- [**get_next_line**](https://github.com/vhacman/42_project/get_next_line) – Read line by line from file descriptors  
+- [**Born2beroot**](https://github.com/vhacman/42_project/born2beroot) – System Administration on VirtualBox/Debian
 
 ---
 
