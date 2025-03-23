@@ -3,14 +3,6 @@
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
-
-<!-- README.md per il profilo GitHub di Gabriela -->
-
-<h1 align="center">Hi 👋, I'm Gabriela</h1>
-<p align="center">💻 Passionate about C and Web Development (Self-Taught) 🌱</p>
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="center">
