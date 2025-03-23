@@ -3,80 +3,92 @@
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
-### 🛠️ Languages and Tools
+---
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-</p>
+## 🛠️ Languages and Tools
+
+| Language / Tool | Experience      |
+|------------------|----------------|
+| C               | 42 School      |
+| HTML            | learning by myself    |
+| JavaScript      | learning by myself   |
+| Git & GitHub    | Daily Use      |
+| VSCode          | Main Editor    |
 
 ---
 
-### 📈 Gabriela's GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhacman&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight)
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhacmanshow_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vhacman&theme=tokyonight)
 
 ---
 
-### 🧠 Learning
+## 🧠 Learning
 
-- `C` (42 School)
-- `HTML` & `JavaScript` (Self-Taught)
+- C (42 School)
+- HTML & JavaScript (Self-Taught)
 
 ---
 
-### 📬 Connect with me
+## 📬 Connect with Me
 
-- 🌐 [42 Intra Profile](https://profile.intra.42.fr/users/DevGabi98)
+- [42 Intra Profile](https://profile.intra.42.fr/users/DevGabi98)
+- [LinkedIn - Viorica Gabriela Hacman](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
+- [Email - hacmanvioricagabriela@gmail.com](mailto:hacmanvioricagabriela@gmail.com)
 
-## Experience 💼
+---
 
-* 🏢 **Property Booking Manager - Booking.com - Cazare Casa Andreia** _(2020 - Present)_
-   * Managing digital platform updates
-   * Organizing booking systems
-   * Handling data analysis and reporting
+## 💼 Experience
 
-* 👥 **Restaurant Team Lead** _(April 2022 - December 2024)_
-   * Led daily operations and team coordination
-   * Improved service workflow through systematic approaches
-   * Managed digital payment systems and administrative tasks
+### Property Booking Manager — Booking.com - Cazare Casa Andreia (2020 - Present)
+- Managing digital platform updates and booking systems
+- Handling data analysis and reporting
 
-## What Sets Me Apart 🌟
-- 🔍 Analytical mindset from management experience
-- 🗣️ Strong communication skills in multiple languages
-- 📊 Data-driven problem solver
-- 🤝 Team collaboration expert
-- ⚡ Quick learner and adaptable
+### Restaurant Team Lead (Apr 2022 - Dec 2024)
+- Team coordination and workflow optimization
+- Managed digital payment systems and customer service
 
-## Education 🎓
-- 🖥️ **42 Roma Luiss** - Software Engineering Student(C programming) _(2024 - Present)_
-- 📚 **Università e-Campus** - Degree in Languages and European Cultures _(2022 - 2024)_ - Final Grade: 95/110
-- 🌐 **Master in Social Media Management** - Future Academy _(2022 - 2023)_
-- 📚 **Liceo Linguistico** -Italian, English, German, French. _(2013 - 2018)_ -Final Grade: 95/100
-## Languages 🌍
+---
+
+## 🌟 What Sets Me Apart
+
+- Analytical mindset from management experience
+- Strong communication in multiple languages
+- Data-driven problem solving
+- Team collaboration and adaptability
+
+---
+
+## 🎓 Education
+
+- **42 Roma Luiss** - Software Engineering (2024 - Present)
+- **Università e-Campus** - Languages and European Cultures (2022 - 2024) - Grade: 95/110
+- **Master in Social Media Management** - Future Academy (2022 - 2023)
+- **Liceo Linguistico** - Italian, English, German, French (2013 - 2018) - Grade: 95/100
+
+---
+
+## 🌍 Languages
+
 - 🇮🇹 Italian (Bilingual)
 - 🇬🇧 English (C1)
 - 🇷🇴 Romanian (Native)
 - 🇩🇪 German (B2)
 
-## Technical Skills 💻
+---
+
+## 💻 Technical Skills
+
 - C Programming
 - Git & GitHub
 - Problem Solving
 - Shell Scripting
 - UNIX Systems
 
-## Soft Skills 🤝
+## 🤝 Soft Skills
+
 - Leadership
 - Team Collaboration
 - Time Management
@@ -84,22 +96,25 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - Adaptability
 - Precision
 
-## Projects 📂
-- **libft** - C Standard Library Implementation
-- **ft_printf** - Printf Function Recreation
-_(More projects coming soon!)_
+---
 
-## Currently Learning 📚
+## 📂 Projects
+
+- **libft** – C Standard Library Implementation
+- **ft_printf** – Printf Recreation
+- More projects coming soon...
+
+---
+
+## 📚 Currently Learning
+
 - Advanced C Programming
 - Data Structures
 - Algorithms
 - Software Architecture
 
-## Let's Connect! 🌐
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viorica_Gabriela_Hacman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
-[![Email](https://img.shields.io/badge/Email-hacmanvioricagabriela@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hacmanvioricagabriela@gmail.com)
-
-### 📍 Based in Ladispoli, Rome (Italy)
-
 ---
+
+📍 Based in Ladispoli, Rome (Italy)
+
 ⭐️ From [Hacman Viorica Gabriela](https://github.com/vhacman)
