@@ -12,7 +12,6 @@
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
-[![Libft CI](https://github.com/vhacman/libft/actions/workflows/main.yml/badge.svg)](https://github.com/vhacman/libft/actions/workflows/main.yml)
 ## 🛠️ Languages and Tools
 
 | Language / Tool | Experience      |
@@ -113,6 +112,8 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [ft_printf](https://github.com/vhacman/printf)           | Printf Function Implementation    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen) | ✅      | February 2025 |
 | [get_next_line](https://github.com/vhacman/get_next_line)   | Read File Descriptors by Lines    | ![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen) | ✅      | March 2025   |
 | [Born2beroot](https://github.com/vhacman/Born2beroot)       | System Administration             | ![Score](https://img.shields.io/badge/Score-110%2F100-brightgreen) | ✅      | February 2025 |
+
+[![Libft CI](https://github.com/vhacman/libft/actions/workflows/main.yml/badge.svg)](https://github.com/vhacman/libft/actions/workflows/main.yml)
 
 ---
 
