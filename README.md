@@ -9,8 +9,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090802467237)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gabriela_aleirbag_/)
 
-![Build Status](https://github.com/vhacman/libft/actions/workflows/main.yml/badge.svg)
-
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
