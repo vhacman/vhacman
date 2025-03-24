@@ -109,7 +109,8 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [ft_printf](https://github.com/vhacman/printf)           | Printf Function Implementation    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen) | ✅      | February 2025 |
 | [get_next_line](https://github.com/vhacman/get_next_line)   | Read File Descriptors by Lines    | ![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen) | ✅      | March 2025   |
 | [Born2beroot](https://github.com/vhacman/Born2beroot)       | System Administration             | ![Score](https://img.shields.io/badge/Score-110%2F100-brightgreen) | ✅      | February 2025 |
----
+| [Pipex](https://github.com/vhacman/pipex)                  | Unix Pipe Execution Simulation    | ![Score](https://img.shields.io/badge/Score-108%2F100-brightgreen) | ✅      | March 2025 |
+
 
 ## 📚 Currently Learning
 
