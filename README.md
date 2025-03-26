@@ -36,9 +36,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ### GitHub Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![My GitHub Skyline](link-della-tua-gif-skyline.gif)
-
-
 ## 🧠 SKills
 ---
 [![My Skills](https://skillicons.dev/icons?i=c,html,linkedin,notion,ubuntu,vim,vscode,windows,&theme=light)](https://skillicons.dev)
