@@ -114,7 +114,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [Born2beroot](https://github.com/vhacman/Born2beroot)       | System Administration             | ![Score](https://img.shields.io/badge/Score-110%2F100-brightgreen) | ✅      | February 2025 |
 | [Pipex](https://github.com/vhacman/pipex)                  | Unix Pipe Execution Simulation    | ![Score](https://img.shields.io/badge/Score-108%2F100-brightgreen) | ✅      | March 2025 |
 | [Push-Swap](https://github.com/vhacman/push_swap)                  | Algorithmic thinking    | ![Score](https://img.shields.io/badge/Score-90%2F100-brightgreen) | ✅      | April 2025 |
-| [so_long](https://github.com/vhacman/so_long)                  | 2D Mini Game with Basic Graphics Logic    | ![Score](https://img.shields.io/badge/Score--%2F100-brightgreen) | -      | - |
+| [so_long](https://github.com/vhacman/so_long)                  | 2D Mini Game with Basic Graphics Logic    | ![Score](https://img.shields.io/badge/Score-not-validated-%2F100-brightgreen) | -      | - |
 
 ## 📚 Currently Learning
 
