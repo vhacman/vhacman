@@ -41,6 +41,19 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ---
 [![My Skills](https://skillicons.dev/icons?i=c,html,linkedin,notion,ubuntu,vim,vscode,windows,&theme=light)](https://skillicons.dev)
 
+---
+## 🎯 Projects
+
+| Project                            | Description                       | Score                                                | Status | Completion    |
+|------------------------------------|-----------------------------------|------------------------------------------------------|--------|--------------|
+| [libft](https://github.com/vhacman/libft)                   | C Standard Library Recreation     | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen) | ✅      | January 2025 |
+| [ft_printf](https://github.com/vhacman/printf)           | Printf Function Implementation    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen) | ✅      | February 2025 |
+| [get_next_line](https://github.com/vhacman/get_next_line)   | Read File Descriptors by Lines    | ![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen) | ✅      | March 2025   |
+| [Born2beroot](https://github.com/vhacman/Born2beroot)       | System Administration             | ![Score](https://img.shields.io/badge/Score-110%2F100-brightgreen) | ✅      | February 2025 |
+| [Pipex](https://github.com/vhacman/pipex)                  | Unix Pipe Execution Simulation    | ![Score](https://img.shields.io/badge/Score-108%2F100-brightgreen) | ✅      | March 2025 |
+| [Push-Swap](https://github.com/vhacman/push_swap)                  | Algorithmic thinking    | ![Score](https://img.shields.io/badge/Score-90%2F100-brightgreen) | ✅      | April 2025 |
+| [so_long](https://github.com/vhacman/so_long)                  | 2D Mini Game with Basic Graphics Logic    | ![Score](https://img.shields.io/badge/Score-122%2F100-brightgreen) | ✅      | March 2025 |
+
 ## 📬 Connect with Me
 
 - [42 Intra Profile](https://profile.intra.42.fr/users/vhacman)
@@ -102,19 +115,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - Critical Thinking
 - Adaptability
 - Precision
-
----
-## 🎯 Projects
-
-| Project                            | Description                       | Score                                                | Status | Completion    |
-|------------------------------------|-----------------------------------|------------------------------------------------------|--------|--------------|
-| [libft](https://github.com/vhacman/libft)                   | C Standard Library Recreation     | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen) | ✅      | January 2025 |
-| [ft_printf](https://github.com/vhacman/printf)           | Printf Function Implementation    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen) | ✅      | February 2025 |
-| [get_next_line](https://github.com/vhacman/get_next_line)   | Read File Descriptors by Lines    | ![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen) | ✅      | March 2025   |
-| [Born2beroot](https://github.com/vhacman/Born2beroot)       | System Administration             | ![Score](https://img.shields.io/badge/Score-110%2F100-brightgreen) | ✅      | February 2025 |
-| [Pipex](https://github.com/vhacman/pipex)                  | Unix Pipe Execution Simulation    | ![Score](https://img.shields.io/badge/Score-108%2F100-brightgreen) | ✅      | March 2025 |
-| [Push-Swap](https://github.com/vhacman/push_swap)                  | Algorithmic thinking    | ![Score](https://img.shields.io/badge/Score-90%2F100-brightgreen) | ✅      | April 2025 |
-| [so_long](https://github.com/vhacman/so_long)                  | 2D Mini Game with Basic Graphics Logic    | ![Score](https://img.shields.io/badge/Score-122%2F100-brightgreen) | ✅      | March 2025 |
 
 ## 📚 Currently Learning
 
