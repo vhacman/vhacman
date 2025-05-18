@@ -12,7 +12,8 @@
 ## About Me 🚀
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
-[![<vhacman>'s 42 stats](https://badge.mediaplus.ma/darkblue/<vhacman>)](https://github.com/oakoudad/badge42)
+[![vhacman's 42 stats](https://badge.mediaplus.ma/darkblue/vhacman)](https://github.com/oakoudad/badge42)
+
 ## 🛠️ Languages and Tools
 
 | Language / Tool | Experience      |
