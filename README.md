@@ -31,7 +31,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vhacman)](https://git.io/streak-stats)
 
 ### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
