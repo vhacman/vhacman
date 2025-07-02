@@ -23,7 +23,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | JavaScript      | learning by myself   |
 | Git & GitHub    | Daily Use      |
 | VSCode          | Main Editor    |
-| Python          | learning by myself   |
+| CSS             | learning by myself   |
 ----
 ## 📈 GitHub Stats
 
