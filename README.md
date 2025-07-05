@@ -55,7 +55,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [Pipex](https://github.com/vhacman/pipex)                        | Unix Pipe Execution Simulation         | ![Score](https://img.shields.io/badge/Score-108%2F100-brightgreen)  | ✅      | March 2025    |
 | [Push-Swap](https://github.com/vhacman/push_swap)                | Algorithmic Sorting Logic              | ![Score](https://img.shields.io/badge/Score-90%2F100-brightgreen)   | ✅      | April 2025    |
 | [so_long](https://github.com/vhacman/so_long)                    | 2D Mini Game with Basic Graphics Logic | ![Score](https://img.shields.io/badge/Score-122%2F100-brightgreen)  | ✅      | March 2025    |
-| [Philo](https://github.com/vhacman/philo)                        | Dining Philosophers Synchronization    | ![Score](https://img.shields.io/badge/Score-115%2F100-brightgreen)  | ✅      | May 2025      |
+| [Philo](https://github.com/vhacman/philo)                        | Dining Philosophers Synchronization    | ![Score](https://img.shields.io/badge/Score-%2F100-brightgreen)  | ✅      | May 2025      |
 
 
 ## 📬 Connect with Me
