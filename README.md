@@ -19,11 +19,11 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | Language / Tool | Experience      |
 |------------------|----------------|
 | C               | 42 School      |
-| HTML            | learning by myself    |
-| JavaScript      | learning by myself   |
+| HTML            | Courusera      |
+| JavaScript      | Courusera      |
 | Git & GitHub    | Daily Use      |
 | VSCode          | Main Editor    |
-| CSS             | learning by myself   |
+| CSS             | Courusera      |
 ----
 ## 📈 GitHub Stats
 
@@ -44,7 +44,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 [![My Skills](https://skillicons.dev/icons?i=c,html,linkedin,notion,ubuntu,vim,vscode,windows,&theme=light)](https://skillicons.dev)
 
 ---
-## 🎯 Projects
+## 🎯 42 - Projects
 
 | Project                                                         | Description                            | Score                                                   | Status | Completion    |
 |------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------|--------|---------------|
@@ -57,6 +57,14 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [so_long](https://github.com/vhacman/so_long)                    | 2D Mini Game with Basic Graphics Logic | ![Score](https://img.shields.io/badge/Score-122%2F100-brightgreen)  | ✅      | March 2025    |
 | [Philo](https://github.com/vhacman/philo)                        | Dining Philosophers Synchronization    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | July 2025      |
 
+---
+## 🎯 Other - Projects
+
+| Project                                                       | Description                                | Score                                                        | Status | Completion  |
+| ------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------ | ----------- |
+| [JS---Practice](https://github.com/vhacman/JS---Practice)     | JavaScript exercises and theory            | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
+| [HTML---Practice](https://github.com/vhacman/HTML---Practice) | Exercises, Theory and more                 | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
+| [CSS---practice](https://github.com/vhacman/CSS---practice)   | CSS - practice, exercises, theory and more | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 
 ## 📬 Connect with Me
 
