@@ -66,6 +66,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [HTML---Practice](https://github.com/vhacman/HTML---Practice) | Exercises, Theory and more                 | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [CSS---practice](https://github.com/vhacman/CSS---practice)   | CSS - practice, exercises, theory and more | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [michael-jackson-page](https://github.com/vhacman/michael-jackson-page)   | Fan-page for practice | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
+| [cpp-practice](https://github.com/vhacman/cpp_practice)   | C++-practice | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 
 ## 📬 Connect with Me
 
