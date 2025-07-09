@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile%20views&color=0e75b6&style=flat)
 ![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
 
-## 📬 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090802467237)
