@@ -111,33 +111,16 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - 🇮🇹 **Italian** – Bilingual  
 - 🇬🇧 **English** – C1  
 - 🇷🇴 **Romanian** – Native  
-- 🇩🇪 **German** – B2
 
 ---
 
-## 💻 Technical Skills
-
-- C Programming
-- Git & GitHub
-- Problem Solving
-- UNIX Systems
-
-## 🤝 Soft Skills
-
-- Leadership
-- Team Collaboration
-- Time Management
-- Critical Thinking
-- Adaptability
-- Precision
-
 ## 📚 Currently Learning
 
-- Advanced C Programming
-- Data Structures
-- Algorithms
-- Software Architecture
-
+- C
+- - C++
+- HTML
+- CSS
+- Javascript
 ---
 
 📍 Based in Ladispoli, Rome (Italy)
