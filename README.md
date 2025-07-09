@@ -24,6 +24,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | Git & GitHub    | Daily Use      |
 | VSCode          | Main Editor    |
 | CSS             | Courusera      |
+|C++              | 42 School      | 
 ----
 ## 📈 GitHub Stats
 
