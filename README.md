@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriela 👋
+# Hi there, I'm Gabriela 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile%20views&color=0e75b6&style=flat)
 ![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
