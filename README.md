@@ -117,7 +117,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ## 📚 Currently Learning
 
 - C
-- - C++
+- C++
 - HTML
 - CSS
 - Javascript
