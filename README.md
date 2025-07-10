@@ -28,7 +28,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ----
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&theme=tokyonight&layout=default&langs_count=10)
 
 
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight)
