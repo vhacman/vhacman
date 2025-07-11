@@ -77,7 +77,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## 💼 Experience
 
-### Property Booking Manager — Booking.com - Cazare Casa Andreia (2020 - Present)
+### Property Booking Manager — Booking.com - Cazare Casa Andreia (2020 - 2024)
 - Managing digital platform updates and booking systems
 - Handling data analysis and reporting
 
@@ -119,6 +119,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - HTML
 - CSS
 - Javascript
+- React
 ---
 
 📍 Based in Ladispoli, Rome (Italy)
