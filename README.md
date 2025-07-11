@@ -41,7 +41,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ## 🧠 SKills
 ---
 [![My Skills](https://skillicons.dev/icons?i=c,html,linkedin,css,notion,ubuntu,vim,vscode,windows,github,linux,nodejs,js&theme=light)](https://skillicons.dev)
-![GCC](https://img.shields.io/badge/GCC-compiler-blue?logo=c&logoColor=white)
 
 ---
 ## 🎯 42 - Projects
