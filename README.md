@@ -73,6 +73,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - [42 Intra Profile](https://profile.intra.42.fr/users/vhacman)
 - [LinkedIn - Viorica Gabriela Hacman](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
 - [Email - hacmanvioricagabriela@gmail.com](mailto:hacmanvioricagabriela@gmail.com)
+- [FreeCodeCamp - DevGab98](https://www.freecodecamp.org/DevGabi98)
 
 ---
 
