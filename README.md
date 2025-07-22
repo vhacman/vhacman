@@ -66,7 +66,9 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [CSS---practice](https://github.com/vhacman/CSS---practice)   | CSS - practice, exercises, theory and more | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [michael-jackson-page](https://github.com/vhacman/michael-jackson-page)   | Fan-page for practice | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [cpp-practice](https://github.com/vhacman/cpp_practice)   | C++-practice | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
-| [Technical_Documentation_Page_FreeCodeCamp](https://github.com/vhacman/Technical_Documentation_Page_FreeCodeCamp)   | HTML + CSS | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | ✅     | COmpleted |
+| [Technical_Documentation_Page_FreeCodeCamp](https://github.com/vhacman/Technical_Documentation_Page_FreeCodeCamp)   | HTML + CSS | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | ✅     | Completed |
+| [SurveyForm_freeCodeCamp](https://github.com/vhacman/SurveyForm_freeCodeCamp)   | HTML + CSS | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | ✅     | Completed |
+| [TributePage_FreeCodeCamp](https://github.com/vhacman/TributePage_FreeCodeCamp)   | CSS | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | ✅     | Completed |
 
 ## 📬 Connect with Me
 
