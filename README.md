@@ -91,15 +91,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ---
 
-## 🌟 What Sets Me Apart
-
-- Analytical mindset from management experience
-- Strong communication in multiple languages
-- Data-driven problem solving
-- Team collaboration and adaptability
-
----
-
 ## 🎓 Education
 
 - **42 Roma Luiss** - Software Engineering (2024 - Present)
@@ -110,6 +101,15 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ---
 ## 🌍 Languages
 
+
+---
+
+## 🌟 What Sets Me Apart
+
+- Analytical mindset from management experience
+- Strong communication in multiple languages
+- Data-driven problem solving
+- Team collaboration and adaptability
 - 🇮🇹 **Italian** – Bilingual  
 - 🇬🇧 **English** – C1  
 - 🇷🇴 **Romanian** – Native  
