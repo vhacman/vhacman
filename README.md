@@ -33,7 +33,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vhacman&theme=onedark)](https://git.io/streak-stats )
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### GitHub Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
