@@ -14,7 +14,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 [![vhacman's 42 stats](https://badge.mediaplus.ma/binary/vhacman)](https://github.com/oakoudad/badge42)
 
-## dispense di teoria per chi ne ha bisogno a: [dispense]](https://github.com/vhacman/brainstack-programming-notions) 
+## dispense di teoria per chi ne ha bisogno a: [dispense](https://github.com/vhacman/brainstack-programming-notions) 
 
 ## 🛠️ Languages and Tools
 
