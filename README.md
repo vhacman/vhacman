@@ -49,7 +49,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 | Project                                                         | Description                            | Score                                                   | Status | Completion    |
 |------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------|--------|---------------|
-| [libft](https://github.com/vhacman/libft)                        | C Standard Library Recreation          | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | January 2025  |
+| [libft](https://github.com/vhacman/libft)                        | C Standard Library Recreation            | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | January 2025  |
 | [ft_printf](https://github.com/vhacman/printf)                   | Printf Function Implementation         | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | February 2025 |
 | [get_next_line](https://github.com/vhacman/get_next_line)        | Read File Descriptors by Lines         | ![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen)  | ✅      | March 2025    |
 | [Born2beroot](https://github.com/vhacman/Born2beroot)            | System Administration                  | ![Score](https://img.shields.io/badge/Score-110%2F100-brightgreen)  | ✅      | February 2025 |
@@ -58,7 +58,8 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [so_long](https://github.com/vhacman/so_long)                    | 2D Mini Game with Basic Graphics Logic | ![Score](https://img.shields.io/badge/Score-122%2F100-brightgreen)  | ✅      | March 2025    |
 | [Philo](https://github.com/vhacman/philo)                        | Dining Philosophers Synchronization    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | July 2025      |
 | [Minishell](https://github.com/vhacman/minishell)                | Build a shell on Bash example         | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | August 2025      |
-| [CPP00 ](https://github.com/vhacman/CPP00)                   |C++ Basics: namespaces, classes, member functions, I/O streams| ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
+| [CPP00 ](https://github.com/vhacman/CPP00)                       |C++ Basics: namespaces, classes, member functions, I/O streams| ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
+| [CPP01 ](https://github.com/vhacman/CPP00)                       |C++ Basics: memory allocation, pointers to members, references, switch | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
 
 ---
 ## 🎯 Other - Projects
