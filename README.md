@@ -58,7 +58,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [so_long](https://github.com/vhacman/so_long)                    | 2D Mini Game with Basic Graphics Logic | ![Score](https://img.shields.io/badge/Score-122%2F100-brightgreen)  | ✅      | March 2025    |
 | [Philo](https://github.com/vhacman/philo)                        | Dining Philosophers Synchronization    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | July 2025      |
 | [Minishell](https://github.com/vhacman/minishell)                | Build a shell on Bash example         | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | August 2025      |
-| [Minishell ](https://github.com/vhacman/CPP00)                   |C++ Basics: namespaces, classes, member functions, I/O streams| ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
+| [CPP00 ](https://github.com/vhacman/CPP00)                   |C++ Basics: namespaces, classes, member functions, I/O streams| ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
 
 ---
 ## 🎯 Other - Projects
