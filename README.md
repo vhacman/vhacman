@@ -21,11 +21,11 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | Language / Tool | Experience      |
 |------------------|----------------|
 | C               | 42 School      |
-| HTML            | Courusera      |
-| JavaScript      | Courusera      |
+| HTML            | Coursera      |
+| JavaScript      | Coursera      |
 | Git & GitHub    | Daily Use      |
 | VSCode          | Main Editor    |
-| CSS             | Courusera      |
+| CSS             | Coursera      |
 |C++              | 42 School      | 
 ----
 ## 📈 GitHub Stats
