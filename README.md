@@ -62,7 +62,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | [CPP01 ](https://github.com/vhacman/CPP01)                       |C++ Basics: memory allocation, pointers to members, references, switch | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
 | [NetPractice ](https://github.com/vhacman/Net_Practice)          |IP Networking Simulation: IPv4 addressing, subnetting, routing tables, and gateway configuration | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | October 2025      |
 | [CPP02 ](https://github.com/vhacman/CPP02)                       |Operator overloading, Fixed-point numbers, comparison operators, arithmetic operators, increment/decrement operators, static member functions, stream insertion operator, Binary Space Partitioning | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | October 2025      |
-
 | [CPP03 ](https://github.com/vhacman/CPP03)                       |Advanced Object-Oriented Programming in C++: inheritance (single & multiple), virtual inheritance (diamond problem resolution), constructors/destructors in inheritance chains, runtime polymorphism with virtual functions | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | October 2025      |
 
 ---
