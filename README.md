@@ -27,6 +27,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | CSS             | Coursera      |
 |C++              | 42 School      | 
 |Java             | Autodidatta, Coursera |
+|Intellij         | Java editor |
 
 ----
 ## 📈 GitHub Stats
