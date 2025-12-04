@@ -104,6 +104,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## 🎓 Education
 
+- **Generation Italy** (Dec 2025 - Present)
 - **42 Roma Luiss** - Software Engineering (2024 - Present)
 - **Università e-Campus** - Languages and European Cultures (2022 - 2024) - Grade: 95/110
 - **Master in Social Media Management** - Future Academy (2022 - 2023)
@@ -134,7 +135,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - HTML
 - CSS
 - Javascript
-- React
+- Java
 ---
 
 📍 Based in Ladispoli, Rome (Italy)
