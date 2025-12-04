@@ -45,7 +45,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## 🧠 SKills
 ---
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,apple,bash,c,cpp,githubactions,gmail,idea,linkedin,ubuntu,,windows,wordpress,githubpages,brave,html,css,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,apple,bash,c,cpp,githubactions,gmail,idea,linkedin,ubuntu,windows,wordpress,githubpages,brave,html,css,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
 ---
 ## 🎯 42 - Projects
 
