@@ -72,6 +72,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 | Project                                                       | Description                                | Score                                                        | Status | Completion  |
 | ------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------ | ----------- |
+| [GenerationStudyJavaCourse](https://github.com/vhacman/GenerationStudyJavaCourse)                          | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [JS---Practice](https://github.com/vhacman/JS---Practice)     | JavaScript exercises and theory            | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [HTML---Practice](https://github.com/vhacman/HTML---Practice) | Exercises, Theory and more                 | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [CSS---practice](https://github.com/vhacman/CSS---practice)   | CSS - practice, exercises, theory and more | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
