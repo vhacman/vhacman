@@ -27,9 +27,10 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | CSS             | Coursera      |
 |C++              | 42 School      | 
 |Java             | Autodidatta, Coursera |
-|Intellij         | Java editor |
+|Intellij         | Java IDE     |
+|Eclipse          |Java IDE      |
 
-----
+---
 ## 📈 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&theme=onedark&hide=Roff,Makefile)](https://github.com/vhacman/github-readme-stats)
