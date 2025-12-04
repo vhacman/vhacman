@@ -26,7 +26,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | VSCode          | Main Editor    |
 | CSS             | Coursera      |
 |C++              | 42 School      | 
-|Java             | Autodidatta, Coursera |
+|Java             |Generation Italy |
 |Intellij         | Java IDE     |
 |Eclipse          |Java IDE      |
 
