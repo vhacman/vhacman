@@ -45,8 +45,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## 🧠 SKills
 ---
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c<eclipse,anva,chrome,claude,excel,cpp,firefox,authenticator,discord,githubpages,brave,html,css,linkedin,java,vim,vscode,linux,github,&theme=light)
-
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,canva,claude,excel,authenticator,discord,githubpages,brave,html,css,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
 ---
 ## 🎯 42 - Projects
 
