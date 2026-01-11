@@ -10,12 +10,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090802467237)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vgabrielah_/)
 
-## About Me 🚀
+## About Me
 Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
 
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
-# 🎓 My Learning Journey
+# My Learning Journey
 
 <table>
 <tr>
@@ -23,10 +23,10 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=for-the-badge&logo=java&logoColor=white" alt="Generation Italy">
 
-### 🌟 Java Junior Full Stack Developer Bootcamp
+### Java Junior Full Stack Developer Bootcamp
 **December 2025 - Present** | **Intensive Full-Time Program**
 
-#### 🛠️ Tech Stack
+#### Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,15 +34,15 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 📚 Learning Focus
-- ☕ **Backend**: Java, Spring Boot, RESTful APIs
-- 🎨 **Frontend**: HTML5, CSS3, JavaScript, React
-- 🗄️ **Database**: SQL, MySQL
-- 🏗️ **Architecture**: OOP, Design Patterns
-- 🔄 **Methodology**: Agile, Scrum
-- 🤝 **Soft Skills**: Teamwork, Problem-solving
+#### Learning Focus
+- **Backend**: Java, Spring Boot, RESTful APIs
+- **Frontend**: HTML5, CSS3, JavaScript, React
+- **Database**: SQL, MySQL
+- **Architecture**: OOP, Design Patterns
+- **Methodology**: Agile, Scrum
+- **Soft Skills**: Teamwork, Problem-solving
 
-#### 📂 Project Repository
+#### Project Repository
 [![GenerationStudyJavaCourse](https://img.shields.io/badge/View_Repository-Generation_Java_Course-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
 
 </td>
@@ -50,10 +50,10 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=for-the-badge&logo=42&logoColor=white" alt="42 School">
 
-### 💻 Software Engineering Program
+### Software Engineering Program
 **2024 - Present** | **Peer-to-Peer Learning**
 
-#### 🛠️ Tech Stack
+#### Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -61,15 +61,15 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 📚 Learning Focus
-- 🔧 **Low-Level**: C/C++ Programming
-- 💾 **System**: Unix/Linux Administration
-- 🧠 **Algorithms**: Data Structures, Optimization
-- 🔀 **Concurrency**: Threading, Process Management
-- 🌐 **Networking**: TCP/IP, Socket Programming
-- 🎮 **Graphics**: MinilibX, Game Development
+#### Learning Focus
+- **Low-Level**: C/C++ Programming
+- **System**: Unix/Linux Administration
+- **Algorithms**: Data Structures, Optimization
+- **Concurrency**: Threading, Process Management
+- **Networking**: TCP/IP, Socket Programming
+- **Graphics**: MinilibX, Game Development
 
-#### 📊 42 Progress
+#### 42 Progress
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
 </td>
@@ -80,11 +80,11 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## dispense di teoria per chi ne ha bisogno a: [dispense](https://github.com/vhacman/brainstack-programming-notions)
 
-## 🛠️ Languages and Tools
+## Languages and Tools
 
 <div align="center">
 
-### 💼 Professional Tech Stack
+### Professional Tech Stack
 
 </div>
 
@@ -92,7 +92,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 <tr>
 <td width="50%" valign="top">
 
-#### 🌟 Generation Italy Stack
+#### Generation Italy Stack
 
 | Technology | Proficiency | Usage |
 |:-----------|:-----------:|:------|
@@ -108,7 +108,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 </td>
 <td width="50%" valign="top">
 
-#### 💻 42 School Stack
+#### 42 School Stack
 
 | Technology | Proficiency | Usage |
 |:-----------|:-----------:|:------|
@@ -125,7 +125,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 </tr>
 </table>
 
-#### 🔧 Additional Tools & Platforms
+#### Additional Tools & Platforms
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 </div>
 
 ---
-## 📈 GitHub Stats
+## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&theme=onedark&hide=Roff,Makefile)](https://github.com/vhacman/github-readme-stats)
 ![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=onedark)
@@ -151,78 +151,78 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ### GitHub Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🧠 SKills
+## Skills
 ---
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,junit,eclipse,idea,c,cpp,html,css,js,bash,githubactions,gmail,apple,ubuntu,windows,wordpress,githubpages,brave,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
 ---
 
-# 📂 Projects Portfolio
+# Projects Portfolio
 
 ## <img src="https://img.shields.io/badge/Generation_Italy-Projects-FF6B35?style=for-the-badge&logo=java&logoColor=white" width="300">
 
 <div align="center">
 
-### ☕ Full Stack Java Development Journey
+### Full Stack Java Development Journey
 
 </div>
 
-| 📁 Project | 📝 Description | 🛠️ Technologies | 📊 Status | 📅 Timeline |
+| Project | Description | Technologies | Status | Timeline |
 |:-----------|:---------------|:----------------|:---------:|:-----------:|
 | [**GenerationStudyJavaCourse**](https://github.com/vhacman/GenerationStudyJavaCourse) | Comprehensive Java programming repository with exercises, examples, and projects from Generation Italy Bootcamp | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | 🔄 **In Progress** | Dec 2025 - Present |
 
 <details>
-<summary><b>📚 Click to see detailed technical skills learned</b></summary>
+<summary><b>Click to see detailed technical skills learned</b></summary>
 
 <br>
 
-### 🎯 Core Java Concepts
-- ✅ **Object-Oriented Programming**: Classes, Objects, Encapsulation, Inheritance, Polymorphism
-- ✅ **Advanced OOP**: Method Overloading/Overriding, Abstract Classes, Interfaces
-- ✅ **Data Types & Variables**: Primitive types, Reference types, Type casting
-- ✅ **Control Structures**: if/else, switch, for, while, do-while loops
-- ✅ **Collections Framework**: ArrayList, HashMap, LinkedList
-- ✅ **Exception Handling**: try-catch-finally, custom exceptions
+### Core Java Concepts
+- **Object-Oriented Programming**: Classes, Objects, Encapsulation, Inheritance, Polymorphism
+- **Advanced OOP**: Method Overloading/Overriding, Abstract Classes, Interfaces
+- **Data Types & Variables**: Primitive types, Reference types, Type casting
+- **Control Structures**: if/else, switch, for, while, do-while loops
+- **Collections Framework**: ArrayList, HashMap, LinkedList
+- **Exception Handling**: try-catch-finally, custom exceptions
 
-### 🏗️ Software Architecture & Design Patterns
-- ✅ **MVC Architecture**: Model-View-Controller separation
-- ✅ **Design Patterns**:
+### Software Architecture & Design Patterns
+- **MVC Architecture**: Model-View-Controller separation
+- **Design Patterns**:
   - Singleton Pattern (resource management)
   - Repository/DAO Pattern (data access)
   - Dependency Injection
   - Template-based rendering
-- ✅ **Service Layer Design**: Business logic separation
-- ✅ **Lazy Loading**: Performance optimization techniques
+- **Service Layer Design**: Business logic separation
+- **Lazy Loading**: Performance optimization techniques
 
-### 🗄️ Database & Persistence
-- ✅ **JDBC**: Java Database Connectivity
-- ✅ **SQLite**: Database operations and management
-- ✅ **SQL Queries**: SELECT, INSERT, UPDATE, DELETE
-- ✅ **Database Design**: Table relationships, normalization
+### Database & Persistence
+- **JDBC**: Java Database Connectivity
+- **SQLite**: Database operations and management
+- **SQL Queries**: SELECT, INSERT, UPDATE, DELETE
+- **Database Design**: Table relationships, normalization
 
-### 💼 Business Application Development
-- ✅ **Financial Calculations**: BigDecimal for precision
-- ✅ **Date & Time API**: LocalDate, LocalDateTime, DateTimeFormatter
-- ✅ **Input Validation**: Data sanitization and validation
-- ✅ **File I/O Operations**: Reading/Writing files
-- ✅ **Enum with Methods**: Advanced enum usage
+### Business Application Development
+- **Financial Calculations**: BigDecimal for precision
+- **Date & Time API**: LocalDate, LocalDateTime, DateTimeFormatter
+- **Input Validation**: Data sanitization and validation
+- **File I/O Operations**: Reading/Writing files
+- **Enum with Methods**: Advanced enum usage
 
-### 🧪 Testing & Quality
-- ✅ **JUnit Testing**: Unit tests, test cases
-- ✅ **Code Organization**: Package structure, modularity
-- ✅ **Best Practices**: Clean code, naming conventions
+### Testing & Quality
+- **JUnit Testing**: Unit tests, test cases
+- **Code Organization**: Package structure, modularity
+- **Best Practices**: Clean code, naming conventions
 
-### 📂 Project Categories (40+ Projects)
+### Project Categories (40+ Projects)
 
-#### 🎓 Fundamentals (01_Fundamentals_Examples/)
+#### Fundamentals (01_Fundamentals_Examples/)
 Basic concepts, control structures, loops, OOP basics, encapsulation, inheritance, abstraction
 
-#### 🚆 Transportation Systems (02_Tickets_Transportation/)
+#### Transportation Systems (02_Tickets_Transportation/)
 - **BrianzaTaxi, BrianzaTaxiService**: Taxi booking and fare calculation
 - **BrianzaTrains, MLTrains**: Train ticket systems with multiple classes
 - **MonzaMetro**: Metro ticketing system
 - **DiscotecaTicket**: Event ticketing with age restrictions
 
-#### 💼 Business Applications (03_Business_Applications/)
+#### Business Applications (03_Business_Applications/)
 - **JavaBank**: Banking system with accounts, transactions
 - **JavaBus**: Bus fleet management
 - **JavItaAirline**: Airline reservation system
@@ -234,10 +234,10 @@ Basic concepts, control structures, loops, OOP basics, encapsulation, inheritanc
 - **PCWizard, RepairShop**: Computer repair shop management
 - **MuseumTicket**: Museum ticketing with pricing tiers
 
-#### 🎯 Practice Exercises (04_Exercises_Practice/)
+#### Practice Exercises (04_Exercises_Practice/)
 Extra lessons, tax calculations, holiday-themed projects
 
-### 📖 Course Materials
+### Course Materials
 [Access my Drive folder with all course notes and materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
 </details>
@@ -248,11 +248,11 @@ Extra lessons, tax calculations, holiday-themed projects
 
 <div align="center">
 
-### 💻 Low-Level Programming & System Administration
+### Low-Level Programming & System Administration
 
 </div>
 
-| 📁 Project | 📝 Description | 💯 Score | ✅ Status | 📅 Completion |
+| Project | Description | Score | Status | Completion |
 |:-----------|:---------------|:--------:|:---------:|:-------------:|
 | [**libft**](https://github.com/vhacman/libft) | C Standard Library Recreation - Building custom implementations of libc functions | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | January 2025 |
 | [**ft_printf**](https://github.com/vhacman/printf) | Printf Function Implementation - Recreating the famous printf function | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | February 2025 |
@@ -265,9 +265,9 @@ Extra lessons, tax calculations, holiday-themed projects
 | [**Minishell**](https://github.com/vhacman/minishell) | Shell Implementation - Building a bash-like shell from scratch | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | August 2025 |
 | [**NetPractice**](https://github.com/vhacman/Net_Practice) | Network Configuration - IP addressing, subnetting, routing tables | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | October 2025 |
 
-#### 🔷 C++ Module Series
+#### C++ Module Series
 
-| 📁 Module | 📝 Focus Areas | 💯 Score | ✅ Status | 📅 Completion |
+| Module | Focus Areas | Score | Status | Completion |
 |:----------|:---------------|:--------:|:---------:|:-------------:|
 | [**CPP00**](https://github.com/vhacman/CPP00) | Namespaces, classes, member functions, I/O streams, initialization lists | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | September 2025 |
 | [**CPP01**](https://github.com/vhacman/CPP01) | Memory allocation, pointers to members, references, switch statements | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | September 2025 |
@@ -275,7 +275,7 @@ Extra lessons, tax calculations, holiday-themed projects
 | [**CPP03**](https://github.com/vhacman/CPP03) | Inheritance (single & multiple), virtual inheritance, diamond problem | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | October 2025 |
 
 ---
-## 🎯 Other - Projects
+## Other Projects
 
 | Project                                                       | Description                                | Score                                                        | Status | Completion  |
 | ------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------ | ----------- |
@@ -287,7 +287,7 @@ Extra lessons, tax calculations, holiday-themed projects
 | [SurveyForm_freeCodeCamp](https://github.com/vhacman/SurveyForm_freeCodeCamp)   | HTML + CSS | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | ✅     | Completed |
 | [TributePage_FreeCodeCamp](https://github.com/vhacman/TributePage_FreeCodeCamp)   | CSS | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | ✅     | Completed |
 
-## 📬 Connect with Me
+## Connect with Me
 
 - [42 Intra Profile](https://profile.intra.42.fr/users/vhacman)
 - [LinkedIn - Viorica Gabriela Hacman](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
@@ -296,7 +296,7 @@ Extra lessons, tax calculations, holiday-themed projects
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Property Booking Manager — Booking.com - Cazare Casa Andreia (2020 - 2024)
 - Managing digital platform updates and booking systems
@@ -308,7 +308,7 @@ Extra lessons, tax calculations, holiday-themed projects
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Generation Italy** - Java Junior Full Stack Developer (Dec 2025 - Present)
   - Intensive full-time bootcamp focused on Java, Spring Boot, and modern web development
@@ -319,15 +319,15 @@ Extra lessons, tax calculations, holiday-themed projects
 
 ---
 
-## 🌍 Languages
+## Languages
 
-- 🇮🇹 **Italian** – Bilingual
-- 🇬🇧 **English** – C1
-- 🇷🇴 **Romanian** – Native
+- **Italian** – Bilingual
+- **English** – C1
+- **Romanian** – Native
 
 ---
 
-## 🌟 What Sets Me Apart
+## What Sets Me Apart
 
 - Analytical mindset from management experience
 - Strong communication in multiple languages
@@ -337,7 +337,7 @@ Extra lessons, tax calculations, holiday-themed projects
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 - **Java** (Generation Italy Bootcamp)
 - **Spring Boot** (Generation Italy Bootcamp)
