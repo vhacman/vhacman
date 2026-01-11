@@ -13,9 +13,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vgabrielah_/)
 
 ## About Me
-From managing hotel bookings to crafting code—my journey into tech has been anything but conventional. After years coordinating teams and solving real-world problems in hospitality, I discovered my passion for software development. Now I'm diving deep into both low-level C/C++ programming at 42 Roma Luiss and enterprise Java development at Generation Italy, proving that career pivots can lead to exciting new chapters.
+From studying languages and cultures to writing code—my journey into tech started with curiosity and a desire for change. With a degree in Languages and European Cultures (L11) and years of experience in customer service, I know what it means to work hard, solve problems on the spot, and communicate across different worlds.
 
-What makes me different? I speak four languages, I've managed customer-facing operations, and I understand that great code isn't just about syntax—it's about solving real human problems. Whether I'm debugging a segmentation fault or designing a hotel management system, I bring the same curiosity and determination that turned a language student into a software engineer.
+Now I'm fully committed to software development, studying both low-level C/C++ at 42 Roma Luiss and enterprise Java at Generation Italy. What makes me different? I speak four languages fluently, I've learned that persistence beats perfection, and I understand that technology should serve people—not the other way around. Whether I'm debugging a complex algorithm or building a banking system, I approach every challenge with the same determination that got me here: one step at a time, always learning.
 
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
