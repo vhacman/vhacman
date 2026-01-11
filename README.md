@@ -143,26 +143,35 @@ Now I'm fully committed to software development, studying both low-level C/C++ a
 </div>
 
 ---
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/vhacman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Roff,Makefile"/>
-</a>
+![](https://komarev.com/ghpvc/?username=vhacman&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vhacman&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+---
 
 ## Skills
----
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,junit,eclipse,idea,c,cpp,html,css,js,bash,githubactions,gmail,apple,ubuntu,windows,wordpress,githubpages,brave,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
 ---
 
 # Projects Portfolio
