@@ -166,81 +166,41 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 </div>
 
-| Project | Description | Technologies | Status | Timeline |
-|:-----------|:---------------|:----------------|:---------:|:-----------:|
-| [**GenerationStudyJavaCourse**](https://github.com/vhacman/GenerationStudyJavaCourse) | Comprehensive Java programming repository with exercises, examples, and projects from Generation Italy Bootcamp | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | 🔄 **In Progress** | Dec 2025 - Present |
+#### Core Java Development
 
-<details>
-<summary><b>Click to see detailed technical skills learned</b></summary>
+| Project | Category | Technologies | Description | Status |
+|:--------|:---------|:-------------|:------------|:------:|
+| [**JavaBank**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/JavaBank) | Banking System | OOP, Collections | Banking system with accounts and transactions management | ✅ |
+| [**LocalMarketDB**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/LocalMarketDB) | E-commerce | JDBC, SQLite, SQL | E-commerce platform with database integration | ✅ |
+| [**JavItaAirline**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/JavItaAirline) | Airline System | OOP, Date/Time API | Flight reservation and management system | ✅ |
+| [**MonsterHotel**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/MonsterHotel) | Hotel Management | MVC, Service Layer | Hotel booking with room management | ✅ |
+| [**SchoolManagement v2**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/SchoolManagementV2) | Education | Design Patterns | Student and course management with DAO pattern | ✅ |
+| [**NerdLibrary**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/NerdLibrary) | Library System | Collections, File I/O | Book lending and member management | ✅ |
 
-<br>
+#### Transportation & Ticketing Systems
 
-### Core Java Concepts
-- **Object-Oriented Programming**: Classes, Objects, Encapsulation, Inheritance, Polymorphism
-- **Advanced OOP**: Method Overloading/Overriding, Abstract Classes, Interfaces
-- **Data Types & Variables**: Primitive types, Reference types, Type casting
-- **Control Structures**: if/else, switch, for, while, do-while loops
-- **Collections Framework**: ArrayList, HashMap, LinkedList
-- **Exception Handling**: try-catch-finally, custom exceptions
+| Project | Type | Key Concepts | Description | Status |
+|:--------|:-----|:-------------|:------------|:------:|
+| [**BrianzaTaxiService**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/02_Tickets_Transportation/BrianzaTaxiService) | Taxi Service | Inheritance, Polymorphism | Taxi booking with fare calculation system | ✅ |
+| [**MilanoLeccoTrains4**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/02_Tickets_Transportation/MilanoLeccoTrains4) | Train System | Abstract Classes, Enums | Multi-class train ticket system | ✅ |
+| [**MonzaMetro**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/02_Tickets_Transportation/MonzaMetro) | Metro System | OOP, BigDecimal | Metro ticketing with pricing tiers | ✅ |
+| [**DiscotecaTicket**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/02_Tickets_Transportation/DiscotecaTicket) | Event Ticketing | Input Validation, Date API | Event tickets with age restrictions | ✅ |
 
-### Software Architecture & Design Patterns
-- **MVC Architecture**: Model-View-Controller separation
-- **Design Patterns**:
-  - Singleton Pattern (resource management)
-  - Repository/DAO Pattern (data access)
-  - Dependency Injection
-  - Template-based rendering
-- **Service Layer Design**: Business logic separation
-- **Lazy Loading**: Performance optimization techniques
+#### Technical Skills Matrix
 
-### Database & Persistence
-- **JDBC**: Java Database Connectivity
-- **SQLite**: Database operations and management
-- **SQL Queries**: SELECT, INSERT, UPDATE, DELETE
-- **Database Design**: Table relationships, normalization
+| Skill Category | Technologies | Proficiency | Projects Applied |
+|:---------------|:-------------|:-----------:|:-----------------|
+| **Object-Oriented Programming** | Java, Classes, Inheritance, Polymorphism | Advanced | All projects (40+) |
+| **Database Management** | JDBC, SQLite, SQL | Intermediate | LocalMarketDB, SchoolManagement |
+| **Design Patterns** | Singleton, DAO, MVC, Dependency Injection | Intermediate | MonsterHotel, SchoolManagement, NerdLibrary |
+| **Financial Calculations** | BigDecimal, Precision Arithmetic | Intermediate | BrianzaTaxi, MonzaMetro, JavaBank |
+| **Date & Time Handling** | LocalDate, LocalDateTime, Formatting | Intermediate | JavItaAirline, DiscotecaTicket |
+| **Testing** | JUnit, Unit Testing | Beginner | Multiple projects |
+| **Collections Framework** | ArrayList, HashMap, LinkedList | Advanced | All business applications |
 
-### Business Application Development
-- **Financial Calculations**: BigDecimal for precision
-- **Date & Time API**: LocalDate, LocalDateTime, DateTimeFormatter
-- **Input Validation**: Data sanitization and validation
-- **File I/O Operations**: Reading/Writing files
-- **Enum with Methods**: Advanced enum usage
+**Complete Repository**: [GenerationStudyJavaCourse](https://github.com/vhacman/GenerationStudyJavaCourse) - 40+ Projects covering Java fundamentals to advanced enterprise applications
 
-### Testing & Quality
-- **JUnit Testing**: Unit tests, test cases
-- **Code Organization**: Package structure, modularity
-- **Best Practices**: Clean code, naming conventions
-
-### Project Categories (40+ Projects)
-
-#### Fundamentals (01_Fundamentals_Examples/)
-Basic concepts, control structures, loops, OOP basics, encapsulation, inheritance, abstraction
-
-#### Transportation Systems (02_Tickets_Transportation/)
-- **BrianzaTaxi, BrianzaTaxiService**: Taxi booking and fare calculation
-- **BrianzaTrains, MLTrains**: Train ticket systems with multiple classes
-- **MonzaMetro**: Metro ticketing system
-- **DiscotecaTicket**: Event ticketing with age restrictions
-
-#### Business Applications (03_Business_Applications/)
-- **JavaBank**: Banking system with accounts, transactions
-- **JavaBus**: Bus fleet management
-- **JavItaAirline**: Airline reservation system
-- **MonsterHotel, SBHotel**: Hotel booking systems
-- **NerdLibrary**: Library management system
-- **LocalMarket, LocalMarketDB**: E-commerce with database
-- **PokeDex**: Pokemon management system
-- **SchoolManagement v1/v2**: Student and course management
-- **PCWizard, RepairShop**: Computer repair shop management
-- **MuseumTicket**: Museum ticketing with pricing tiers
-
-#### Practice Exercises (04_Exercises_Practice/)
-Extra lessons, tax calculations, holiday-themed projects
-
-### Course Materials
-[Access my Drive folder with all course notes and materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
-
-</details>
+**Course Materials**: [Access my Drive folder with all course notes and materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
 ---
 
