@@ -132,9 +132,9 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Apple](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
@@ -169,6 +169,78 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 | 📁 Project | 📝 Description | 🛠️ Technologies | 📊 Status | 📅 Timeline |
 |:-----------|:---------------|:----------------|:---------:|:-----------:|
 | [**GenerationStudyJavaCourse**](https://github.com/vhacman/GenerationStudyJavaCourse) | Comprehensive Java programming repository with exercises, examples, and projects from Generation Italy Bootcamp | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | 🔄 **In Progress** | Dec 2025 - Present |
+
+<details>
+<summary><b>📚 Click to see detailed technical skills learned</b></summary>
+
+<br>
+
+### 🎯 Core Java Concepts
+- ✅ **Object-Oriented Programming**: Classes, Objects, Encapsulation, Inheritance, Polymorphism
+- ✅ **Advanced OOP**: Method Overloading/Overriding, Abstract Classes, Interfaces
+- ✅ **Data Types & Variables**: Primitive types, Reference types, Type casting
+- ✅ **Control Structures**: if/else, switch, for, while, do-while loops
+- ✅ **Collections Framework**: ArrayList, HashMap, LinkedList
+- ✅ **Exception Handling**: try-catch-finally, custom exceptions
+
+### 🏗️ Software Architecture & Design Patterns
+- ✅ **MVC Architecture**: Model-View-Controller separation
+- ✅ **Design Patterns**:
+  - Singleton Pattern (resource management)
+  - Repository/DAO Pattern (data access)
+  - Dependency Injection
+  - Template-based rendering
+- ✅ **Service Layer Design**: Business logic separation
+- ✅ **Lazy Loading**: Performance optimization techniques
+
+### 🗄️ Database & Persistence
+- ✅ **JDBC**: Java Database Connectivity
+- ✅ **SQLite**: Database operations and management
+- ✅ **SQL Queries**: SELECT, INSERT, UPDATE, DELETE
+- ✅ **Database Design**: Table relationships, normalization
+
+### 💼 Business Application Development
+- ✅ **Financial Calculations**: BigDecimal for precision
+- ✅ **Date & Time API**: LocalDate, LocalDateTime, DateTimeFormatter
+- ✅ **Input Validation**: Data sanitization and validation
+- ✅ **File I/O Operations**: Reading/Writing files
+- ✅ **Enum with Methods**: Advanced enum usage
+
+### 🧪 Testing & Quality
+- ✅ **JUnit Testing**: Unit tests, test cases
+- ✅ **Code Organization**: Package structure, modularity
+- ✅ **Best Practices**: Clean code, naming conventions
+
+### 📂 Project Categories (40+ Projects)
+
+#### 🎓 Fundamentals (01_Fundamentals_Examples/)
+Basic concepts, control structures, loops, OOP basics, encapsulation, inheritance, abstraction
+
+#### 🚆 Transportation Systems (02_Tickets_Transportation/)
+- **BrianzaTaxi, BrianzaTaxiService**: Taxi booking and fare calculation
+- **BrianzaTrains, MLTrains**: Train ticket systems with multiple classes
+- **MonzaMetro**: Metro ticketing system
+- **DiscotecaTicket**: Event ticketing with age restrictions
+
+#### 💼 Business Applications (03_Business_Applications/)
+- **JavaBank**: Banking system with accounts, transactions
+- **JavaBus**: Bus fleet management
+- **JavItaAirline**: Airline reservation system
+- **MonsterHotel, SBHotel**: Hotel booking systems
+- **NerdLibrary**: Library management system
+- **LocalMarket, LocalMarketDB**: E-commerce with database
+- **PokeDex**: Pokemon management system
+- **SchoolManagement v1/v2**: Student and course management
+- **PCWizard, RepairShop**: Computer repair shop management
+- **MuseumTicket**: Museum ticketing with pricing tiers
+
+#### 🎯 Practice Exercises (04_Exercises_Practice/)
+Extra lessons, tax calculations, holiday-themed projects
+
+### 📖 Course Materials
+[Access my Drive folder with all course notes and materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
+
+</details>
 
 ---
 
