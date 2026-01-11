@@ -15,14 +15,18 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
----
+# 🎓 My Learning Journey
 
-## 🌟 Currently Learning at Generation Italy
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">
+## <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=for-the-badge&logo=java&logoColor=white" alt="Generation Italy">
 
-### 🎓 **Java Junior Full Stack Developer Bootcamp**
+### 🌟 Java Junior Full Stack Developer Bootcamp
+**December 2025 - Present** | **Intensive Full-Time Program**
 
+#### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,23 +34,47 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**December 2025 - Present** | **Intensive Full-Time Program**
+#### 📚 Learning Focus
+- ☕ **Backend**: Java, Spring Boot, RESTful APIs
+- 🎨 **Frontend**: HTML5, CSS3, JavaScript, React
+- 🗄️ **Database**: SQL, MySQL
+- 🏗️ **Architecture**: OOP, Design Patterns
+- 🔄 **Methodology**: Agile, Scrum
+- 🤝 **Soft Skills**: Teamwork, Problem-solving
 
-</div>
+#### 📂 Project Repository
+[![GenerationStudyJavaCourse](https://img.shields.io/badge/View_Repository-Generation_Java_Course-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
 
-#### 📚 What I'm Learning:
-- **Backend Development**: Java, Spring Boot, RESTful APIs
-- **Frontend Development**: HTML5, CSS3, JavaScript, React basics
-- **Database Management**: SQL, MySQL
-- **Software Architecture**: OOP principles, Design Patterns
-- **Version Control**: Git & GitHub workflows
-- **Agile Methodologies**: Scrum, Team collaboration
-- **Professional Skills**: Problem-solving, Communication, Teamwork
+</td>
+<td width="50%" valign="top">
 
-#### 🎯 Generation Italy Project Repository:
-[![GenerationStudyJavaCourse](https://img.shields.io/badge/📂_View_Repository-Generation_Java_Course-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
+## <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=for-the-badge&logo=42&logoColor=white" alt="42 School">
 
-This repository contains Java programming examples, exercises, and projects from my journey at Generation Italy, showcasing my progress in becoming a Full Stack Java Developer.
+### 💻 Software Engineering Program
+**2024 - Present** | **Peer-to-Peer Learning**
+
+#### 🛠️ Tech Stack
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### 📚 Learning Focus
+- 🔧 **Low-Level**: C/C++ Programming
+- 💾 **System**: Unix/Linux Administration
+- 🧠 **Algorithms**: Data Structures, Optimization
+- 🔀 **Concurrency**: Threading, Process Management
+- 🌐 **Networking**: TCP/IP, Socket Programming
+- 🎮 **Graphics**: MinilibX, Game Development
+
+#### 📊 42 Progress
+[![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -85,32 +113,51 @@ This repository contains Java programming examples, exercises, and projects from
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,junit,eclipse,idea,c,cpp,html,css,js,bash,githubactions,gmail,apple,ubuntu,windows,wordpress,githubpages,brave,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
 ---
 
-## 🎯 Generation Italy - Projects
+# 📂 Projects Portfolio
 
-| Project                                                       | Description                                | Technologies | Status | Completion  |
-| ------------------------------------------------------------- | ------------------------------------------ | ------------ | ------ | ----------- |
-| [GenerationStudyJavaCourse](https://github.com/vhacman/GenerationStudyJavaCourse)| Java programming examples and exercises from Generation Italy Bootcamp | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | 🔄 | In Progress |
+## <img src="https://img.shields.io/badge/Generation_Italy-Projects-FF6B35?style=for-the-badge&logo=java&logoColor=white" width="300">
+
+<div align="center">
+
+### ☕ Full Stack Java Development Journey
+
+</div>
+
+| 📁 Project | 📝 Description | 🛠️ Technologies | 📊 Status | 📅 Timeline |
+|:-----------|:---------------|:----------------|:---------:|:-----------:|
+| [**GenerationStudyJavaCourse**](https://github.com/vhacman/GenerationStudyJavaCourse) | Comprehensive Java programming repository with exercises, examples, and projects from Generation Italy Bootcamp | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | 🔄 **In Progress** | Dec 2025 - Present |
 
 ---
 
-## 🎯 42 - Projects
+## <img src="https://img.shields.io/badge/42_School-Projects-2BA5DE?style=for-the-badge&logo=42&logoColor=white" width="250">
 
-| Project                                                         | Description                            | Score                                                   | Status | Completion    |
-|------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------|--------|---------------|
-| [libft](https://github.com/vhacman/libft)                        | C Standard Library Recreation            | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | January 2025  |
-| [ft_printf](https://github.com/vhacman/printf)                   | Printf Function Implementation         | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | February 2025 |
-| [get_next_line](https://github.com/vhacman/get_next_line)        | Read File Descriptors by Lines         | ![Score](https://img.shields.io/badge/Score-125%2F100-brightgreen)  | ✅      | March 2025    |
-| [Born2beroot](https://github.com/vhacman/Born2beroot)            | System Administration                  | ![Score](https://img.shields.io/badge/Score-110%2F100-brightgreen)  | ✅      | February 2025 |
-| [Pipex](https://github.com/vhacman/pipex)                        | Unix Pipe Execution Simulation         | ![Score](https://img.shields.io/badge/Score-108%2F100-brightgreen)  | ✅      | March 2025    |
-| [Push-Swap](https://github.com/vhacman/push_swap)                | Algorithmic Sorting Logic              | ![Score](https://img.shields.io/badge/Score-90%2F100-brightgreen)   | ✅      | April 2025    |
-| [so_long](https://github.com/vhacman/so_long)                    | 2D Mini Game with Basic Graphics Logic | ![Score](https://img.shields.io/badge/Score-122%2F100-brightgreen)  | ✅      | March 2025    |
-| [Philo](https://github.com/vhacman/philo)                        | Dining Philosophers Synchronization    | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | July 2025      |
-| [Minishell](https://github.com/vhacman/minishell)                | Build a shell on Bash example         | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | August 2025      |
-| [CPP00 ](https://github.com/vhacman/CPP00)                       |C++ Basics: namespaces, classes, member functions, I/O streams| ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
-| [CPP01 ](https://github.com/vhacman/CPP01)                       |C++ Basics: memory allocation, pointers to members, references, switch | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | September  2025      |
-| [NetPractice ](https://github.com/vhacman/Net_Practice)          |IP Networking Simulation: IPv4 addressing, subnetting, routing tables, and gateway configuration | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | October 2025      |
-| [CPP02 ](https://github.com/vhacman/CPP02)                       |Operator overloading, Fixed-point numbers, comparison operators, arithmetic operators, increment/decrement operators, static member functions, stream insertion operator, Binary Space Partitioning | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | October 2025      |
-| [CPP03 ](https://github.com/vhacman/CPP03)                       |Advanced Object-Oriented Programming in C++: inheritance (single & multiple), virtual inheritance (diamond problem resolution), constructors/destructors in inheritance chains, runtime polymorphism with virtual functions | ![Score](https://img.shields.io/badge/Score-100%2F100-brightgreen)  | ✅      | October 2025      |
+<div align="center">
+
+### 💻 Low-Level Programming & System Administration
+
+</div>
+
+| 📁 Project | 📝 Description | 💯 Score | ✅ Status | 📅 Completion |
+|:-----------|:---------------|:--------:|:---------:|:-------------:|
+| [**libft**](https://github.com/vhacman/libft) | C Standard Library Recreation - Building custom implementations of libc functions | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | January 2025 |
+| [**ft_printf**](https://github.com/vhacman/printf) | Printf Function Implementation - Recreating the famous printf function | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | February 2025 |
+| [**get_next_line**](https://github.com/vhacman/get_next_line) | File Reading Function - Read file descriptors line by line | ![Score](https://img.shields.io/badge/125%2F100-brightgreen) | ✅ ⭐ | March 2025 |
+| [**Born2beroot**](https://github.com/vhacman/Born2beroot) | System Administration - Virtual machine setup and security configuration | ![Score](https://img.shields.io/badge/110%2F100-brightgreen) | ✅ ⭐ | February 2025 |
+| [**Pipex**](https://github.com/vhacman/pipex) | Unix Pipe Execution - Simulating shell pipe behavior in C | ![Score](https://img.shields.io/badge/108%2F100-brightgreen) | ✅ ⭐ | March 2025 |
+| [**Push-Swap**](https://github.com/vhacman/push_swap) | Sorting Algorithm - Optimizing stack operations for efficient sorting | ![Score](https://img.shields.io/badge/90%2F100-brightgreen) | ✅ | April 2025 |
+| [**so_long**](https://github.com/vhacman/so_long) | 2D Game Development - Creating a simple game with MinilibX | ![Score](https://img.shields.io/badge/122%2F100-brightgreen) | ✅ ⭐ | March 2025 |
+| [**Philosophers**](https://github.com/vhacman/philo) | Threading & Synchronization - Solving the dining philosophers problem | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | July 2025 |
+| [**Minishell**](https://github.com/vhacman/minishell) | Shell Implementation - Building a bash-like shell from scratch | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | August 2025 |
+| [**NetPractice**](https://github.com/vhacman/Net_Practice) | Network Configuration - IP addressing, subnetting, routing tables | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | October 2025 |
+
+#### 🔷 C++ Module Series
+
+| 📁 Module | 📝 Focus Areas | 💯 Score | ✅ Status | 📅 Completion |
+|:----------|:---------------|:--------:|:---------:|:-------------:|
+| [**CPP00**](https://github.com/vhacman/CPP00) | Namespaces, classes, member functions, I/O streams, initialization lists | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | September 2025 |
+| [**CPP01**](https://github.com/vhacman/CPP01) | Memory allocation, pointers to members, references, switch statements | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | September 2025 |
+| [**CPP02**](https://github.com/vhacman/CPP02) | Operator overloading, fixed-point numbers, canonical form | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | October 2025 |
+| [**CPP03**](https://github.com/vhacman/CPP03) | Inheritance (single & multiple), virtual inheritance, diamond problem | ![Score](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ | October 2025 |
 
 ---
 ## 🎯 Other - Projects
