@@ -82,18 +82,61 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## 🛠️ Languages and Tools
 
-| Language / Tool | Experience      |
-|------------------|----------------|
-| **Java**            | **Generation Italy** |
-| **IntelliJ IDEA**   | **Java IDE**     |
-| **Eclipse**         | **Java IDE**     |
-| C               | 42 School      |
-| C++              | 42 School      |
-| HTML            | Coursera + Generation      |
-| CSS             | Coursera + Generation      |
-| JavaScript      | Generation Italy |
-| Git & GitHub    | Daily Use      |
-| VSCode          | Main Editor    |
+<div align="center">
+
+### 💼 Professional Tech Stack
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌟 Generation Italy Stack
+
+| Technology | Proficiency | Usage |
+|:-----------|:-----------:|:------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | 🔄 Learning | Backend Development |
+| ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | 🔄 Learning | Framework |
+| ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | 🔄 Learning | Database |
+| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | 🔄 Learning | IDE |
+| ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) | 🔄 Learning | IDE |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | 🔄 Learning | Frontend |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | 🔄 Learning | Styling |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | 🔄 Learning | Frontend |
+
+</td>
+<td width="50%" valign="top">
+
+#### 💻 42 School Stack
+
+| Technology | Proficiency | Usage |
+|:-----------|:-----------:|:------|
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ⭐⭐⭐ Advanced | Low-level Programming |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐ Advanced | OOP & Algorithms |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐ Intermediate | Scripting |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ⭐⭐⭐ Advanced | System Admin |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐ Advanced | Version Control |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ⭐⭐ Intermediate | Containerization |
+| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ⭐⭐⭐ Advanced | Code Editor |
+| ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) | ⭐⭐ Intermediate | Terminal Editor |
+
+</td>
+</tr>
+</table>
+
+#### 🔧 Additional Tools & Platforms
+
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Apple](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
 
 ---
 ## 📈 GitHub Stats
