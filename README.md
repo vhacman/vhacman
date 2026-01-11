@@ -13,7 +13,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vgabrielah_/)
 
 ## About Me
-Multilingual Software Engineering student at 42 Roma Luiss, passionate about problem-solving and technology. With a background in Languages and European Cultures, I bring a unique perspective to coding and development. I love turning complex problems into simple, beautiful solutions.
+From managing hotel bookings to crafting code—my journey into tech has been anything but conventional. After years coordinating teams and solving real-world problems in hospitality, I discovered my passion for software development. Now I'm diving deep into both low-level C/C++ programming at 42 Roma Luiss and enterprise Java development at Generation Italy, proving that career pivots can lead to exciting new chapters.
+
+What makes me different? I speak four languages, I've managed customer-facing operations, and I understand that great code isn't just about syntax—it's about solving real human problems. Whether I'm debugging a segmentation fault or designing a hotel management system, I bring the same curiosity and determination that turned a language student into a software engineer.
 
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
