@@ -13,7 +13,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vgabrielah_/)
 
 ## Chi Sono
-Studentessa multilingue di Ingegneria del Software e Sviluppo Software presso 42 Roma Luiss, appassionata di problem-solving e tecnologia. Con un background in Lingue e Culture Europee, porto una prospettiva unica nella programmazione e nello sviluppo. Amo trasformare problemi complessi in soluzioni semplici ed eleganti.
+Dallo studio delle lingue e delle culture alla scrittura di codice—il mio percorso nel tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in Lingue e Culture Europee (L11) e anni di esperienza nel servizio clienti, so cosa significa lavorare sodo, risolvere problemi sul momento e comunicare tra mondi diversi.
+
+Ora sono completamente dedicata allo sviluppo software, studiando sia programmazione low-level in C/C++ alla 42 Roma Luiss che Java enterprise presso Generation Italy. Cosa mi rende diversa? Parlo quattro lingue fluentemente, ho imparato che la perseveranza batte la perfezione, e capisco che la tecnologia deve servire le persone—non il contrario. Che io stia debuggando un algoritmo complesso o costruendo un sistema bancario, affronto ogni sfida con la stessa determinazione che mi ha portato qui: un passo alla volta, sempre imparando.
 
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
