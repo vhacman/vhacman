@@ -13,7 +13,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vgabrielah_/)
 
 ## Chi Sono
-Studentessa multilingue di Ingegneria del Software presso 42 Roma Luiss, appassionata di problem-solving e tecnologia. Con un background in Lingue e Culture Europee, porto una prospettiva unica nella programmazione e nello sviluppo. Amo trasformare problemi complessi in soluzioni semplici ed eleganti.
+Studentessa multilingue di Ingegneria del Software e Sviluppo Software presso 42 Roma Luiss, appassionata di problem-solving e tecnologia. Con un background in Lingue e Culture Europee, porto una prospettiva unica nella programmazione e nello sviluppo. Amo trasformare problemi complessi in soluzioni semplici ed eleganti.
 
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
