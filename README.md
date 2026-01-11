@@ -147,25 +147,18 @@ Now I'm fully committed to software development, studying both low-level C/C++ a
 
 <div align="center">
 
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight&hide_border=true&hide=Roff,Makefile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vhacman&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<a href="https://github.com/vhacman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=Roff,Makefile"/>
+</a>
 
 </div>
-
-### GitHub Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vhacman&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
-
-### GitHub Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
 ---
