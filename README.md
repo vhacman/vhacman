@@ -1,8 +1,8 @@
-# Hi there, I'm Gabriela 
+# Hi there, I'm Gabriela
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile%20views&color=0e75b6&style=flat)
 ![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
-![Static Badge](https://img.shields.io/badge/School%3AGeneration-Italy)
+![Static Badge](https://img.shields.io/badge/School%3AGeneration-Italy-FF6B35?style=flat&logo=java&logoColor=white)
 
 ##  Connect with Me
 
@@ -15,21 +15,57 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 [![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
 
-## dispense di teoria per chi ne ha bisogno a: [dispense](https://github.com/vhacman/brainstack-programming-notions) 
+---
+
+## 🌟 Currently Learning at Generation Italy
+
+<div align="center">
+
+### 🎓 **Java Junior Full Stack Developer Bootcamp**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**December 2025 - Present** | **Intensive Full-Time Program**
+
+</div>
+
+#### 📚 What I'm Learning:
+- **Backend Development**: Java, Spring Boot, RESTful APIs
+- **Frontend Development**: HTML5, CSS3, JavaScript, React basics
+- **Database Management**: SQL, MySQL
+- **Software Architecture**: OOP principles, Design Patterns
+- **Version Control**: Git & GitHub workflows
+- **Agile Methodologies**: Scrum, Team collaboration
+- **Professional Skills**: Problem-solving, Communication, Teamwork
+
+#### 🎯 Generation Italy Project Repository:
+[![GenerationStudyJavaCourse](https://img.shields.io/badge/📂_View_Repository-Generation_Java_Course-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
+
+This repository contains Java programming examples, exercises, and projects from my journey at Generation Italy, showcasing my progress in becoming a Full Stack Java Developer.
+
+---
+
+## dispense di teoria per chi ne ha bisogno a: [dispense](https://github.com/vhacman/brainstack-programming-notions)
 
 ## 🛠️ Languages and Tools
 
 | Language / Tool | Experience      |
 |------------------|----------------|
+| **Java**            | **Generation Italy** |
+| **IntelliJ IDEA**   | **Java IDE**     |
+| **Eclipse**         | **Java IDE**     |
 | C               | 42 School      |
-| HTML            | Coursera      |
+| C++              | 42 School      |
+| HTML            | Coursera + Generation      |
+| CSS             | Coursera + Generation      |
+| JavaScript      | Generation Italy |
 | Git & GitHub    | Daily Use      |
 | VSCode          | Main Editor    |
-| CSS             | Coursera      |
-|C++              | 42 School      | 
-|Java             |Generation Italy |
-|Intellij         | Java IDE     |
-|Eclipse          |Java IDE      |
 
 ---
 ## 📈 GitHub Stats
@@ -46,8 +82,17 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## 🧠 SKills
 ---
-[![My Skills](https://skillicons.dev/icons?i=junit,java,eclipse,apple,bash,c,cpp,githubactions,gmail,idea,linkedin,ubuntu,windows,wordpress,githubpages,brave,html,css,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,junit,eclipse,idea,c,cpp,html,css,js,bash,githubactions,gmail,apple,ubuntu,windows,wordpress,githubpages,brave,vim,vscode,linux,github,&theme=light)](https://skillicons.dev)
 ---
+
+## 🎯 Generation Italy - Projects
+
+| Project                                                       | Description                                | Technologies | Status | Completion  |
+| ------------------------------------------------------------- | ------------------------------------------ | ------------ | ------ | ----------- |
+| [GenerationStudyJavaCourse](https://github.com/vhacman/GenerationStudyJavaCourse)| Java programming examples and exercises from Generation Italy Bootcamp | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | 🔄 | In Progress |
+
+---
+
 ## 🎯 42 - Projects
 
 | Project                                                         | Description                            | Score                                                   | Status | Completion    |
@@ -72,7 +117,6 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 | Project                                                       | Description                                | Score                                                        | Status | Completion  |
 | ------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------------------ | ------ | ----------- |
-| [GenerationStudyJavaCourse](https://github.com/vhacman/GenerationStudyJavaCourse)| This repository contains Java programming examples and exercises from the Generation Study Java Course.| ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | In Progress |
 | [JS---Practice](https://github.com/vhacman/JS---Practice)     | JavaScript exercises and theory            | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | Pause |
 | [HTML---Practice](https://github.com/vhacman/HTML---Practice) | Exercises, Theory and more                 | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | Pause |
 | [CSS---practice](https://github.com/vhacman/CSS---practice)   | CSS - practice, exercises, theory and more | ![Score](https://img.shields.io/badge/Score-N%2FA-lightgrey) | 🔄     | Pause |
@@ -104,15 +148,20 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 ## 🎓 Education
 
-- **Generation Italy** (Dec 2025 - Present)
+- **Generation Italy** - Java Junior Full Stack Developer (Dec 2025 - Present)
+  - Intensive full-time bootcamp focused on Java, Spring Boot, and modern web development
 - **42 Roma Luiss** - Software Engineering (2024 - Present)
 - **Università e-Campus** - Languages and European Cultures (2022 - 2024) - Grade: 95/110
 - **Master in Social Media Management** - Future Academy (2022 - 2023)
 - **Liceo Linguistico** - Italian, English, German, French (2013 - 2018) - Grade: 95/100
 
 ---
+
 ## 🌍 Languages
 
+- 🇮🇹 **Italian** – Bilingual
+- 🇬🇧 **English** – C1
+- 🇷🇴 **Romanian** – Native
 
 ---
 
@@ -122,20 +171,19 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 - Strong communication in multiple languages
 - Data-driven problem solving
 - Team collaboration and adaptability
-- 🇮🇹 **Italian** – Bilingual  
-- 🇬🇧 **English** – C1  
-- 🇷🇴 **Romanian** – Native  
+- Currently expanding skills with Java Full Stack Development at Generation Italy
 
 ---
 
 ## 📚 Currently Learning
 
-- C
-- C++
-- HTML
-- CSS
-- Javascript
-- Java
+- **Java** (Generation Italy Bootcamp)
+- **Spring Boot** (Generation Italy Bootcamp)
+- **MySQL & Database Design** (Generation Italy Bootcamp)
+- **JavaScript & React** (Generation Italy Bootcamp)
+- C++ (42 School)
+- Advanced algorithms and data structures
+
 ---
 
 📍 Based in Ladispoli, Rome (Italy)
@@ -147,12 +195,12 @@ Multilingual Software Engineering student at 42 Roma Luiss, passionate about pro
 
 Disclaimer and Privacy Considerations
 
-Please be aware that information shared publicly online, 
+Please be aware that information shared publicly online,
 including email addresses associated with contributions to this repository,
 can potentially be collected and analyzed. This repository is shared with the
 understanding that such collection may occur.
 
-The owner of this repository reserves the right to take appropriate and lawful 
-action if any publicly available information related to this repository is misused 
-in a manner that causes harm or violates privacy rights. By interacting with this repository, 
+The owner of this repository reserves the right to take appropriate and lawful
+action if any publicly available information related to this repository is misused
+in a manner that causes harm or violates privacy rights. By interacting with this repository,
 you acknowledge and understand these considerations.
