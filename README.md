@@ -17,7 +17,7 @@ From studying languages and cultures to writing code—my journey into tech star
 
 Now I'm fully committed to software development, studying both low-level C/C++ at 42 Roma Luiss and enterprise Java at Generation Italy. What makes me different? I speak four languages fluently, I've learned that persistence beats perfection, and I understand that technology should serve people—not the other way around. Whether I'm debugging a complex algorithm or building a banking system, I approach every challenge with the same determination that got me here: one step at a time, always learning.
 
-[![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
+[![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
 # My Learning Journey
 
@@ -74,7 +74,7 @@ Now I'm fully committed to software development, studying both low-level C/C++ a
 - **Graphics**: MinilibX, Game Development
 
 #### 42 Progress
-[![<vhacman>'s 42 stats](https://badge.mediaplus.ma/starryblue/<vhacman>)](https://github.com/oakoudad/badge42)
+[![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
 </td>
 </tr>
@@ -145,15 +145,27 @@ Now I'm fully committed to software development, studying both low-level C/C++ a
 ---
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&theme=onedark&hide=Roff,Makefile)](https://github.com/vhacman/github-readme-stats)
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=onedark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vhacman&theme=onedark)](https://git.io/streak-stats )
+<div align="center">
+
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight&hide_border=true&hide=Roff,Makefile&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vhacman&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
 
 ### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ### GitHub Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Skills
 ---
