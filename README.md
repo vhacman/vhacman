@@ -359,7 +359,6 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 - **Network Programming**: TCP/IP, routing, subnetting
 - **Graphics**: MinilibX, event handling, game loops
 - **C++ OOP**: Classes, inheritance, polymorphism, operator overloading
-- **Shell Programming**: Parsing, execution, pipes, redirections
 
 ---
 
@@ -380,6 +379,40 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vhacman&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+### 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vhacman&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 💻 Most Used Languages
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
 
