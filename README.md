@@ -79,7 +79,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 ## <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=for-the-badge&logo=42&logoColor=white" alt="42 School">
 
 ### Software Engineering Program
-**March 2024 - Present** | **Peer-to-Peer Learning**
+**October 2024 - Present** | **Peer-to-Peer Learning**
 
 #### Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
