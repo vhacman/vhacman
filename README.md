@@ -8,7 +8,7 @@
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090802467237)
@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 From studying languages and cultures to writing code—my journey into tech started with curiosity and a desire for change. With a degree in **Languages and European Cultures (L11)** and years of experience in customer service and team management, I know what it means to work hard, solve problems on the spot, and communicate across different worlds.
 
@@ -33,7 +33,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-# 🎓 My Learning Journey
+# My Learning Journey
 
 <table>
 <tr>
@@ -44,7 +44,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 ### Java Junior Full Stack Developer Bootcamp
 **December 2024 - March 2025** | **600+ Hours Intensive Program**
 
-#### 🎯 Tech Stack
+#### Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -52,7 +52,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### 📚 Learning Focus
+#### Learning Focus
 - **Backend Development**: Java Core, Spring Boot, RESTful APIs, Microservices
 - **Database Management**: MySQL, JDBC, SQL, Database Design
 - **Frontend Development**: HTML5, CSS3, JavaScript, React (upcoming)
@@ -61,17 +61,17 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 - **Methodology**: Agile, Scrum, Team Collaboration
 - **Soft Skills**: Problem-solving, Critical Thinking, Communication
 
-#### 🏆 Key Achievements
+#### Key Achievements
 - **24 Business Applications** built from scratch
 - **9 Transportation Systems** with complex ticketing logic
 - **Advanced Design Patterns**: Repository, Factory, ETL, Service Layer
 - **Database Integration**: JDBC, SQLite, MySQL
 - **Enterprise Features**: CSV Import/Export, Validation Systems, Italian Tax Code validation
 
-#### 📂 Project Repository
+#### Project Repository
 [![GenerationStudyJavaCourse](https://img.shields.io/badge/View_Repository-48_Java_Projects-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
 
-**📖 Course Materials**: [Drive Folder with Notes & Materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
+**Course Materials**: [Drive Folder with Notes & Materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
 </td>
 <td width="50%" valign="top">
@@ -81,15 +81,14 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 ### Software Engineering Program
 **March 2024 - Present** | **Peer-to-Peer Learning**
 
-#### 🎯 Tech Stack
+#### Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 📚 Learning Focus
+#### Learning Focus
 - **Low-Level Programming**: C/C++, Memory Management, Pointers
 - **System Programming**: Unix/Linux, Process Management, File Descriptors
 - **Algorithms & Data Structures**: Sorting, Searching, Optimization
@@ -98,14 +97,14 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 - **Graphics Programming**: MinilibX, Game Development
 - **Object-Oriented C++**: Classes, Inheritance, Polymorphism, Operator Overloading
 
-#### 🏆 Key Achievements
+#### Key Achievements
 - **14+ Projects Completed** with scores 90-125/100
 - **4 Bonus Stars** for exceptional implementations
 - **100% Pass Rate** on evaluations
 - **Perfect Score** on multiple complex projects (libft, ft_printf, Philosophers, Minishell)
 - **Advanced C++ Mastery**: 4 modules completed covering OOP fundamentals to advanced inheritance
 
-#### 📊 Current Progress
+#### Current Progress
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
 </td>
@@ -114,13 +113,13 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 📖 Dispense e Risorse
+## Dispense e Risorse
 
-🎓 **Dispense teoriche di programmazione**: [BrainStack Programming Notions](https://github.com/vhacman/brainstack-programming-notions)
+**Dispense teoriche di programmazione**: [BrainStack Programming Notions](https://github.com/vhacman/brainstack-programming-notions)
 
 ---
 
-# 💻 Languages and Tools
+# Languages and Tools
 
 <div align="center">
 
@@ -158,7 +157,6 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐⭐⭐ | Shell Scripting, Automation |
 | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ⭐⭐⭐⭐ | System Administration, Unix Tools |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ | Version Control, Collaboration |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ⭐⭐⭐ | Containerization, DevOps |
 | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ⭐⭐⭐⭐⭐ | Code Editor |
 | ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) | ⭐⭐⭐ | Terminal Editor |
 | ![Make](https://img.shields.io/badge/Make-427819?style=flat&logo=cmake&logoColor=white) | ⭐⭐⭐⭐ | Build Automation |
@@ -182,7 +180,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-# 🎯 Projects Portfolio
+# Projects Portfolio
 
 ## <img src="https://img.shields.io/badge/Generation_Italy-48_Java_Projects-FF6B35?style=for-the-badge&logo=java&logoColor=white">
 
@@ -192,25 +190,25 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 **Complete Repository**: [![GenerationStudyJavaCourse](https://img.shields.io/badge/GitHub-GenerationStudyJavaCourse-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
 
-**Documentation**: 📚 [Complete Project Documentation](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/docs)
+**Documentation**: [Complete Project Documentation](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/docs)
 
 </div>
 
-### 🌟 Featured Projects - Advanced Enterprise Systems
+### Featured Projects - Advanced Enterprise Systems
 
 | Project | Category | Key Technologies | Highlights | Links |
 |:--------|:---------|:----------------|:-----------|:------|
-| **GrottammareB&B** | B&B Management | Repository Pattern, Factory DI, ETL, Service Layer, CSV Import | Italian Tax Code validation, Expense management with categories, CSV data import/export | [📁 Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/GrottammareB%26B) \| [📖 Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/grottammareBB.md) |
-| **NSMPI** | Healthcare System | Factory, Strategy, Template Method, ETL | Multiple view strategies (Full, Anonymous, Financial), Dynamic rendering, Doctor & Patient management | [📁 Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/NSMPI) \| [📖 Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/nsmpi.md) |
-| **LocalMarketDB** | E-commerce | JDBC, SQLite, SQL, Database Design | Complete e-commerce with persistent storage, Shopping cart, Product catalog | [📁 Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/LocalMarketDB) \| [📖 Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/local-market-db.md) |
-| **JavaBank** | Banking System | OOP, Collections, Transactions | Multi-account management, Transaction history, Balance operations | [📁 Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/JavaBank) \| [📖 Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/java-bank.md) |
-| **MonsterHotel** | Hotel Management | MVC, Service Layer | Room booking system, Guest management, Availability tracking | [📁 Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/MonsterHotel) \| [📖 Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/monster-hotel.md) |
-| **SchoolManagement v2** | Education Platform | DAO Pattern, Advanced Design | Student/Course management, Grade tracking, Enrollment system | [📁 Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/SchoolManagement_v2) \| [📖 Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/school-management-v2.md) |
+| **GrottammareB&B** | B&B Management | Repository Pattern, Factory DI, ETL, Service Layer, CSV Import | Italian Tax Code validation, Expense management with categories, CSV data import/export | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/GrottammareB%26B) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/grottammareBB.md) |
+| **NSMPI** | Healthcare System | Factory, Strategy, Template Method, ETL | Multiple view strategies (Full, Anonymous, Financial), Dynamic rendering, Doctor & Patient management | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/NSMPI) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/nsmpi.md) |
+| **LocalMarketDB** | E-commerce | JDBC, SQLite, SQL, Database Design | Complete e-commerce with persistent storage, Shopping cart, Product catalog | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/LocalMarketDB) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/local-market-db.md) |
+| **JavaBank** | Banking System | OOP, Collections, Transactions | Multi-account management, Transaction history, Balance operations | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/JavaBank) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/java-bank.md) |
+| **MonsterHotel** | Hotel Management | MVC, Service Layer | Room booking system, Guest management, Availability tracking | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/MonsterHotel) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/monster-hotel.md) |
+| **SchoolManagement v2** | Education Platform | DAO Pattern, Advanced Design | Student/Course management, Grade tracking, Enrollment system | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/SchoolManagement_v2) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/docs/03-business-applications/school-management-v2.md) |
 
-### 💼 Business Applications (24 Projects)
+### Business Applications (24 Projects)
 
 <details>
-<summary><b>📊 View All Business Applications</b></summary>
+<summary><b>View All Business Applications</b></summary>
 
 #### Banking & Financial
 - [**JavaBank**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/JavaBank) - Complete banking system with accounts & transactions
@@ -256,10 +254,10 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 </details>
 
-### 🚆 Transportation & Ticketing Systems (9 Projects)
+### Transportation & Ticketing Systems (9 Projects)
 
 <details>
-<summary><b>🎫 View All Transportation Projects</b></summary>
+<summary><b>View All Transportation Projects</b></summary>
 
 - [**MilanoLeccoTrains4**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/02_Tickets_Transportation/MIlanoLeccoTrains4) - Multi-class train system (Abstract Classes, Enums)
 - [**BrianzaTaxiService**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/02_Tickets_Transportation/BrianzaTaxiService) - Taxi booking with fare calculation
@@ -273,10 +271,10 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 </details>
 
-### 📚 Fundamentals & Practice (15+ Projects)
+### Fundamentals & Practice (15+ Projects)
 
 <details>
-<summary><b>💡 View Fundamentals Projects</b></summary>
+<summary><b>View Fundamentals Projects</b></summary>
 
 - **Modulo 4** - Loops & Iterations
 - **Modulo 6** - OOP Basics
@@ -286,11 +284,11 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 - **Modulo 10** - Polymorphism & Interfaces (includes reusable library: Entity, FileReader, FileWriter, Template)
 - **Exercises** - ChristmasTime, Taxes, Extra Lessons
 
-📖 [Complete Fundamentals Documentation](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/docs/02-fundamentals)
+[Complete Fundamentals Documentation](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/docs/02-fundamentals)
 
 </details>
 
-### 🛠️ Technical Skills Demonstrated
+### Technical Skills Demonstrated
 
 | Skill Category | Technologies | Projects Applied |
 |:---------------|:-------------|:-----------------|
@@ -312,7 +310,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 </div>
 
-### 🌟 Featured 42 Projects
+### Featured 42 Projects
 
 | Project | Description | Technologies | Score | Completion |
 |:--------|:------------|:-------------|:-----:|:----------:|
@@ -321,10 +319,10 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 | [**Push_swap**](https://github.com/vhacman/push_swap) | Optimized stack sorting algorithm | C, Algorithms | ![90/100](https://img.shields.io/badge/90%2F100-brightgreen) | Apr 2025 |
 | [**so_long**](https://github.com/vhacman/so_long) | 2D game with MinilibX | C, Graphics Programming | ![122/100](https://img.shields.io/badge/122%2F100-brightgreen) ⭐ | Mar 2025 |
 
-### 📋 All 42 Projects
+### All 42 Projects
 
 <details>
-<summary><b>🔍 View All 42 Projects (14+ Completed)</b></summary>
+<summary><b>View All 42 Projects (14+ Completed)</b></summary>
 
 #### Core C Projects
 
@@ -352,7 +350,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 </details>
 
-### 🎯 42 Skills Mastered
+### 42 Skills Mastered
 
 - **Low-Level Programming**: Memory management, pointers, system calls
 - **Algorithms**: Sorting, searching, optimization techniques
@@ -365,7 +363,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 🌐 Other Projects & Learning
+## Other Projects & Learning
 
 | Project | Description | Technologies | Status |
 |:--------|:------------|:-------------|:------:|
@@ -377,7 +375,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -387,7 +385,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### Property Booking Manager
 **Booking.com - Cazare Casa Andreia** | *2020 - 2024*
@@ -403,7 +401,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 🎓 Education
+## Education
 
 ### Technical Education
 - **Generation Italy** - Java Junior Full Stack Developer Bootcamp (Dec 2024 - Mar 2025)
@@ -428,7 +426,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - **Italian** – Bilingual (C2)
 - **Romanian** – Native
@@ -438,23 +436,18 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 🚀 What Sets Me Apart
+## What Sets Me Apart
 
-✨ **Multilingual**: Fluent in 4 languages - perfect for international teams
-
-🎯 **Problem Solver**: From customer service to code - I thrive on solving challenges
-
-💪 **Persistent**: Self-taught in tech, learned through dedication and practice
-
-🤝 **Team Player**: Experience in team leadership and collaboration
-
-📊 **Analytical**: Management background brings data-driven thinking to development
-
-🌱 **Continuous Learner**: Simultaneously mastering low-level C/C++ and enterprise Java
+- **Multilingual**: Fluent in 4 languages - perfect for international teams
+- **Problem Solver**: From customer service to code - I thrive on solving challenges
+- **Persistent**: Self-taught in tech, learned through dedication and practice
+- **Team Player**: Experience in team leadership and collaboration
+- **Analytical**: Management background brings data-driven thinking to development
+- **Continuous Learner**: Simultaneously mastering low-level C/C++ and enterprise Java
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 <div align="center">
 
@@ -467,13 +460,13 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 
 ---
 
-## 📍 Location
+## Location
 
-**Based in**: Ladispoli, Rome, Italy 🇮🇹
+**Based in**: Ladispoli, Rome, Italy
 
 ---
 
-## ⚖️ Privacy & Disclaimer
+## Privacy & Disclaimer
 
 Please be aware that information shared publicly online, including email addresses associated with contributions to this repository, can potentially be collected and analyzed. This repository is shared with the understanding that such collection may occur.
 
