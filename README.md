@@ -236,7 +236,7 @@ Whether I'm debugging a complex algorithm, building an enterprise banking system
 - [**BikeWorld**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/BikeWorld) - Motorcycle Dealership (State Pattern, ETL)
 - [**Carroponte**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/Carroponte) - Event Management (Caching, IoC)
 - [**OmegaClinic**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/OmegaClinic) - Clinical Management
-- [**OmegaClinicGEHENNA**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/OmegaClinicGEHENNA) - Clinical Scheduling System ⭐
+- [**OmegaClinicGEHENNA**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinicGEHENNA) - Clinical Scheduling System ⭐
 
 #### Banking & Financial
 - [**JavaBank**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/JavaBank) - Complete banking system
