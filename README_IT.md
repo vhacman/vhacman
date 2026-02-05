@@ -4,7 +4,7 @@
 ![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/School%3AGeneration-Italy-FF6B35?style=flat&logo=java&logoColor=white)
 
-[🇬🇧 English Version](README_PROFILE_ENG.md)
+[🇬🇧 English Version](README.md)
 
 ---
 
