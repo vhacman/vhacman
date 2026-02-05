@@ -4,7 +4,7 @@
 ![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/School%3AGeneration-Italy-FF6B35?style=flat&logo=java&logoColor=white)
 
-[🇮🇹 Versione Italiana](README_PROFILE_ITA.md)
+[🇮🇹 Versione Italiana](README_IT.md)
 
 ---
 
@@ -510,3 +510,4 @@ The owner of this repository reserves the right to take appropriate and lawful a
 **"One step at a time, always learning"**
 
 </div>
+
