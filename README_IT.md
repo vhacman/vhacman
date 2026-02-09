@@ -10,6 +10,10 @@
 [![JUnit5](https://img.shields.io/badge/JUnit-5-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
+---
+
+📖 **Leggi in altre lingue:** [🇬🇧 English](https://github.com/vhacman/vhacman/blob/main/README.md) | 🇮🇹 Italiano
+
 </div>
 
 ---
@@ -20,7 +24,7 @@ Dallo studio delle lingue e delle culture alla scrittura di codice — il mio pe
 
 Ora sono completamente dedicata allo sviluppo software, studiando **C/C++ a basso livello** presso **42 Roma Luiss** e **Java enterprise** presso **Generation Italy**. Cosa mi differenzia? Parlo **quattro lingue fluentemente**, ho imparato che la persistenza batte la perfezione, e capisco che la tecnologia deve servire le persone — non il contrario.
 
-Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per la sanità, o implementando design pattern, affront ogni sfida con la stessa determinazione che mi ha portato qui: **un passo alla volta, sempre imparando**.
+Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per la sanità, o implementando design pattern, affronto ogni sfida con la stessa determinazione che mi ha portato qui: **un passo alla volta, sempre imparando**.
 
 ---
 
@@ -214,18 +218,17 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 ## Panoramica Repository Java
 
 Questa repository raccoglie **81+ progetti** sviluppati durante il bootcamp Generation Italy, organizzati in un percorso progressivo: dalla sintassi base di Java fino alla realizzazione di applicazioni web full-stack con Spring Boot.
-
-```
 GenerationStudyJavaCourse/
-├── 00_Libraries/                         Framework e librerie riutilizzabili
-├── 01_Fundamentals_Examples/             Fondamenti Java e OOP (12 moduli)
-├── 02_Tickets_Transportation/           Sistemi di biglietteria e trasporti
-├── 03_Business_Applications/            43 applicazioni gestionali
-├── 04_Exercises_Practice/               Esercizi supplementari
-├── 05_Spring & FrontEnd - FullStack/    Spring Boot, JPA, Frontend
-├── 06_Database - MySql/                 Fondamenti SQL e query avanzate
-└── docs/                                Documentazione di supporto
-```
+├── 00_Libraries/ Framework e librerie riutilizzabili
+├── 01_Fundamentals_Examples/ Fondamenti Java e OOP (12 moduli)
+├── 02_Tickets_Transportation/ Sistemi di biglietteria e trasporti
+├── 03_Business_Applications/ 43 applicazioni gestionali
+├── 04_Exercises_Practice/ Esercizi supplementari
+├── 05_Spring & FrontEnd - FullStack/ Spring Boot, JPA, Frontend
+├── 06_Database - MySql/ Fondamenti SQL e query avanzate
+└── docs/ Documentazione di supporto
+
+
 
 ---
 
