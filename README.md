@@ -1,120 +1,108 @@
-# Hi there, I'm Gabriela 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile%20views&color=0e75b6&style=flat)
-![42 Badge](https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white)
-![Static Badge](https://img.shields.io/badge/School%3AGeneration-Italy-FF6B35?style=flat&logo=java&logoColor=white)
-
-[🇮🇹 Versione Italiana](README_IT.md)
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100090802467237)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vgabrielah_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hacmanvioricagabriela@gmail.com)
-
----
-
-## About Me
-
-From studying languages and cultures to writing code—my journey into tech started with curiosity and a desire for change. With a degree in **Languages and European Cultures (L11)** and years of experience in customer service and team management, I know what it means to work hard, solve problems on the spot, and communicate across different worlds.
-
-Now I'm fully committed to software development, studying both **low-level C/C++** at **42 Roma Luiss** and **enterprise Java** at **Generation Italy**. What makes me different? I speak **four languages fluently**, I've learned that persistence beats perfection, and I understand that technology should serve people—not the other way around.
-
-Whether I'm debugging a complex algorithm, building an enterprise healthcare system, or implementing design patterns, I approach every challenge with the same determination that got me here: **one step at a time, always learning**.
-
 <div align="center">
 
-[![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
+# Generation Italy — Java Full Stack Developer
+
+**Repository completa del percorso formativo: dai fondamenti Java fino a Spring Boot e MySQL**
+
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.2-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JUnit5](https://img.shields.io/badge/JUnit-5-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
 </div>
 
 ---
 
-# My Learning Journey
+## Chi Sono
+
+Dallo studio delle lingue e delle culture alla scrittura di codice — il mio percorso nel mondo tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in **Lingue e Culture Europee (L11)** ed anni di esperienza nel customer service e nella gestione di team, so cosa significa lavorare sodo, risolvere problemi sul momento e comunicare tra mondi diversi.
+
+Ora sono completamente dedicata allo sviluppo software, studiando **C/C++ a basso livello** presso **42 Roma Luiss** e **Java enterprise** presso **Generation Italy**. Cosa mi differenzia? Parlo **quattro lingue fluentemente**, ho imparato che la persistenza batte la perfezione, e capisco che la tecnologia deve servire le persone — non il contrario.
+
+Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per la sanità, o implementando design pattern, affront ogni sfida con la stessa determinazione che mi ha portato qui: **un passo alla volta, sempre imparando**.
+
+---
+
+## Percorso Formativo
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=for-the-badge&logo=java&logoColor=white" alt="Generation Italy">
+### <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=flat&logo=java&logoColor=white" alt="Generation Italy"> Java Junior Full Stack Developer Bootcamp
 
-### Java Junior Full Stack Developer Bootcamp
-**December 2024 - March 2025** | **600+ Hours Intensive Program**
+**Dicembre 2024 - Marzo 2025** | **600+ Ore di Programma Intensivo**
 
 #### Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-#### Learning Focus
-- **Backend Development**: Java Core, Spring Boot, RESTful APIs, Microservices
-- **Database Management**: MySQL, SQLite, JDBC, SQL, Database Design
-- **Frontend Development**: HTML5, CSS3, JavaScript, DOM Manipulation
-- **Architecture & Design**: OOP, SOLID Principles, Design Patterns (MVC, Repository, Factory, Strategy, ETL, Service Layer, Custom ORM)
+#### Focus di Apprendimento
+- **Backend Development**: Java Core, Spring Boot, RESTful APIs, Microservizi
+- **Gestione Database**: MySQL, SQLite, JDBC, SQL, Progettazione Database
+- **Frontend Development**: HTML5, CSS3, JavaScript, Manipolazione DOM
+- **Architettura & Design**: OOP, Principi SOLID, Design Patterns (MVC, Repository, Factory, Strategy, ETL, Service Layer, ORM Custom)
 - **Testing**: JUnit, Unit Testing, Integration Testing
-- **Methodology**: Agile, Scrum, Team Collaboration
-- **Soft Skills**: Problem-solving, Critical Thinking, Communication
+- **Metodologia**: Agile, Scrum, Collaborazione di Team
+- **Soft Skills**: Problem-solving, Pensiero Critico, Comunicazione
 
-#### Key Achievements
-- **81+ Total Projects** across all categories
-- **7 Enterprise-Level Systems** with advanced patterns (ACMC, ACMC2ORM, BikeWorld, Carroponte, OmegaClinic, OmegaClinicGEHENNA, OmegaClinixMaxi)
-- **Custom ORM Framework** - Built from scratch with Generic Repository Pattern
-- **Advanced Design Patterns**: Repository, Factory, ETL, IoC Container, Caching Strategies (FullCache/PartialCache), State Pattern, Chain of Responsibility
-- **Healthcare Systems**: Clinical management with smart scheduling algorithms
-- **Database Mastery**: JDBC, SQLite, MySQL with complex relationship management
+#### Achievement Chiave
+- **79+ Progetti Totali** in tutte le categorie
+- **7 Sistemi Enterprise** con pattern avanzati (ACMC, ACMC2ORM, BikeWorld, Carroponte, OmegaClinic, OmegaClinicGEHENNA, OmegaClinixMaxi)
+- **Framework ORM Custom** - Costruito da zero con Generic Repository Pattern
+- **Design Patterns Avanzati**: Repository, Factory, ETL, IoC Container, Strategie di Caching (FullCache/PartialCache), State Pattern, Chain of Responsibility
+- **Sistemi Sanitari**: Gestione clinica con algoritmi di scheduling intelligenti
+- **Database Mastery**: JDBC, SQLite, MySQL con gestione relazioni complesse
 
-#### Featured Enterprise Projects
-- **ACMC2ORM**: Custom ORM with pluggable caching, bidirectional relations, circular dependency prevention
-- **OmegaClinicGEHENNA**: Clinical scheduling with LinkedHashMap calendar, slot optimization algorithms
-- **OmegaClinixMaxi**: Advanced healthcare management with full database integration
-- **BikeWorld**: Motorcycle dealership with State Pattern workflow and CSV ETL
-- **ACMC**: Association management with DI Container, IoC, MVC, Reflection
-- **Carroponte**: Event management with Command Pattern and caching layer
-- **OmegaClinic**: Healthcare with Repository Pattern, Lazy/Eager Loading
+#### Progetti Enterprise di Punta
+- **ACMC2ORM**: ORM custom con caching pluggable, relazioni bidirezionali, prevenzione dipendenze circolari
+- **OmegaClinicGEHENNA**: Scheduling clinico con calendario LinkedHashMap, algoritmi di ottimizzazione slot
+- **OmegaClinixMaxi**: Gestione sanitaria avanzata con integrazione database completa
+- **BikeWorld**: Concessionaria moto con State Pattern workflow e ETL CSV
+- **ACMC**: Gestione associazione con DI Container, IoC, MVC, Reflection
+- **Carroponte**: Gestione eventi con Command Pattern e livello caching
+- **OmegaClinic**: Sanità con Repository Pattern, Lazy/Eager Loading
 
-#### Project Repository
-[![GenerationStudyJavaCourse](https://img.shields.io/badge/View_Repository-81+_Java_Projects-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
+#### Repository
+[![GenerationStudyJavaCourse](https://img.shields.io/badge/Visualizza_Repository-79+_Progetti_Java-FF6B35?style=flat&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
 
-**Course Materials**: [Drive Folder with Notes & Materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
+**Materiali del Corso**: [Cartella Drive con Dispense e Materiali](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
 </td>
 <td width="50%" valign="top">
 
-## <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=for-the-badge&logo=42&logoColor=white" alt="42 School">
+### <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white" alt="42 School"> Programma di Ingegneria del Software
 
-### Software Engineering Program
-**October 2024 - Present** | **Peer-to-Peer Learning**
+**Ottobre 2024 - Presente** | **Apprendimento Peer-to-Peer**
 
 #### Tech Stack
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### Learning Focus
-- **Low-Level Programming**: C/C++, Memory Management, Pointers
-- **System Programming**: Unix/Linux, Process Management, File Descriptors
-- **Algorithms & Data Structures**: Sorting, Searching, Optimization
-- **Concurrent Programming**: Threading, Mutexes, Semaphores
+#### Focus di Apprendimento
+- **Programmazione Low-Level**: C/C++, Gestione Memoria, Puntatori
+- **System Programming**: Unix/Linux, Gestione Processi, File Descriptors
+- **Algoritmi & Strutture Dati**: Sorting, Searching, Ottimizzazione
+- **Programmazione Concorrente**: Threading, Mutexes, Semaphores
 - **Network Programming**: TCP/IP, Socket Programming
 - **Graphics Programming**: MinilibX, Game Development
-- **Object-Oriented C++**: Classes, Inheritance, Polymorphism, Operator Overloading
+- **C++ OOP**: Classi, Ereditarietà, Polimorfismo, Overloading Operatori
 
-#### Key Achievements
-- **14+ Projects Completed** with scores 90-125/100
-- **4 Bonus Stars** for exceptional implementations
-- **100% Pass Rate** on evaluations
-- **Perfect Score** on multiple complex projects (libft, ft_printf, Philosophers, Minishell)
-- **Advanced C++ Mastery**: 4 modules completed covering OOP fundamentals to advanced inheritance
+#### Achievement Chiave
+- **14+ Progetti Completati** con punteggi 90-125/100
+- **4 Stelle Bonus** per implementazioni eccezionali
+- **100% Tasso di Passaggio** alle valutazioni
+- **Punteggio Perfetto** su progetti complessi multipli (libft, ft_printf, Philosophers, Minishell)
 
-#### Current Progress
+#### Progresso Attuale
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
 </td>
@@ -123,383 +111,231 @@ Whether I'm debugging a complex algorithm, building an enterprise healthcare sys
 
 ---
 
-## Dispense e Risorse
+## Stack Tecnologico
 
-**Dispense teoriche di programmazione**: [BrainStack Programming Notions](https://github.com/vhacman/brainstack-programming-notions)
-
----
-
-# Languages and Tools
-
-<div align="center">
-
-## Professional Tech Stack
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Generation Italy Stack
-
-| Technology | Proficiency | Usage |
-|:-----------|:-----------:|:------|
+| Tecnologia | Proficiency | Utilizzo |
+|:-----------|:-----------:|:---------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend Development, OOP, Design Patterns |
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | ⭐⭐⭐⭐ | Spring Boot, REST APIs, Spring Data JPA |
 | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | ⭐⭐⭐⭐ | Database Design, JDBC, SQL |
-| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) | ⭐⭐⭐⭐ | Embedded Databases |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ⭐⭐⭐ | Frontend Structure |
+| ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) | ⭐⭐⭐⭐ | Database Embedded |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ⭐⭐⭐⭐⭐ | Programmazione Low-Level, Gestione Memoria |
+| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐⭐ | OOP, STL, Algoritmi Avanzati |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐⭐⭐ | Shell Scripting, Automazione |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ⭐⭐⭐ | Struttura Frontend |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ⭐⭐⭐ | Styling, Responsive Design |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐ | Frontend Logic, ES6+ |
-| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | ⭐⭐⭐⭐ | Primary Java IDE |
-| ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) | ⭐⭐⭐ | Alternative Java IDE |
-
-</td>
-<td width="50%" valign="top">
-
-### 42 School Stack
-
-| Technology | Proficiency | Usage |
-|:-----------|:-----------:|:------|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ⭐⭐⭐⭐⭐ | Low-level Programming, Memory Management |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐⭐ | OOP, STL, Advanced Algorithms |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐⭐⭐ | Shell Scripting, Automation |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ⭐⭐⭐⭐ | System Administration, Unix Tools |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ | Version Control, Collaboration |
-| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ⭐⭐⭐⭐⭐ | Code Editor |
-| ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) | ⭐⭐⭐ | Terminal Editor |
-| ![Make](https://img.shields.io/badge/Make-427819?style=flat&logo=cmake&logoColor=white) | ⭐⭐⭐⭐ | Build Automation |
-
-</td>
-</tr>
-</table>
-
-### Additional Tools & Platforms
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-</div>
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐ | Logica Frontend, ES6+ |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ | Version Control, Collaborazione |
+| ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) | ⭐⭐⭐⭐ | Unit Testing |
+| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | ⭐⭐⭐⭐ | IDE Java Principale |
+| ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ⭐⭐⭐⭐⭐ | Editor di Codice |
 
 ---
 
-# Projects Portfolio
+## Panoramica Repository
 
-## <img src="https://img.shields.io/badge/Generation_Italy-81+_Java_Projects-FF6B35?style=for-the-badge&logo=java&logoColor=white">
+Questa repository raccoglie **79+ progetti** sviluppati durante il bootcamp Generation Italy, organizzati in un percorso progressivo: dalla sintassi base di Java fino alla realizzazione di applicazioni web full-stack con Spring Boot.
 
-<div align="center">
-
-### Full Stack Java Development - Enterprise Applications
-
-**Complete Repository**: [![GenerationStudyJavaCourse](https://img.shields.io/badge/GitHub-GenerationStudyJavaCourse-FF6B35?style=for-the-badge&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
-
-</div>
-
-### Featured Projects - Advanced Enterprise Systems
-
-| Project | Category | Key Technologies | Highlights | Links |
-|:--------|:---------|:----------------|:-----------|:------|
-| **ACMC2ORM** | Custom ORM Framework | Generic Repository, FullCache/PartialCache, Bidirectional Relations | Built ORM from scratch with pluggable caching strategies, Template Method pattern, circular dependency prevention | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/ACMC2ORM) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/03_Business_Applications/02_Commerce_Services/ACMC2ORM/README.md) |
-| **OmegaClinicGEHENNA** | Clinical Scheduling | LinkedHashMap Calendar, Smart Scheduling Algorithm, Comparator | Automatic slot finding (9-12, 14-17), double-booking prevention, O(n) scheduling optimization | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinicGEHENNA) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/03_Business_Applications/02_Commerce_Services/OmegaClinicGEHENNA/README.md) |
-| **OmegaClinixMaxi** | Advanced Healthcare | Database Integration, Enhanced CRUD, Full Clinical Management | Advanced healthcare system with complete database integration, enhanced patient management | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinixMaxi) |
-| **ACMC** | Association Management | DI Container, IoC, MVC, Reflection, Template Rendering | Reflection-based view rendering, Dependency Injection, Italian Tax Code validation | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/ACMC) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/03_Business_Applications/02_Commerce_Services/ACMC/README.md) |
-| **BikeWorld** | Motorcycle Dealership | State Pattern, Chain of Responsibility, ETL, CSV Import | Workflow state machine (ARRIVED→CHECKUP→CLEANING→DELIVERED), daily CSV import | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/BikeWorld) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/03_Business_Applications/02_Commerce_Services/BikeWorld/README.md) |
-| **OmegaClinic** | Healthcare System | Repository Pattern, Lazy/Eager Loading | Patient management, health services, prestation tracking with relationship loading strategies | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinic) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/03_Business_Applications/02_Commerce_Services/OmegaClinic/README.md) |
-| **Carroponte** | Event Management | Command Pattern, Caching, IoC Container | Event ticketing system with caching layer and command pattern for operations | [Code](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/Carroponte) \| [Docs](https://github.com/vhacman/GenerationStudyJavaCourse/blob/main/03_Business_Applications/02_Commerce_Services/Carroponte/README.md) |
-
-### Project Statistics
-
-| Category | Count | Complexity Level |
-|:---------|:-----:|:----------------|
-| 📚 **Libraries & Frameworks** | 1 | Advanced (Custom ORM) |
-| 📘 **Fundamentals** | 14 modules | Base → Intermediate |
-| 🚆 **Transportation Systems** | 9 projects | Intermediate |
-| 💼 **Business Applications** | 43 projects | Intermediate → Advanced |
-| 🏆 **Enterprise Systems** | 7 projects | Advanced (Design Patterns, ORM, Scheduling) |
-| 🎯 **Exercises & Practice** | 4 projects | Various |
-| 🌱 **Spring Boot** | 4 projects | Spring Framework |
-| 🗄️ **Database MySQL** | 7 scripts | SQL Fundamentals |
-| 🎨 **Frontend** | 3 applications | HTML/CSS/JS |
-| **TOTAL** | **81+ Projects** | **Complete Full Stack** |
-
-### Business Applications (43 Projects)
-
-<details>
-<summary><b>View All Business Applications by Category</b></summary>
-
-#### 🏨 Hospitality & Tourism (8 projects)
-- [**GrottammareB&B**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/GrottammareB%26B), [**LeccoB&B**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/LeccoB%26B), [**MonsterHotel**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/MonsterHotel), [**ProlocoLakeComo**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/ProlocoLakeComo), [**SBBB**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/SBBB), [**SBHotel**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/SBHotel), [**VacanzeRomane**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/VacanzeRomane), [**VillaMelzi**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/01_Hospitality_Tourism/VillaMelzi)
-
-#### 🛒 Commerce & Services (14 projects)
-**Enterprise Systems (7 projects):**
-- [**ACMC**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/ACMC) - Association Management (DI, IoC, MVC, Reflection)
-- [**ACMC2ORM**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/ACMC2ORM) - Custom ORM Framework ⭐
-- [**BikeWorld**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/BikeWorld) - Motorcycle Dealership (State Pattern, ETL)
-- [**Carroponte**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/Carroponte) - Event Management (Caching, IoC)
-- [**OmegaClinic**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinic) - Clinical Management
-- [**OmegaClinicGEHENNA**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinicGEHENNA) - Clinical Scheduling System ⭐
-- [**OmegaClinixMaxi**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinixMaxi) - Advanced Healthcare Management ⭐
-
-**Base Projects (7 projects):**
-- [**JavaBank**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/JavaBank), [**LocalMarket**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/LocalMarket), [**LocalMarketDB**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/LocalMarketDB), [**PCWizard**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/PCWizard), [**PrintLabel**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/PrintLabel), [**PrivateClinic**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/PrivateClinic), [**RepairShop**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/RepairShop)
-
-#### 🚆 Transportation & Logistics (12 projects)
-- [**BrianzaTaxi**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/BrianzaTaxi), [**BrianzaTaxiService**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/BrianzaTaxiService), [**BrianzaTrains**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/BrianzaTrains), [**BrianzaTrainsObjects**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/BrianzaTrainsObjects), [**DiscotecaTicket**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/DiscotecaTicket), [**JavaBus**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/JavaBus), [**JavItaAirline**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/JavItaAirline), [**MilanoLeccoTRains2**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/MilanoLeccoTRains2), [**MilanoLeccoTrains3**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/MilanoLeccoTrains3), [**MIlanoLeccoTrains4**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/MIlanoLeccoTrains4), [**MLTrains**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/MLTrains), [**MonzaMetro**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/03_Transportation_Logistics/MonzaMetro)
-
-#### 🎓 Education & Culture (9 projects)
-- [**DeveloperCandidatura**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/DeveloperCandidatura), [**MuseumTicket**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/MuseumTicket), [**NerdLibrary**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/NerdLibrary), [**NSMI**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/NSMI), [**NSMPI**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/NSMPI), [**PokeDex**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/PokeDex), [**PrivateLessons**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/PrivateLessons), [**SchoolManagement_v1**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/SchoolManagement_v1), [**SchoolManagement_v2**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/04_Education_Culture/SchoolManagement_v2)
-
-</details>
-
-### Spring Boot Projects (4 Projects)
-
-<details>
-<summary><b>View All Spring Boot Projects</b></summary>
-
-| Project | Description | Technologies |
-|:--------|:------------|:-------------|
-| [**Emergency**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/05_Spring/Emergency) | Hospital Emergency Room Management System | Spring Boot 4.0.2, Spring Data JPA, Thymeleaf, MySQL |
-| [**Dinner**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/05_Spring/Dinner) | Restaurant Order Management System | Spring Boot 4.0.2, Spring Data JPA, Thymeleaf, MySQL |
-| [**Ticket**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/05_Spring/Ticket) | Help Desk Ticket System | Spring Boot 4.0.2, Spring Data JPA, Thymeleaf, MySQL |
-| [**Vault**](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/05_Spring/vault) | Vault-Tec Membership System (Fallout-themed) | Spring Boot 4.0.2, Spring Data JPA, MySQL |
-
-**Common Features:**
-- MVC Controllers with Thymeleaf templates
-- REST API for external integration (JSON)
-- Repository Pattern with Spring Data JPA
-- JPA Entities with annotations
-- Dependency Injection with Spring IoC
-- MySQL database with Hibernate
-
-</details>
-
-### Technical Skills Demonstrated
-
-| Skill Category | Technologies | Featured Projects |
-|:---------------|:-------------|:-----------------|
-| **Custom ORM** | Generic Repository, Template Method, Reflection, Caching Strategies | ACMC2ORM |
-| **Algorithms** | Scheduling, Slot Optimization, Sorting (Comparator) | OmegaClinicGEHENNA |
-| **Design Patterns** | MVC, Repository, Factory, Strategy, ETL, State, Chain of Responsibility, Command, IoC | All Enterprise Projects |
-| **Database Advanced** | JDBC, SQLite, MySQL, Lazy/Eager Loading, Relationship Management | OmegaClinic, LocalMarketDB, ACMC2ORM, OmegaClinixMaxi |
-| **OOP Mastery** | Inheritance, Polymorphism, Abstraction, Encapsulation, Generics | All 81+ projects |
-| **Data Structures** | LinkedHashMap, ArrayList, HashMap, Custom Collections | OmegaClinicGEHENNA, AlgoritmiDemo |
-| **Import/Export** | CSV ETL, File I/O, Data Transformation | BikeWorld |
-| **Business Logic** | Validation, Italian Tax Code, Financial Calculations, Scheduling | Multiple projects |
-| **Testing** | JUnit, Unit Testing, Integration Testing | Enterprise projects |
-| **Spring Framework** | Spring Boot, Spring Data JPA, REST APIs, Thymeleaf | Emergency, Dinner, Ticket, Vault |
+```
+GenerationStudyJavaCourse/
+├── 00_Libraries/                         Framework e librerie riutilizzabili
+├── 01_Fundamentals_Examples/             Fondamenti Java e OOP (12 moduli)
+├── 02_Tickets_Transportation/            Sistemi di biglietteria e trasporti
+├── 03_Business_Applications/             43 applicazioni gestionali
+├── 04_Exercises_Practice/                Esercizi supplementari
+├── 05_Spring & FrontEnd - FullStack/     Spring Boot, JPA, Frontend
+├── 06_Database - MySql/                  Fondamenti SQL e query avanzate
+└── docs/                                 Documentazione di supporto
+```
 
 ---
 
-## <img src="https://img.shields.io/badge/42_School-14+_Projects-2BA5DE?style=for-the-badge&logo=42&logoColor=white">
+## Struttura Progetti
 
-<div align="center">
+### 00 — Librerie
 
-### Low-Level Programming & System Administration
+| Progetto | Descrizione |
+|----------|-------------|
+| [GenerationLibrary](00_Libraries/GenerationLibrary/) | Framework enterprise: Repository Pattern generico, caching Full/Partial, JDBC, I/O utilities |
 
-</div>
+### 01 — Fondamenti Java
 
-### Featured 42 Projects
+12 moduli didattici che coprono l'intero percorso OOP.
 
-| Project | Description | Technologies | Score | Completion |
-|:--------|:------------|:-------------|:-----:|:----------:|
-| [**Minishell**](https://github.com/vhacman/minishell) | Building a bash-like shell from scratch | C, Process Management, Pipes | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | Aug 2025 |
-| [**Philosophers**](https://github.com/vhacman/philo) | Solving dining philosophers problem | C, Threading, Mutexes | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | Jul 2025 |
-| [**Push_swap**](https://github.com/vhacman/push_swap) | Optimized stack sorting algorithm | C, Algorithms | ![90/100](https://img.shields.io/badge/90%2F100-brightgreen) | Apr 2025 |
-| [**so_long**](https://github.com/vhacman/so_long) | 2D game with MinilibX | C, Graphics Programming | ![122/100](https://img.shields.io/badge/122%2F100-brightgreen) ⭐ | Mar 2025 |
+| Modulo | Argomento |
+|--------|-----------|
+| [SequenzaESelezione](01_Fundamentals_Examples/SequenzaESelezione/) | `if/else`, `switch`, operatore ternario |
+| [While](01_Fundamentals_Examples/While/) | Cicli `while` e `do-while` |
+| [Modulo4](01_Fundamentals_Examples/Modulo4/) | Cicli `for`, `for-each` |
+| [Modulo 6](01_Fundamentals_Examples/Modulo%206/) | Classi, oggetti, costruttori |
+| [Modulo7](01_Fundamentals_Examples/Modulo7Incapsulamento/) | Incapsulamento, getter/setter |
+| [Modulo8](01_Fundamentals_Examples/Modulo8Ereditariet%C3%A0/) | Ereditarietà, `extends`, `super` |
+| [Modulo9](01_Fundamentals_Examples/Modulo9Astrazione/) | Classi astratte |
+| [Modulo10](01_Fundamentals_Examples/Modulo10/) | Interfacce, polimorfismo |
+| [Modulo11](01_Fundamentals_Examples/Modulo11/) | Lambda expressions, interfacce funzionali |
+| [AlgoritmiDemo](01_Fundamentals_Examples/AlgoritmiDemo%20-%20Strutture%20Dati/) | Array, ArrayList, HashSet, HashMap |
+| [Examples](01_Fundamentals_Examples/Examples/) | Esempi di sintassi base |
+| [Recap](01_Fundamentals_Examples/Recap/) | Lezioni di ripasso |
 
-### All 42 Projects
+### 02 — Tickets & Transportation
 
-<details>
-<summary><b>View All 42 Projects (14+ Completed)</b></summary>
+10 progetti per sistemi di biglietteria e trasporti, con evoluzione progressiva del progetto MilanoLeccoTrains (v1 → v4).
 
-#### Core C Projects
+| Progetto | Descrizione | Livello |
+|----------|-------------|---------|
+| BrianzaTaxi / BrianzaTaxiService | Prenotazione taxi con tariffazione | Base → Intermedio |
+| BrianzaTrains / BrianzaTrainsObjects | Biglietteria treni | Intermedio → Avanzato |
+| DiscotecaTicket | Biglietti con restrizioni età | Base |
+| MLTrains → MilanoLeccoTrains v2-v4 | Evoluzione gestione treni | Base → Avanzato |
+| MonzaMetro | Biglietteria metropolitana | Intermedio |
+| JavaBus / JavItaAirline | Autobus e compagnia aerea | Avanzato |
 
-| Project | Description | Score | Status |
-|:--------|:------------|:-----:|:------:|
-| [**libft**](https://github.com/vhacman/libft) | C Standard Library Recreation | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Jan 2025 |
-| [**ft_printf**](https://github.com/vhacman/printf) | Printf Implementation | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Feb 2025 |
-| [**get_next_line**](https://github.com/vhacman/get_next_line) | File Reading Function | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen) ⭐ | ✅ Mar 2025 |
-| [**Born2beroot**](https://github.com/vhacman/Born2beroot) | Virtual Machine & System Security | ![110/100](https://img.shields.io/badge/110%2F100-brightgreen) ⭐ | ✅ Feb 2025 |
-| [**Pipex**](https://github.com/vhacman/pipex) | Unix Pipe Simulation | ![108/100](https://img.shields.io/badge/108%2F100-brightgreen) ⭐ | ✅ Mar 2025 |
-| [**Push_swap**](https://github.com/vhacman/push_swap) | Sorting Algorithm Optimization | ![90/100](https://img.shields.io/badge/90%2F100-brightgreen) | ✅ Apr 2025 |
-| [**so_long**](https://github.com/vhacman/so_long) | 2D Game Development | ![122/100](https://img.shields.io/badge/122%2F100-brightgreen) ⭐ | ✅ Mar 2025 |
-| [**Philosophers**](https://github.com/vhacman/philo) | Threading & Synchronization | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Jul 2025 |
-| [**Minishell**](https://github.com/vhacman/minishell) | Shell Implementation | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Aug 2025 |
-| [**NetPractice**](https://github.com/vhacman/Net_Practice) | Network Configuration | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Oct 2025 |
+### 03 — Business Applications
 
-#### C++ Module Series
+**43 progetti** organizzati in 4 settori:
 
-| Module | Topics Covered | Score | Status |
-|:-------|:--------------|:-----:|:------:|
-| [**CPP00**](https://github.com/vhacman/CPP00) | Namespaces, Classes, Member Functions, I/O Streams | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Sep 2025 |
-| [**CPP01**](https://github.com/vhacman/CPP01) | Memory Allocation, References, Pointers to Members | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Sep 2025 |
-| [**CPP02**](https://github.com/vhacman/CPP02) | Operator Overloading, Fixed-Point Numbers | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Oct 2025 |
-| [**CPP03**](https://github.com/vhacman/CPP03) | Inheritance, Virtual Inheritance, Diamond Problem | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen) | ✅ Oct 2025 |
+| Settore | Progetti | Highlights |
+|---------|:--------:|------------|
+| [Hospitality & Tourism](03_Business_Applications/01_Hospitality_Tourism/) | 8 | B&B, hotel, agenzie viaggi, ville storiche |
+| [Commerce & Services](03_Business_Applications/02_Commerce_Services/) | 14 | Banche, cliniche, ORM custom, concessionarie |
+| [Transportation & Logistics](03_Business_Applications/03_Transportation_Logistics/) | 12 | Taxi, treni, metropolitana, compagnie aeree |
+| [Education & Culture](03_Business_Applications/04_Education_Culture/) | 9 | Scuole, biblioteche, musei, PokeDex |
 
-</details>
+#### Progetti Enterprise di Punta
 
-### 42 Skills Mastered
+| Progetto | Pattern e tecnologie |
+|----------|---------------------|
+| [ACMC](03_Business_Applications/02_Commerce_Services/ACMC/) | IoC Container custom, MVC, Reflection API, Repository, SOLID |
+| [ACMC2ORM](03_Business_Applications/02_Commerce_Services/ACMC2ORM/) | ORM custom, Generic Repository, Full/Partial Cache, Relazioni bidirezionali |
+| [BikeWorld](03_Business_Applications/02_Commerce_Services/BikeWorld/) | State Pattern, Chain of Responsibility, ETL/CSV Import |
+| [Carroponte](03_Business_Applications/02_Commerce_Services/Carroponte/) | Command Pattern, Caching multi-livello, XOR Cipher |
+| [OmegaClinic](03_Business_Applications/02_Commerce_Services/OmegaClinic/) | Repository, Lazy/Eager Loading, JDBC, BigDecimal |
+| [OmegaClinicGEHENNA](03_Business_Applications/02_Commerce_Services/OmegaClinicGEHENNA/) | Scheduling algorithm, Smart Calendar, Comparator avanzati |
 
-- **Low-Level Programming**: Memory management, pointers, system calls
-- **Algorithms**: Sorting, searching, optimization techniques
-- **System Programming**: Process management, file descriptors, signals
-- **Concurrent Programming**: Threading, mutexes, semaphores, deadlock prevention
-- **Network Programming**: TCP/IP, routing, subnetting
-- **Graphics**: MinilibX, event handling, game loops
-- **C++ OOP**: Classes, inheritance, polymorphism, operator overloading
+### 04 — Exercises & Practice
 
----
+| Progetto | Descrizione | Concetti |
+|----------|-------------|----------|
+| ChristmasTime | Progetto natalizio | Classi, Collections |
+| ExtraLesson 1-2 | Lezioni di approfondimento | Sintassi avanzata, Refactoring |
+| Taxes | Calcolo imposte | BigDecimal, Enum, Validazione |
 
-## Other Projects & Learning
+### 05 — Spring Boot & Frontend
 
-| Project | Description | Technologies | Status |
-|:--------|:------------|:-------------|:------:|
-| [**brainstack-programming-notions**](https://github.com/vhacman/brainstack-programming-notions) | Programming theory and notes | Markdown, Documentation | 🔄 Active |
-| [**cpp-practice**](https://github.com/vhacman/cpp_practice) | C++ practice exercises | C++ | 🔄 In Progress |
-| [**Technical_Documentation_Page**](https://github.com/vhacman/Technical_Documentation_Page_FreeCodeCamp) | FreeCodeCamp Project | HTML, CSS | ✅ Completed |
-| [**SurveyForm**](https://github.com/vhacman/SurveyForm_freeCodeCamp) | FreeCodeCamp Project | HTML, CSS | ✅ Completed |
-| [**TributePage**](https://github.com/vhacman/TributePage_FreeCodeCamp) | FreeCodeCamp Project | HTML, CSS | ✅ Completed |
+Applicazioni web full-stack:
 
----
+| Progetto | Descrizione | Stack |
+|----------|-------------|-------|
+| [Emergency](05_Spring%20%26%20FrontEnd%20-%20FullStack/Emergency/) | Pronto soccorso ospedaliero | Spring Boot, JPA, Thymeleaf, REST API |
+| [Dinner](05_Spring%20%26%20FrontEnd%20-%20FullStack/Dinner/) | Gestione ordini ristorante | Spring Boot, JPA, Thymeleaf, REST API |
+| [Ticket](05_Spring%20%26%20FrontEnd%20-%20FullStack/Ticket/) | Sistema segnalazioni/ticket | Spring Boot, JPA, Thymeleaf, REST API |
+| [Vault](05_Spring%20%26%20FrontEnd%20-%20FullStack/vault/) | Membership Vault-Tec (tema Fallout) | Spring Boot, JPA, REST API |
+| [GenSchool](05_Spring%20%26%20FrontEnd%20-%20FullStack/GenSchool/) | Gestione lezioni scolastiche | Spring Boot, JPA, REST API |
+| [PC Configurator](05_Spring%20%26%20FrontEnd%20-%20FullStack/pcconfigurator/) | Configuratore PC personalizzati | Spring Boot, JPA, REST API |
+| [Sanction](05_Spring%20%26%20FrontEnd%20-%20FullStack/sanction/) | Sistema gestione sanzioni amministrative | Spring Boot, JPA, DTO Pattern, REST API |
+| [Hotel Booking](05_Spring%20%26%20FrontEnd%20-%20FullStack/hotelboolking/) | Prenotazioni alberghiere | Spring Boot, JPA, Thymeleaf |
+| [FrontEnd](05_Spring%20%26%20FrontEnd%20-%20FullStack/FrontEnd%20-%20FullStack/) | Progetti HTML/CSS/JS | HTML5, CSS3, JavaScript ES6+ |
 
-## GitHub Statistics
+### 06 — Database MySQL
 
-<div align="center">
+7 script SQL progressivi: dalla creazione tabelle alle query aggregate con `GROUP BY`, `AVG`, `COUNT`.
 
-![Profile Views](https://komarev.com/ghpvc/?username=vhacman&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vhacman&theme=tokyonight&hide_border=true)
-
-</div>
-
-### 💻 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
+| Script | Contenuto |
+|--------|-----------|
+| `01_create_table.sql` | `CREATE TABLE` — Tabella PEOPLE |
+| `02_insert_10_people.sql` | `INSERT` — Inserimento iniziale |
+| `03_update_roles.sql` | `UPDATE` — Aggiornamento ruoli |
+| `04_delete_minors.sql` | `DELETE` — Eliminazione condizionale |
+| `05_insert_10_more.sql` | `INSERT` — Inserimento aggiuntivo |
+| `06_select_queries.sql` | `SELECT`, `WHERE`, `ORDER BY`, `LIKE` |
+| `07_aggregate_queries.sql` | `GROUP BY`, `AVG`, `MIN`, `MAX`, `COUNT` |
 
 ---
 
-## Experience
+## Design Patterns
 
-### Property Booking Manager
-**Booking.com - Cazare Casa Andreia** | *2020 - 2024*
-- Managed digital platform updates and booking systems
-- Data analysis and reporting
-- Customer service optimization
-
-### Restaurant Team Lead
-*April 2022 - December 2024*
-- Team coordination and workflow optimization
-- Digital payment systems management
-- Customer service excellence
+`Repository` · `MVC` · `Dependency Injection (IoC)` · `Factory` · `Strategy` · `State` · `Command` · `Chain of Responsibility` · `Template Method` · `Composite` · `ORM custom` · `Reflection` · `Lazy/Eager Loading` · `ETL`
 
 ---
 
-## Education
+## Statistiche
 
-### Technical Education
-- **Generation Italy** - Java Junior Full Stack Developer Bootcamp (Dec 2024 - Mar 2025)
-  - 600+ hours intensive program
-  - Java, Spring Boot, MySQL, Frontend Technologies
-  - 81+ projects completed including custom ORM framework
-
-- **42 Roma Luiss** - Software Engineering (Mar 2024 - Present)
-  - C/C++ programming
-  - System administration
-  - 14+ projects completed with 100% pass rate
-
-### Academic Background
-- **Università e-Campus** - Languages and European Cultures (L11) (2022 - 2024)
-  - Grade: 95/110
-
-- **Master in Social Media Management** - Future Academy (2022 - 2023)
-
-- **Liceo Linguistico** - Languages (2013 - 2018)
-  - Italian, English, German, French
-  - Grade: 95/100
+| Categoria | Quantità |
+|-----------|:--------:|
+| Framework/Librerie | 1 |
+| Moduli fondamentali | 12 |
+| Trasporti & Biglietteria | 10 |
+| Business Applications | 43 |
+| Esercizi & Pratica | 4 |
+| Spring Boot Web App | 8 |
+| Frontend | 3 |
+| Script SQL | 7 |
+| **Totale** | **79+** |
 
 ---
 
-## Languages
-
-- **Italian** – Bilingual (C2)
-- **Romanian** – Native
-- **English** – Advanced (C1)
-- **German** – Intermediate
-- **French** – Intermediate
-
----
-
-## What Sets Me Apart
-
-- **Multilingual**: Fluent in 4 languages - perfect for international teams
-- **Problem Solver**: From customer service to code - I thrive on solving challenges
-- **Persistent**: Self-taught in tech, learned through dedication and practice
-- **Team Player**: Experience in team leadership and collaboration
-- **Analytical**: Management background brings data-driven thinking to development
-- **Continuous Learner**: Simultaneously mastering low-level C/C++ and enterprise Java
-- **Architecture Skills**: Built custom ORM from scratch, designed scheduling algorithms, implemented 10+ design patterns
-
----
-
-## How to Reach Me
+## Contatti
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viorica_Gabriela_Hacman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
 [![Email](https://img.shields.io/badge/Email-hacmanvioricagabriela%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hacmanvioricagabriela@gmail.com)
 [![42 Profile](https://img.shields.io/badge/42_Intra-vhacman-2BA5DE?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/vhacman)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-DevGabi98-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/DevGabi98)
 
 </div>
 
 ---
 
-## Location
+## Istruzione
 
-**Based in**: Ladispoli, Rome, Italy
+### Formazione Tecnica
+- **Generation Italy** - Java Junior Full Stack Developer Bootcamp (Dic 2024 - Mar 2025)
+  - 600+ ore di programma intensivo
+  - Java, Spring Boot, MySQL, Tecnologie Frontend
+  - 79+ progetti completati inclusi ORM custom
+
+- **42 Roma Luiss** - Ingegneria del Software (Mar 2024 - Presente)
+  - Programmazione C/C++
+  - Amministrazione sistema
+  - 14+ progetti completati con 100% tasso di passaggio
+
+### Background Accademico
+- **Università e-Campus** - Lingue e Culture Europee (L11) (2022 - 2024)
+  - Voto: 95/110
+
+- **Master in Social Media Management** - Future Academy (2022 - 2023)
+
+- **Liceo Linguistico** - Lingue (2013 - 2018)
+  - Italiano, Inglese, Tedesco, Francese
+  - Voto: 95/100
 
 ---
 
-## Privacy & Disclaimer
+## Lingue
 
-Please be aware that information shared publicly online, including email addresses associated with contributions to this repository, can potentially be collected and analyzed. This repository is shared with the understanding that such collection may occur.
+- **Italiano** – Bilingue (C2)
+- **Rumeno** – Madrelingua
+- **Inglese** – Avanzato (C1)
+- **Tedesco** – Intermedio
+- **Francese** – Intermedio
 
-The owner of this repository reserves the right to take appropriate and lawful action if any publicly available information related to this repository is misused in a manner that causes harm or violates privacy rights. By interacting with this repository, you acknowledge and understand these considerations.
+---
+
+## Cosa Mi Differenzia
+
+- **Multilingue**: Fluente in 4 lingue — perfetta per team internazionali
+- **Problem Solver**: Dal customer service al codice — prospero nella risoluzione sfide
+- **Persistente**: Autodidatta nel tech, imparata attraverso dedizione e pratica
+- **Team Player**: Esperienza in leadership di team e collaborazione
+- **Analitica**: Background manageriale porta pensiero data-driven allo sviluppo
+- **Continuous Learner**: Contemporaneamente padroneggio C/C++ low-level e Java enterprise
+- **Skills Architetturali**: Costruito ORM custom da zero, progettato algoritmi scheduling, implementato 10+ design patterns
+
+---
+
+## Posizione
+
+**Basata a**: Ladispoli, Roma, Italia
 
 ---
 
@@ -507,7 +343,6 @@ The owner of this repository reserves the right to take appropriate and lawful a
 
 ⭐️ From [Hacman Viorica Gabriela](https://github.com/vhacman)
 
-**"One step at a time, always learning"**
+**"Un passo alla volta, sempre imparando"**
 
 </div>
-
