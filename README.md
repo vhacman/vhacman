@@ -26,9 +26,7 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 
 ## Percorso Formativo
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
 ### <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=flat&logo=java&logoColor=white" alt="Generation Italy"> Java Junior Full Stack Developer Bootcamp
 
@@ -60,21 +58,25 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 - **Database Mastery**: JDBC, SQLite, MySQL con gestione relazioni complesse
 
 #### Progetti Enterprise di Punta
-- **ACMC2ORM**: ORM custom con caching pluggable, relazioni bidirezionali, prevenzione dipendenze circolari
-- **OmegaClinicGEHENNA**: Scheduling clinico con calendario LinkedHashMap, algoritmi di ottimizzazione slot
-- **OmegaClinixMaxi**: Gestione sanitaria avanzata con integrazione database completa
-- **BikeWorld**: Concessionaria moto con State Pattern workflow e ETL CSV
-- **ACMC**: Gestione associazione con DI Container, IoC, MVC, Reflection
-- **Carroponte**: Gestione eventi con Command Pattern e livello caching
-- **OmegaClinic**: Sanità con Repository Pattern, Lazy/Eager Loading
+
+| Progetto | Pattern e tecnologie |
+|----------|---------------------|
+| [ACMC2ORM](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/ACMC2ORM) | ORM custom, Generic Repository, Full/Partial Cache, Relazioni bidirezionali |
+| [OmegaClinicGEHENNA](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinicGEHENNA) | Scheduling clinico, LinkedHashMap Calendar, Comparator avanzati |
+| [OmegaClinixMaxi](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinixMaxi) | Gestione sanitaria avanzata, integrazione database |
+| [BikeWorld](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/BikeWorld) | State Pattern, ETL/CSV Import, Chain of Responsibility |
+| [ACMC](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/ACMC) | DI Container, IoC, MVC, Reflection API, SOLID |
+| [Carroponte](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/Carroponte) | Command Pattern, Caching multi-livello, XOR Cipher |
+| [OmegaClinic](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/03_Business_Applications/02_Commerce_Services/OmegaClinic) | Repository Pattern, Lazy/Eager Loading, JDBC, BigDecimal |
 
 #### Repository
 [![GenerationStudyJavaCourse](https://img.shields.io/badge/Visualizza_Repository-81+_Progetti_Java-FF6B35?style=flat&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
 
 **Materiali del Corso**: [Cartella Drive con Dispense e Materiali](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
-</td>
-<td width="50%" valign="top">
+---
+
+---
 
 ### <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white" alt="42 School"> Programmazione a Basso Livello & Amministrazione Sistema
 
@@ -87,14 +89,14 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### Progetti 42 in Evidenza
+#### Progetti in Evidenza
 
-| Progetto | Descrizione | Tecnologie | Punteggio | Completamento |
-|----------|-------------|------------|:---------:|:-------------:|
-| [Minishell](https://github.com/vhacman/minishell) | Shell completa con pipeline, redirezioni, built-in | C, fork, pipe, execve | 100/100 | Ago 2025 |
-| [Philosophers](https://github.com/vhacman/philo) | Problema filosofi a cena - sincronizzazione | C, pthread, mutex | 100/100 | Lug 2025 |
-| [Push_swap](https://github.com/vhacman/push_swap) | Ordinamento stack con minime operazioni | C, algoritmi avanzati | 90/100 | Apr 2025 |
-| [so_long](https://github.com/vhacman/so_long) | Gioco 2D con MinilibX | C, MinilibX | 122/100 ⭐ | Mar 2025 |
+| Progetto | Descrizione | Tecnologie | Punteggio |
+|----------|-------------|------------|:---------:|
+| [Minishell](https://github.com/vhacman/minishell) | Shell completa con pipeline, redirezioni, built-in | C, fork, pipe, execve | 100/100 |
+| [Philosophers](https://github.com/vhacman/philo) | Problema filosofi a cena - sincronizzazione | C, pthread, mutex | 100/100 |
+| [Push_swap](https://github.com/vhacman/push_swap) | Ordinamento stack con minime operazioni | C, algoritmi avanzati | 90/100 |
+| [so_long](https://github.com/vhacman/so_long) | Gioco 2D con MinilibX | C, MinilibX | 122/100 ⭐ |
 
 #### Tutti i Progetti 42
 
@@ -108,16 +110,14 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 | [so_long](https://github.com/vhacman/so_long) | Gioco 2D | C, MinilibX | 122/100 ⭐ |
 | [Philosophers](https://github.com/vhacman/philo) | Filosofi a cena | C, Threading | 100/100 |
 | [Minishell](https://github.com/vhacman/minishell) | Shell Bash | C, Processi | 100/100 |
-| [NetPractice](https://github.com/vhacman/Net_Practice) | Configurazione rete | TCP/IP, Subnetting | 100/100 |
+| [NetPractice](https://github.com/vhacman/Net_Practice) | Configurazione di rete | TCP/IP, Subnetting | 100/100 |
 | [CPP00](https://github.com/vhacman/CPP00) | Namespace, Classi, I/O Streams | C++ | 100/100 |
 | [CPP01](https://github.com/vhacman/CPP01) | Allocazione memoria, References | C++ | 100/100 |
 | [CPP02](https://github.com/vhacman/CPP02) | Overloading operatori, Fixed-Point Numbers | C++ | 100/100 |
 | [CPP03](https://github.com/vhacman/CPP03) | Ereditarietà, Diamond Problem | C++ | 100/100 |
-| [NetPractice](https://github.com/vhacman/Net_Practice) | Configurazione di rete | TCP/IP, Subnetting | 100/100 |
-| [get_next_line](https://github.com/vhacman/get_next_line) | Lettura file riga per riga | C | 125/100 ⭐ |
 | [ft_printf](https://github.com/vhacman/ft_printf) | Reimplementazione printf | C, variadic functions | 100/100 |
 
-#### Competenze 42 Acquisite
+#### Competenze Acquisite
 
 - **Programmazione Basso Livello**: Gestione memoria, puntatori, chiamate di sistema
 - **System Administration**: Linux, UFW, SSH, Docker, LVM, partitioning
@@ -130,10 +130,6 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 
 #### Progresso Attuale
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -275,17 +271,6 @@ GenerationStudyJavaCourse/
 | [Transportation & Logistics](03_Business_Applications/03_Transportation_Logistics/) | 12 | Taxi, treni, metropolitana, compagnie aeree |
 | [Education & Culture](03_Business_Applications/04_Education_Culture/) | 9 | Scuole, biblioteche, musei, PokeDex |
 
-#### Progetti Enterprise di Punta
-
-| Progetto | Pattern e tecnologie |
-|----------|---------------------|
-| [ACMC](03_Business_Applications/02_Commerce_Services/ACMC/) | IoC Container custom, MVC, Reflection API, Repository, SOLID |
-| [ACMC2ORM](03_Business_Applications/02_Commerce_Services/ACMC2ORM/) | ORM custom, Generic Repository, Full/Partial Cache, Relazioni bidirezionali |
-| [BikeWorld](03_Business_Applications/02_Commerce_Services/BikeWorld/) | State Pattern, Chain of Responsibility, ETL/CSV Import |
-| [Carroponte](03_Business_Applications/02_Commerce_Services/Carroponte/) | Command Pattern, Caching multi-livello, XOR Cipher |
-| [OmegaClinic](03_Business_Applications/02_Commerce_Services/OmegaClinic/) | Repository, Lazy/Eager Loading, JDBC, BigDecimal |
-| [OmegaClinicGEHENNA](03_Business_Applications/02_Commerce_Services/OmegaClinicGEHENNA/) | Scheduling algorithm, Smart Calendar, Comparator avanzati |
-
 ### 04 — Exercises & Practice
 
 | Progetto | Descrizione | Concetti |
@@ -303,10 +288,10 @@ Applicazioni web full-stack:
 | [Emergency](05_Spring%20%26%20FrontEnd%20-%20FullStack/Emergency/) | Pronto soccorso ospedaliero | Spring Boot, JPA, Thymeleaf, REST API |
 | [Dinner](05_Spring%20%26%20FrontEnd%20-%20FullStack/Dinner/) | Gestione ordini ristorante | Spring Boot, JPA, Thymeleaf, REST API |
 | [Ticket](05_Spring%20%26%20FrontEnd%20-%20FullStack/Ticket/) | Sistema segnalazioni/ticket | Spring Boot, JPA, Thymeleaf, REST API |
-| [Vault](05_Spring%20%26%20FrontEnd%20-%20FullStack/vault/) | Membership Vault-Tec (tema Fallout) | Spring Boot, JPA, REST API |
+| [Vault](05_Spring%20%26%20FrontEnd%20-%20FullStack/vault/) | Membership Vault-Tec (Fallout) | Spring Boot, JPA, REST API |
 | [GenSchool](05_Spring%20%26%20FrontEnd%20-%20FullStack/GenSchool/) | Gestione lezioni scolastiche | Spring Boot, JPA, REST API |
-| [PC Configurator](05_Spring%20%26%20FrontEnd%20-%20FullStack/pcconfigurator/) | Configuratore PC personalizzati | Spring Boot, JPA, REST API |
-| [Sanction](05_Spring%20%26%20FrontEnd%20-%20FullStack/sanction/) | Sistema gestione sanzioni amministrative | Spring Boot, JPA, DTO Pattern, REST API |
+| [PC Configurator](05_Spring%20%26%20FrontEnd%20-%20FullStack/pcconfigurator/) | Configuratore PC | Spring Boot, JPA, REST API |
+| [Sanction](05_Spring%20%26%20FrontEnd%20-%20FullStack/sanction/) | Gestione sanzioni amministrative | Spring Boot, JPA, DTO Pattern, REST API |
 | [Hotel Booking](05_Spring%20%26%20FrontEnd%20-%20FullStack/hotelboolking/) | Prenotazioni alberghiere | Spring Boot, JPA, Thymeleaf |
 | [FrontEnd](05_Spring%20%26%20FrontEnd%20-%20FullStack/FrontEnd%20-%20FullStack/) | Progetti HTML/CSS/JS | HTML5, CSS3, JavaScript ES6+ |
 
@@ -344,7 +329,7 @@ Applicazioni web full-stack:
 | Spring Boot Web App | 8 |
 | Frontend | 3 |
 | Script SQL | 7 |
-| Progetti 42 | 13 |
+| Progetti 42 | 14 |
 | **Totale Java** | **81+** |
 
 ---
@@ -391,7 +376,7 @@ Applicazioni web full-stack:
 - **42 Roma Luiss** - Ingegneria del Software (Mar 2024 - Presente)
   - Programmazione C/C++ a basso livello
   - Amministrazione sistema Linux
-  - 13+ progetti completati con tasso successo 100%
+  - 14+ progetti completati con tasso successo 100%
   - 4 stelle bonus per implementazioni eccezionali
 
 ### Formazione Accademica
