@@ -139,8 +139,12 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 |:-----------|:-----------:|:---------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend Development, OOP, Design Patterns |
 | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white) | ⭐⭐⭐⭐ | Spring Boot, REST APIs, Spring Data JPA |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) | ⭐⭐⭐⭐ | Hibernate, Spring Initializr |
+| ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) | ⭐⭐⭐⭐ | ORM, JPA, Database Mapping |
 | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) | ⭐⭐⭐⭐ | Database Design, JDBC, SQL |
 | ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) | ⭐⭐⭐⭐ | Database Embedded |
+| ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) | ⭐⭐⭐⭐ | Database Design, ER Diagrams |
+| ![DBeaver](https://img.shields.io/badge/DBeaver-3F2C53?style=flat&logo=dbeaver&logoColor=white) | ⭐⭐⭐⭐ | Database Client, Query Editor |
 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ⭐⭐⭐⭐⭐ | Programmazione Low-Level, Gestione Memoria |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐⭐ | OOP, STL, Algoritmi Avanzati |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐⭐⭐ | Shell Scripting, Automazione |
@@ -150,8 +154,13 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐ | Logica Frontend, ES6+ |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ | Version Control, Collaborazione |
 | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) | ⭐⭐⭐⭐ | Unit Testing |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ⭐⭐⭐ | Containerization |
-| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | ⭐⭐⭐⭐ | IDE Java Principale |
+| ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ⭐⭐⭐⭐ | API Testing, REST API Development |
+| ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) | ⭐⭐⭐⭐ | Project Management, Documentation |
+| ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft&logoColor=white) | ⭐⭐⭐ | Productivity, Documentation |
+| ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white) | ⭐⭐⭐ | Open Source Productivity Suite |
+| ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) | ⭐⭐⭐⭐ | Team Communication, Collaboration |
+| ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) | ⭐⭐⭐⭐ | IDE Java, Enterprise Development |
+| ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | ⭐⭐⭐⭐⭐ | IDE Java Principale |
 | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ⭐⭐⭐⭐⭐ | Editor di Codice |
 
 ---
