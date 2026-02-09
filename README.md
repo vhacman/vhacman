@@ -34,7 +34,7 @@ Whether I'm debugging a complex algorithm, building an enterprise healthcare sys
 
 ### <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=flat&logo=java&logoColor=white" alt="Generation Italy"> Java Junior Full Stack Developer Bootcamp
 
-**December 2024 - March 2025** | **600+ Hours Intensive Program**
+**December 2024 - April 2025** | **600+ Hours Intensive Program**
 
 #### Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
