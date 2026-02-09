@@ -52,7 +52,7 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 - **Soft Skills**: Problem-solving, Pensiero Critico, Comunicazione
 
 #### Achievement Chiave
-- **79+ Progetti Totali** in tutte le categorie
+- **81+ Progetti Totali** in tutte le categorie
 - **7 Sistemi Enterprise** con pattern avanzati (ACMC, ACMC2ORM, BikeWorld, Carroponte, OmegaClinic, OmegaClinicGEHENNA, OmegaClinixMaxi)
 - **Framework ORM Custom** - Costruito da zero con Generic Repository Pattern
 - **Design Patterns Avanzati**: Repository, Factory, ETL, IoC Container, Strategie di Caching (FullCache/PartialCache), State Pattern, Chain of Responsibility
@@ -69,14 +69,14 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 - **OmegaClinic**: Sanità con Repository Pattern, Lazy/Eager Loading
 
 #### Repository
-[![GenerationStudyJavaCourse](https://img.shields.io/badge/Visualizza_Repository-79+_Progetti_Java-FF6B35?style=flat&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
+[![GenerationStudyJavaCourse](https://img.shields.io/badge/Visualizza_Repository-81+_Progetti_Java-FF6B35?style=flat&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
 
 **Materiali del Corso**: [Cartella Drive con Dispense e Materiali](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white" alt="42 School"> Programma di Ingegneria del Software
+### <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white" alt="42 School"> Programmazione a Basso Livello & Amministrazione Sistema
 
 **Ottobre 2024 - Presente** | **Apprendimento Peer-to-Peer**
 
@@ -87,20 +87,46 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### Focus di Apprendimento
-- **Programmazione Low-Level**: C/C++, Gestione Memoria, Puntatori
-- **System Programming**: Unix/Linux, Gestione Processi, File Descriptors
-- **Algoritmi & Strutture Dati**: Sorting, Searching, Ottimizzazione
-- **Programmazione Concorrente**: Threading, Mutexes, Semaphores
-- **Network Programming**: TCP/IP, Socket Programming
-- **Graphics Programming**: MinilibX, Game Development
-- **C++ OOP**: Classi, Ereditarietà, Polimorfismo, Overloading Operatori
+#### Progetti 42 in Evidenza
 
-#### Achievement Chiave
-- **14+ Progetti Completati** con punteggi 90-125/100
-- **4 Stelle Bonus** per implementazioni eccezionali
-- **100% Tasso di Passaggio** alle valutazioni
-- **Punteggio Perfetto** su progetti complessi multipli (libft, ft_printf, Philosophers, Minishell)
+| Progetto | Descrizione | Tecnologie | Punteggio | Completamento |
+|----------|-------------|------------|:---------:|:-------------:|
+| [Minishell](https://github.com/vhacman/minishell) | Shell completa con pipeline, redirezioni, built-in | C, fork, pipe, execve | 100/100 | Ago 2025 |
+| [Philosophers](https://github.com/vhacman/philo) | Problema filosofi a cena - sincronizzazione | C, pthread, mutex | 100/100 | Lug 2025 |
+| [Push_swap](https://github.com/vhacman/push_swap) | Ordinamento stack con minime operazioni | C, algoritmi avanzati | 90/100 | Apr 2025 |
+| [so_long](https://github.com/vhacman/so_long) | Gioco 2D con MinilibX | C, MinilibX | 122/100 ⭐ | Mar 2025 |
+
+#### Tutti i Progetti 42
+
+| Progetto | Descrizione | Tecnologie | Punteggio |
+|----------|-------------|------------|:---------:|
+| [libft](https://github.com/vhacman/libft) | Ricreazione libreria C standard | C | 100/100 |
+| [get_next_line](https://github.com/vhacman/get_next_line) | Lettura file riga per riga | C | 125/100 ⭐ |
+| [Born2beroot](https://github.com/vhacman/Born2beroot) | Amministrazione sistema Linux | Linux, SSH, Docker, UFW | 110/100 ⭐ |
+| [Pipex](https://github.com/vhacman/pipex) | Pipeline UNIX | C, fork, pipe, dup2 | 108/100 ⭐ |
+| [Push_swap](https://github.com/vhacman/push_swap) | Ordinamento stack ottimizzato | C, algoritmi | 90/100 |
+| [so_long](https://github.com/vhacman/so_long) | Gioco 2D | C, MinilibX | 122/100 ⭐ |
+| [Philosophers](https://github.com/vhacman/philo) | Filosofi a cena | C, Threading | 100/100 |
+| [Minishell](https://github.com/vhacman/minishell) | Shell Bash | C, Processi | 100/100 |
+| [NetPractice](https://github.com/vhacman/Net_Practice) | Configurazione rete | TCP/IP, Subnetting | 100/100 |
+| [CPP00](https://github.com/vhacman/CPP00) | Namespace, Classi, I/O Streams | C++ | 100/100 |
+| [CPP01](https://github.com/vhacman/CPP01) | Allocazione memoria, References | C++ | 100/100 |
+| [CPP02](https://github.com/vhacman/CPP02) | Overloading operatori, Fixed-Point Numbers | C++ | 100/100 |
+| [CPP03](https://github.com/vhacman/CPP03) | Ereditarietà, Diamond Problem | C++ | 100/100 |
+| [NetPractice](https://github.com/vhacman/Net_Practice) | Configurazione di rete | TCP/IP, Subnetting | 100/100 |
+| [get_next_line](https://github.com/vhacman/get_next_line) | Lettura file riga per riga | C | 125/100 ⭐ |
+| [ft_printf](https://github.com/vhacman/ft_printf) | Reimplementazione printf | C, variadic functions | 100/100 |
+
+#### Competenze 42 Acquisite
+
+- **Programmazione Basso Livello**: Gestione memoria, puntatori, chiamate di sistema
+- **System Administration**: Linux, UFW, SSH, Docker, LVM, partitioning
+- **Algoritmi**: Ordinamento, ottimizzazione, analisi complessità
+- **Programmazione di Sistema**: Gestione processi, file descriptor, segnali
+- **Programmazione Concorrente**: Threading, mutex, semafori, prevenzione deadlock
+- **Programmazione di Rete**: TCP/IP, routing, subnetting, socket
+- **Grafica**: MinilibX, event handling, game loop
+- **C++ OOP**: Classi, ereditarietà, polimorfismo, overloading operatori
 
 #### Progresso Attuale
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
@@ -122,35 +148,83 @@ Che stia debuggando un algoritmo complesso, costruendo un sistema enterprise per
 | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ⭐⭐⭐⭐⭐ | Programmazione Low-Level, Gestione Memoria |
 | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) | ⭐⭐⭐⭐ | OOP, STL, Algoritmi Avanzati |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) | ⭐⭐⭐⭐ | Shell Scripting, Automazione |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ⭐⭐⭐⭐ | System Administration, Server Management |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ⭐⭐⭐ | Struttura Frontend |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ⭐⭐⭐ | Styling, Responsive Design |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐ | Logica Frontend, ES6+ |
 | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ | Version Control, Collaborazione |
 | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) | ⭐⭐⭐⭐ | Unit Testing |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ⭐⭐⭐ | Containerization |
 | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) | ⭐⭐⭐⭐ | IDE Java Principale |
 | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | ⭐⭐⭐⭐⭐ | Editor di Codice |
 
 ---
 
-## Panoramica Repository
+## Statistiche GitHub
 
-Questa repository raccoglie **79+ progetti** sviluppati durante il bootcamp Generation Italy, organizzati in un percorso progressivo: dalla sintassi base di Java fino alla realizzazione di applicazioni web full-stack con Spring Boot.
+<div align="center">
+
+### Visualizzazioni Profilo
+
+![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Profile+views&color=0e75b6&style=for-the-badge)
+
+</div>
+
+### 📊 Statistiche & Attività GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vhacman&theme=tokyonight&hide_border=true)
+
+</div>
+
+### 💻 Linguaggi Più Utilizzati
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+### 📈 Grafico Contribuzioni
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
+
+### 🏆 Trofei GitHub
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## Panoramica Repository Java
+
+Questa repository raccoglie **81+ progetti** sviluppati durante il bootcamp Generation Italy, organizzati in un percorso progressivo: dalla sintassi base di Java fino alla realizzazione di applicazioni web full-stack con Spring Boot.
 
 ```
 GenerationStudyJavaCourse/
 ├── 00_Libraries/                         Framework e librerie riutilizzabili
 ├── 01_Fundamentals_Examples/             Fondamenti Java e OOP (12 moduli)
-├── 02_Tickets_Transportation/            Sistemi di biglietteria e trasporti
-├── 03_Business_Applications/             43 applicazioni gestionali
-├── 04_Exercises_Practice/                Esercizi supplementari
-├── 05_Spring & FrontEnd - FullStack/     Spring Boot, JPA, Frontend
-├── 06_Database - MySql/                  Fondamenti SQL e query avanzate
-└── docs/                                 Documentazione di supporto
+├── 02_Tickets_Transportation/           Sistemi di biglietteria e trasporti
+├── 03_Business_Applications/            43 applicazioni gestionali
+├── 04_Exercises_Practice/               Esercizi supplementari
+├── 05_Spring & FrontEnd - FullStack/    Spring Boot, JPA, Frontend
+├── 06_Database - MySql/                 Fondamenti SQL e query avanzate
+└── docs/                                Documentazione di supporto
 ```
 
 ---
 
-## Struttura Progetti
+## Struttura Progetti Java
 
 ### 00 — Librerie
 
@@ -258,19 +332,38 @@ Applicazioni web full-stack:
 
 ---
 
-## Statistiche
+## Statistiche Progetti
 
 | Categoria | Quantità |
 |-----------|:--------:|
 | Framework/Librerie | 1 |
-| Moduli fondamentali | 12 |
+| Moduli fondamentali Java | 12 |
 | Trasporti & Biglietteria | 10 |
 | Business Applications | 43 |
 | Esercizi & Pratica | 4 |
 | Spring Boot Web App | 8 |
 | Frontend | 3 |
 | Script SQL | 7 |
-| **Totale** | **79+** |
+| Progetti 42 | 13 |
+| **Totale Java** | **81+** |
+
+---
+
+## Esperienza
+
+### Property Booking Manager
+**Booking.com - Cazare Casa Andreia** | *2020 - 2024*
+
+- Gestione aggiornamenti piattaforma digitale e sistemi di prenotazione
+- Analisi dati e reportistica
+- Ottimizzazione servizio clienti
+
+### Caposala Ristorante
+*Aprile 2022 - Dicembre 2024*
+
+- Coordinamento team e ottimizzazione flusso lavoro
+- Gestione sistemi pagamento digitali
+- Eccellenza nel servizio clienti
 
 ---
 
@@ -281,6 +374,7 @@ Applicazioni web full-stack:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viorica_Gabriela_Hacman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
 [![Email](https://img.shields.io/badge/Email-hacmanvioricagabriela%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hacmanvioricagabriela@gmail.com)
 [![42 Profile](https://img.shields.io/badge/42_Intra-vhacman-2BA5DE?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/vhacman)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-DevGabi98-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/DevGabi98)
 
 </div>
 
@@ -290,16 +384,17 @@ Applicazioni web full-stack:
 
 ### Formazione Tecnica
 - **Generation Italy** - Java Junior Full Stack Developer Bootcamp (Dic 2024 - Mar 2025)
-  - 600+ ore di programma intensivo
+  - Programma intensivo 600+ ore
   - Java, Spring Boot, MySQL, Tecnologie Frontend
-  - 79+ progetti completati inclusi ORM custom
+  - 81+ progetti completati incluso framework ORM custom
 
 - **42 Roma Luiss** - Ingegneria del Software (Mar 2024 - Presente)
-  - Programmazione C/C++
-  - Amministrazione sistema
-  - 14+ progetti completati con 100% tasso di passaggio
+  - Programmazione C/C++ a basso livello
+  - Amministrazione sistema Linux
+  - 13+ progetti completati con tasso successo 100%
+  - 4 stelle bonus per implementazioni eccezionali
 
-### Background Accademico
+### Formazione Accademica
 - **Università e-Campus** - Lingue e Culture Europee (L11) (2022 - 2024)
   - Voto: 95/110
 
@@ -321,21 +416,29 @@ Applicazioni web full-stack:
 
 ---
 
-## Cosa Mi Differenzia
+## Cosa Mi Distingue
 
 - **Multilingue**: Fluente in 4 lingue — perfetta per team internazionali
-- **Problem Solver**: Dal customer service al codice — prospero nella risoluzione sfide
-- **Persistente**: Autodidatta nel tech, imparata attraverso dedizione e pratica
-- **Team Player**: Esperienza in leadership di team e collaborazione
+- **Problem Solver**: Dal servizio clienti al codice — prospero nelle sfide
+- **Perseverante**: Autodidatta in tech, imparato attraverso dedizione e pratica
+- **Team Player**: Esperienza in leadership e collaborazione di team
 - **Analitica**: Background manageriale porta pensiero data-driven allo sviluppo
-- **Continuous Learner**: Contemporaneamente padroneggio C/C++ low-level e Java enterprise
-- **Skills Architetturali**: Costruito ORM custom da zero, progettato algoritmi scheduling, implementato 10+ design patterns
+- **Continuous Learner**: Padroneggio simultaneo di C/C++ basso livello e Java enterprise
+- **Competenze Architetturali**: Costruito ORM custom da zero, progettato algoritmi di scheduling, implementato 10+ design pattern
 
 ---
 
-## Posizione
+## Località
 
 **Basata a**: Ladispoli, Roma, Italia
+
+---
+
+## Privacy & Disclaimer
+
+Si prega di essere consapevoli che le informazioni condivise pubblicamente online, inclusi gli indirizzi email associati ai contributi a questo repository, possono potenzialmente essere raccolte e analizzate. Questo repository è condiviso con la consapevolezza che tale raccolta possa verificarsi.
+
+Il proprietario di questo repository si riserva il diritto di intraprendere azioni appropriate e legali se qualsiasi informazione pubblicamente disponibile relativa a questo repository viene utilizzata in modo improprio in modo da causare danni o violare i diritti alla privacy. Interagendo con questo repository, riconosci e comprendi queste considerazioni.
 
 ---
 
