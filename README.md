@@ -141,9 +141,6 @@ Whether I'm debugging a complex algorithm, building an enterprise healthcare sys
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
 ---
-
-## Tech Stack
-
 | Technology | Proficiency | Usage |
 |:-----------|:-----------:|:---------|
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ⭐⭐⭐⭐⭐ | Backend Development, OOP, Design Patterns |
@@ -162,10 +159,13 @@ Whether I'm debugging a complex algorithm, building an enterprise healthcare sys
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ⭐⭐⭐ | Frontend Structure |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ⭐⭐⭐ | Styling, Responsive Design |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐ | Frontend Logic, ES6+ |
-| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ | Version Control, Collaboration |
+| ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ⭐⭐⭐⭐⭐ | Version Control, Branching Strategies, Merge/Rebase, Conflict Resolution, Pull Requests, Code Review |
+| ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) | ⭐⭐⭐⭐⭐ | Repository Management, Collaboration, Issues & Projects, Code Review |
+| ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) | ⭐⭐⭐⭐ | Terminal Text Editor, Efficient Code Editing, Configuration |
 | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) | ⭐⭐⭐⭐ | Unit Testing |
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) | ⭐⭐⭐⭐ | API Testing, REST API Development |
 | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) | ⭐⭐⭐⭐ | Project Management, Documentation |
+| ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) | ⭐⭐⭐ | Graphic Design, Presentations, Visual Content |
 | ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft&logoColor=white) | ⭐⭐⭐ | Productivity, Documentation |
 | ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white) | ⭐⭐⭐ | Open Source Productivity Suite |
 | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) | ⭐⭐⭐⭐ | Team Communication, Collaboration |
