@@ -1,6 +1,6 @@
 <div align="center">
 
-# 42 Student & Generation Italy Student— Java Full Stack Developer
+# 42 Student & Generation Italy Student— Software Engeneer & Java Full Stack Developer
 
 **Complete repository of the training path: from Java fundamentals to Spring Boot and MySQL**
 
