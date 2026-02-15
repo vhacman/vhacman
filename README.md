@@ -83,6 +83,8 @@ Whether I'm debugging a complex algorithm, building an enterprise healthcare sys
 
 **Course Materials**: [Drive Folder with Notes & Materials](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
+**Technical Documentation**: [Documentazione Tecnica Repository](https://github.com/vhacman/documentazioneTecnica) - Comprehensive notes, guides, and references
+
 ---
 
 ### <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white" alt="42 School"> Low-Level Programming & System Administration
