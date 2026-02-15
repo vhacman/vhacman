@@ -1,6 +1,6 @@
 <div align="center">
 
-# 42 Student & Generation Italy Student— Software Engeneer & Java Full Stack Developer
+# 42 Student & Generation Italy Student— Software Engineer & Java Full Stack Developer
 
 **Complete repository of the training path: from Java fundamentals to Spring Boot and MySQL**
 
@@ -313,7 +313,7 @@ GenerationStudyJavaCourse/
 | [Hotel Booking](05_Spring%20%26%20FrontEnd%20-%20FullStack/hotelboolking/) | Hotel reservations | Spring Boot, JPA, Thymeleaf |
 | [FoodDelivery](05_Spring%20%26%20FrontEnd%20-%20FullStack/fooddelivery/) | Food delivery with rider proximity assignment | Spring Boot, JPA, MapStruct, Lombok |
 | [JavaEat v01](05_Spring%20%26%20FrontEnd%20-%20FullStack/javaeat_v01/) | Food delivery platform | Spring Boot, JPA, DTO Pattern |
-| [JavaEat v02](05_Spring%20%26%20FrontEnd%20-%20FullStack/javaeat_v02/) | Food delivery refactored (M:N, analytics) | Spring Boot, JPA, MapStruct |
+| [JavaEat v02](https://github.com/vhacman/GenerationStudyJavaCourse/tree/main/05_Spring%20%26%20FrontEnd%20-%20FullStack/javaeat_v02) | Food delivery refactored (M:N, analytics) | Spring Boot, JPA, MapStruct |
 | [Product](05_Spring%20%26%20FrontEnd%20-%20FullStack/product/) | Product catalog with reviews | Spring Boot, JPA, Validation |
 | [WebClinic](05_Spring%20%26%20FrontEnd%20-%20FullStack/webclinic/) | Medical clinic management | Spring Boot, JPA, REST API |
 | [FrontEnd](05_Spring%20%26%20FrontEnd%20-%20FullStack/FrontEnd%20-%20FullStack/) | HTML/CSS/JS projects | HTML5, CSS3, JavaScript ES6+ |
