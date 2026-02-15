@@ -1,6 +1,6 @@
 <div align="center">
 
-# Studente 42 & Studente Generation Italy — Ingegnere del Software & Java Full Stack Developer
+# Studente 42 & Studente Generation Italy — Software Engineer & Java Full Stack Developer
 
 **Repository completo del percorso formativo: dai fondamenti Java a Spring Boot e MySQL**
 
