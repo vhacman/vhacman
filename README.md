@@ -75,21 +75,21 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 - **Healthcare scheduling algorithms**: smart calendar management with LinkedHashMap and advanced Comparators
 - **Food delivery platform** evolved across two iterations (JavaEat v01 → v02) with MapStruct and ManyToMany relationships
 
-#### Featured Enterprise Projects
+#### Repositories
 
-| Project | Patterns & Technologies |
-|----------|------------------------|
-| [ACMC2ORM](https://github.com/vhacman/03_Business_Applications) | Custom ORM, Generic Repository, Full/Partial Cache, bidirectional relations |
-| [OmegaClinicGEHENNA](https://github.com/vhacman/03_Business_Applications) | Clinical scheduling, LinkedHashMap calendar, advanced Comparators |
-| [OmegaClinixMaxi](https://github.com/vhacman/03_Business_Applications) | Advanced healthcare management, database integration |
-| [BikeWorld](https://github.com/vhacman/03_Business_Applications) | State Pattern, ETL/CSV import, Chain of Responsibility |
-| [ACMC](https://github.com/vhacman/03_Business_Applications) | DI Container, IoC, MVC, Reflection API, SOLID |
-| [Carroponte](https://github.com/vhacman/03_Business_Applications) | Command Pattern, multi-level caching, XOR Cipher |
-| [OmegaClinic](https://github.com/vhacman/03_Business_Applications) | Repository Pattern, Lazy/Eager Loading, JDBC, BigDecimal |
-| [JavaEat v02](https://github.com/vhacman/05_Spring-FrontEnd---FullStack) | MapStruct, ManyToMany, Service Layer, analytics endpoints |
+| # | Repository | Contenuto |
+|---|------------|-----------|
+| 00 | [00_libraries](https://github.com/vhacman/00_libraries) | Framework e librerie riutilizzabili (GenerationLibrary) |
+| 01 | [01_fundamentals_examples](https://github.com/vhacman/01_fundamentals_examples) | Fondamenti Java e OOP — 12 moduli |
+| 02 | [02_tickets_transportation](https://github.com/vhacman/02_tickets_transportation) | Sistemi di biglietteria e trasporti — 9 progetti |
+| 03 | [03_Business_Applications](https://github.com/vhacman/03_Business_Applications) | Applicazioni gestionali enterprise — 43 progetti |
+| 04 | [04_Exercises_Practice](https://github.com/vhacman/04_Exercises_Practice) | Esercizi supplementari — 4 progetti |
+| 05 | [05_Spring-FrontEnd---FullStack](https://github.com/vhacman/05_Spring-FrontEnd---FullStack) | Spring Boot + REST API + Frontend — 16 progetti |
+| 06 | [06_Angular-Frontend](https://github.com/vhacman/06_Angular-Frontend) | Angular 21 — 9 applicazioni |
+| 07 | [07_FullStack-NodeJS-Angular](https://github.com/vhacman/07_FullStack-NodeJS-Angular) | FullStack Node.js + Express + SQLite + Angular |
+| 08 | [08_FullStack-SpringBoot](https://github.com/vhacman/08_FullStack-SpringBoot) | FullStack Spring Boot + Angular — 3 progetti |
+| 09 | [09_Database-MySql](https://github.com/vhacman/09_Database-MySql) | SQL fondamentali e query avanzate |
 
-[![GenerationStudyJavaCourse](https://img.shields.io/badge/View_Full_Repository-84+_Java_Projects-FF6B35?style=flat&logo=github)](https://github.com/vhacman/GenerationStudyJavaCourse)
-&nbsp;
 [![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-Notes_&_Guides-181717?style=flat&logo=github)](https://github.com/vhacman/documentazioneTecnica)
 &nbsp;
 [![Course Materials](https://img.shields.io/badge/Course_Materials-Drive_Folder-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
