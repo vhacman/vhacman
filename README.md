@@ -124,10 +124,10 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 | **Mindset** | Adattabilità · Mentalità di crescita · Zona di comfort · Persistenza |
 | **Autogestione** | Gestione del tempo · Responsabilità personale · Proattività vs reattività |
 | **Team** | Gruppo vs. squadra · Comunicazione · Collaborazione remota |
-| **Tech Context** | Ruolo del Java Developer · AI generativa per il lavoro |
+| **Tech Context** | Ruolo Scrum Master · AI generativa per il lavoro |
 | **Agile & Scrum** | Sprint Planning · Sprint Backlog · Scrum Board · Roadmap · Cerimonie Agile |
 
-#### Progetto di Gruppo — *"Gli Sviluppatori Anonimi"*
+#### Progetto di Gruppo — *"ShareSphere"*
 
 Team project con metodologia Scrum completa: analisi delle richieste cliente, patto sociale del team, user story, sprint backlog, sprint planning, scrum board, roadmap, mockup desktop & mobile (homepage, profilo, pannello admin, blog, feedback) e resoconto sprint.
 
