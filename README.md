@@ -173,7 +173,7 @@ Team coordination, workflow optimization, digital payment systems, customer serv
 
 ## Languages
 
-🇷🇴 Romanian — Native &nbsp;|&nbsp; 🇮🇹 Italian — Bilingual (C2) &nbsp;|&nbsp; 🇬🇧 English — Advanced (C1) &nbsp;|&nbsp; 🇩🇪 German — Intermediate &nbsp;|&nbsp; 🇫🇷 French — Intermediate
+🇷🇴 Romanian — Native &nbsp;|&nbsp; 🇮🇹 Italian — Bilingual (C2) &nbsp;|&nbsp; 🇬🇧 English — Intermediate High (B2) &nbsp;|&nbsp; 🇩🇪 German — Intermediate &nbsp;|&nbsp; 🇫🇷 French — Intermediate
 
 ---
 
