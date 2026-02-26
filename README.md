@@ -117,6 +117,30 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 
 ---
 
+## Soft Skills
+
+| Area | Competenze |
+|------|-----------|
+| **Mindset** | Adattabilità · Mentalità di crescita · Zona di comfort · Persistenza |
+| **Autogestione** | Gestione del tempo · Responsabilità personale · Proattività vs reattività |
+| **Team** | Gruppo vs. squadra · Comunicazione · Collaborazione remota |
+| **Tech Context** | Ruolo del Java Developer · AI generativa per il lavoro |
+| **Agile & Scrum** | Sprint Planning · Sprint Backlog · Scrum Board · Roadmap · Cerimonie Agile |
+
+#### Certificazioni
+
+[![Scrum Fundamentals Certified](https://img.shields.io/badge/Scrum_Fundamentals_Certified_4th_Ed-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
+&nbsp;
+[![SBOK Guide 4th Ed](https://img.shields.io/badge/SBOK_Guide_4th_Edition-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
+&nbsp;
+[![SBOK Guide 5th Ed](https://img.shields.io/badge/SBOK_Guide_5th_Edition-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
+
+#### Progetto di Gruppo — *"Gli Sviluppatori Anonimi"*
+
+Team project con metodologia Scrum completa: analisi delle richieste cliente, patto sociale del team, user story, sprint backlog, sprint planning, scrum board, roadmap, mockup desktop & mobile (homepage, profilo, pannello admin, blog, feedback) e resoconto sprint.
+
+---
+
 ## Tech Skills
 
 | Area | Technologies |
@@ -151,18 +175,6 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
-
----
-
-## Soft Skills
-
-| Competenze Trasversali | Certificazioni |
-|------------------------|---------------|
-| Adattabilità · Proattività vs reattività | [![Scrum](https://img.shields.io/badge/Scrum_Fundamentals_Certified-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#) |
-| Gestione del tempo · Responsabilità personale | [![SBOK](https://img.shields.io/badge/SBOK_Guide-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#) |
-| Lavoro di gruppo · Intelligenza artificiale | Ruolo Scrum Master |
-
-**Progetto di gruppo — "Gli Sviluppatori Anonimi":** mockup desktop & mobile, user story, sprint backlog, sprint planning, documentazione Scrum completa.
 
 ---
 
