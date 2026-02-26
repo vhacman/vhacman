@@ -173,7 +173,7 @@ Coordinamento team, ottimizzazione flussi di lavoro, sistemi di pagamento digita
 
 ## Lingue
 
-🇷🇴 Romeno — Madrelingua &nbsp;|&nbsp; 🇮🇹 Italiano — Bilingue (C2) &nbsp;|&nbsp; 🇬🇧 Inglese — Intermediate High (B2) &nbsp;|&nbsp; 🇩🇪 Tedesco — Intermedio &nbsp;|&nbsp; 🇫🇷 Francese — Intermedio
+🇷🇴 Romeno — Madrelingua &nbsp;|&nbsp; 🇮🇹 Italiano — Madrelingua &nbsp;|&nbsp; 🇬🇧 Inglese — Intermediate High (B2) &nbsp;|&nbsp; 🇩🇪 Tedesco — Intermedio &nbsp;|&nbsp; 🇫🇷 Francese — Intermedio
 
 ---
 
