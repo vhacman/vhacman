@@ -190,4 +190,3 @@ Coordinamento team, ottimizzazione flussi di lavoro, sistemi di pagamento digita
 ⭐️ [vhacman](https://github.com/vhacman) · Ladispoli, Roma, Italia
 
 </div>
-s
