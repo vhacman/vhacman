@@ -11,6 +11,7 @@
 [![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
+
 📖 **Leggi in un'altra lingua:** [🇬🇧 English](https://github.com/vhacman/vhacman/blob/main/README.md) | 🇮🇹 Italiano
 
 </div>
