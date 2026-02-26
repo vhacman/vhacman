@@ -146,17 +146,6 @@ Team project con metodologia Scrum completa: analisi delle richieste cliente, pa
 
 </div>
 
----
-
-## Experience
-
-**Property Booking Manager** · Booking.com - Cazare Casa Andreia · *2020 – 2024*
-Digital platform management, booking systems, data reporting, customer service optimization.
-
-**Restaurant Team Lead** · *April 2022 – December 2024*
-Team coordination, workflow optimization, digital payment systems, customer service.
-
----
 
 ## Academic Background
 
