@@ -47,7 +47,7 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 | [Philosophers](https://github.com/vhacman/philo) | Dining philosophers — synchronization | C, pthread, mutex | 100/100 |
 | [so_long](https://github.com/vhacman/so_long) | 2D game with MinilibX | C, MinilibX | 122/100 ⭐ |
 
-[![All 14 projects →](https://img.shields.io/badge/All_14_projects_with_scores-2BA5DE?style=flat&logo=42&logoColor=white)](https://github.com/vhacman/vhacman/blob/main/README_42_projects.md)
+[![All 14 projects →](https://img.shields.io/badge/All_14_projects_with_scores-2BA5DE?style=flat&logo=42&logoColor=white)](https://github.com/vhacman/42_RomaLuiss/blob/main/README.md)
 
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
