@@ -160,7 +160,7 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 |------------------------|---------------|
 | Adattabilità · Proattività vs reattività | [![Scrum](https://img.shields.io/badge/Scrum_Fundamentals_Certified-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#) |
 | Gestione del tempo · Responsabilità personale | [![SBOK](https://img.shields.io/badge/SBOK_Guide-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#) |
-| Lavoro di gruppo · Intelligenza artificiale | Ruolo Java Developer |
+| Lavoro di gruppo · Intelligenza artificiale | Ruolo Scrum Master |
 
 **Progetto di gruppo — "Gli Sviluppatori Anonimi":** mockup desktop & mobile, user story, sprint backlog, sprint planning, documentazione Scrum completa.
 
