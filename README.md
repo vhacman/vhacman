@@ -41,35 +41,14 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 
 **Skills acquired:** memory management, system calls, process & signal management, concurrent programming (threads, mutexes, semaphores), networking (TCP/IP, subnetting), graphics (MinilibX), C++ OOP & STL, Linux system administration.
 
-#### Featured Projects
-
 | Project | Description | Technologies | Score |
-|----------|-------------|------------|:---:|
+|---------|-------------|-------------|:-----:|
 | [Minishell](https://github.com/vhacman/minishell) | Complete shell with pipelines, redirections, built-ins | C, fork, pipe, execve | 100/100 |
 | [Philosophers](https://github.com/vhacman/philo) | Dining philosophers — synchronization | C, pthread, mutex | 100/100 |
 | [so_long](https://github.com/vhacman/so_long) | 2D game with MinilibX | C, MinilibX | 122/100 ⭐ |
-| [Push_swap](https://github.com/vhacman/push_swap) | Stack sorting with minimal operations | C, algorithms | 90/100 |
 
-#### All 42 Projects
+[![All 14 projects →](https://img.shields.io/badge/All_14_projects_with_scores-2BA5DE?style=flat&logo=42&logoColor=white)](https://github.com/vhacman/vhacman/blob/main/README_42_projects.md)
 
-| Project | Description | Technologies | Score |
-|----------|-------------|------------|:---:|
-| [libft](https://github.com/vhacman/libft) | C standard library recreation | C | 100/100 |
-| [get_next_line](https://github.com/vhacman/get_next_line) | File reading line by line | C | 125/100 ⭐ |
-| [ft_printf](https://github.com/vhacman/ft_printf) | printf reimplementation | C, variadic functions | 100/100 |
-| [Born2beroot](https://github.com/vhacman/Born2beroot) | Linux system administration | Linux, SSH, Docker, UFW | 110/100 ⭐ |
-| [Pipex](https://github.com/vhacman/pipex) | UNIX pipelines | C, fork, pipe, dup2 | 108/100 ⭐ |
-| [so_long](https://github.com/vhacman/so_long) | 2D game | C, MinilibX | 122/100 ⭐ |
-| [Push_swap](https://github.com/vhacman/push_swap) | Optimized stack sorting | C, algorithms | 90/100 |
-| [Philosophers](https://github.com/vhacman/philo) | Dining philosophers | C, threading | 100/100 |
-| [Minishell](https://github.com/vhacman/minishell) | Bash shell | C, processes | 100/100 |
-| [NetPractice](https://github.com/vhacman/Net_Practice) | Network configuration | TCP/IP, subnetting | 100/100 |
-| [CPP00](https://github.com/vhacman/CPP00) | Namespaces, classes, I/O streams | C++ | 100/100 |
-| [CPP01](https://github.com/vhacman/CPP01) | Memory allocation, references | C++ | 100/100 |
-| [CPP02](https://github.com/vhacman/CPP02) | Operator overloading, fixed-point numbers | C++ | 100/100 |
-| [CPP03](https://github.com/vhacman/CPP03) | Inheritance, diamond problem | C++ | 100/100 |
-
-#### Current Progress
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
 ---
