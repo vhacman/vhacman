@@ -1,3 +1,4 @@
+<div align="center">
 # Hacman Viorica Gabriela
 
 ### Software Engineer in formazione · Java Backend & Low-Level C
@@ -8,6 +9,7 @@ Vengo da un percorso umanistico — lingue, comunicazione, team — e ho portato
 📖 **Leggi in un'altra lingua:** [🇬🇧 English](https://github.com/vhacman/vhacman/blob/main/README.md) | 🇮🇹 Italiano
 
 ---
+</div>
 
 ## Chi sono
 
