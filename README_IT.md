@@ -2,7 +2,6 @@
 
 # Hacman Viorica Gabriela
 ### 42 Roma Luiss · Generation Italy — Software Engineer & Java Full Stack Developer
-
 [![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.2-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -10,7 +9,8 @@
 [![MapStruct](https://img.shields.io/badge/MapStruct-1.6.3-E94E1B?style=flat&logo=java&logoColor=white)](https://mapstruct.org/)
 [![JUnit5](https://img.shields.io/badge/JUnit-5-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
-
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 📖 **Leggi in un'altra lingua:** [🇬🇧 English](https://github.com/vhacman/vhacman/blob/main/README.md) | 🇮🇹 Italiano
 
 </div>
