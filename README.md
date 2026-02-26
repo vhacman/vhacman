@@ -127,14 +127,6 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 | **Tech Context** | Ruolo del Java Developer · AI generativa per il lavoro |
 | **Agile & Scrum** | Sprint Planning · Sprint Backlog · Scrum Board · Roadmap · Cerimonie Agile |
 
-#### Certificazioni
-
-[![Scrum Fundamentals Certified](https://img.shields.io/badge/Scrum_Fundamentals_Certified_4th_Ed-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
-&nbsp;
-[![SBOK Guide 4th Ed](https://img.shields.io/badge/SBOK_Guide_4th_Edition-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
-&nbsp;
-[![SBOK Guide 5th Ed](https://img.shields.io/badge/SBOK_Guide_5th_Edition-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#)
-
 #### Progetto di Gruppo — *"Gli Sviluppatori Anonimi"*
 
 Team project con metodologia Scrum completa: analisi delle richieste cliente, patto sociale del team, user story, sprint backlog, sprint planning, scrum board, roadmap, mockup desktop & mobile (homepage, profilo, pannello admin, blog, feedback) e resoconto sprint.
