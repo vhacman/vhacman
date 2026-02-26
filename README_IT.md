@@ -137,17 +137,6 @@ Progetto team con metodologia Scrum completa: analisi delle richieste cliente, p
 
 ![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
 
----
-
-## Esperienza
-
-**Property Booking Manager** · Booking.com - Cazare Casa Andreia · *2020 – 2024*  
-Gestione piattaforma digitale, sistemi di prenotazione, reportistica dati, ottimizzazione customer service.
-
-**Restaurant Team Lead** · *Aprile 2022 – Dicembre 2024*  
-Coordinamento team, ottimizzazione flussi di lavoro, sistemi di pagamento digitale, customer service.
-
----
 
 ## Percorso Formativo
 
