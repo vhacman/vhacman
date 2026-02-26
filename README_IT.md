@@ -16,7 +16,7 @@ Vengo da un percorso umanistico — lingue, comunicazione, team — e ho portato
 
 Dallo studio delle lingue e delle culture alla scrittura di codice — il mio percorso nel tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in **Lingue e Culture Europee (L11)** e anni di esperienza nel customer service e nella gestione di team, so come lavorare sotto pressione, risolvere problemi sul momento e comunicare tra mondi diversi.
 
-Oggi sono completamente focalizzata sullo sviluppo software: studio **C/C++ low-level** alla **42 Roma Luiss** e **Java enterprise** a **Generation Italy**, in parallelo. Ho costruito un ORM custom da zero, implementato 10+ design pattern e consegnato 84+ progetti — imparando che la persistenza batte sempre la perfezione.
+Oggi sono completamente focalizzata sullo sviluppo software: studio **C/C++ low-level** alla **42 Roma Luiss**, **Java enterprise** e Frontend con Angular e JavaScript a **Generation Italy**, in parallelo — imparando che la persistenza batte sempre la perfezione.
 
 ---
 
