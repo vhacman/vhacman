@@ -21,8 +21,7 @@
 
 From studying languages and cultures to writing code — my journey into tech started with curiosity and a desire for change. With a degree in **Languages and European Cultures (L11)** and years of experience in customer service and team management, I know how to work under pressure, solve problems on the spot, and communicate across different worlds.
 
-Now I'm fully committed to software development: studying **low-level C/C++** at **42 Roma Luiss** and **enterprise Java** at **Generation Italy**, simultaneously.
-I've built a custom ORM from scratch, implemented 10+ design patterns, and shipped 84+ projects — all while learning that persistence beats perfection, every time.
+Now I'm fully committed to software development: studying **low-level C/C++** at **42 Roma Luiss** and **enterprise Java** at **Generation Italy**, simultaneously.   I've built a custom ORM from scratch, implemented 10+ design patterns, and shipped 84+ projects — all while learning that persistence beats perfection, every time.
 
 ---
 
@@ -152,6 +151,18 @@ I've built a custom ORM from scratch, implemented 10+ design patterns, and shipp
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
 
 </div>
+
+---
+
+## Soft Skills
+
+| Competenze Trasversali | Certificazioni |
+|------------------------|---------------|
+| Adattabilità · Proattività vs reattività | [![Scrum](https://img.shields.io/badge/Scrum_Fundamentals_Certified-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#) |
+| Gestione del tempo · Responsabilità personale | [![SBOK](https://img.shields.io/badge/SBOK_Guide-009FDA?style=flat&logo=scrumalliance&logoColor=white)](#) |
+| Lavoro di gruppo · Intelligenza artificiale | Ruolo Java Developer |
+
+**Progetto di gruppo — "Gli Sviluppatori Anonimi":** mockup desktop & mobile, user story, sprint backlog, sprint planning, documentazione Scrum completa.
 
 ---
 
