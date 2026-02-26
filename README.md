@@ -55,8 +55,7 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 
 ### <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=flat&logo=java&logoColor=white" alt="Generation Italy"> Java Junior Full Stack Developer Bootcamp
 
-**December 2024 – April 2025** · 600+ hours intensive program
-
+**December 2024 – April 2025** · 500h official curriculum + self-study (15 weeks)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
