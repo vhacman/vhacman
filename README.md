@@ -22,7 +22,7 @@
 
 From studying languages and cultures to writing code — my journey into tech started with curiosity and a desire for change. With a degree in **Languages and European Cultures (L11)** and years of experience in customer service and team management, I know how to work under pressure, solve problems on the spot, and communicate across different worlds.
 
-Now I'm fully committed to software development: studying **low-level C/C++** at **42 Roma** and **enterprise Java** at **Generation Italy**, simultaneously.   I've built a custom ORM from scratch, implemented 10+ design patterns, and shipped 84+ projects — all while learning that persistence beats perfection, every time.
+Now I'm fully committed to software development: studying **low-level C/C++** at **42 Roma** and **enterprise Java** at **Generation Italy**, simultaneously.   I have learned that persistence beats perfection, every time.
 
 ---
 
