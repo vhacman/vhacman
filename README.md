@@ -26,6 +26,58 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 
 ---
 
+## Featured Projects
+
+### Grecos Pizzeria — Digital Menu & Admin Panel
+
+[![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-Firestore_%2B_Auth_%2B_Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![PWA](https://img.shields.io/badge/PWA-installabile-5A0FC8?style=flat&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
+[![Live](https://img.shields.io/badge/Live-grecospizzeria--47768.web.app-4CAF50?style=flat&logo=firebase&logoColor=white)](https://grecospizzeria-47768.web.app)
+
+A full-stack web application built for **Grecos Pizzeria** (Rome, Italy): customers scan a QR code and browse the full menu on their phone, while staff manage everything from a secure admin panel — no app store required.
+
+**Client:** Grecos Pizzeria (@grecos11) · **Version:** v1.6.0 · **Deployed:** March 2026
+
+#### What it does
+
+| Area | Features |
+|------|----------|
+| **Public Menu** | 6 categories (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · real-time allergen filter (14 EU allergens) · vegan/frozen indicators · sticky category navbar · "Specialità" tab for nightly specials |
+| **Admin Panel** | Secure login · dish management (add/edit/toggle/delete) · ingredient availability · daily message banner |
+| **Reservations** | Weekly calendar (12-month range) · full booking details · real-time notifications · arrived toggle · PDF export |
+| **Takeaway Orders** | Smart autocomplete (searches by category) · close orders toggle · PDF summary with daily revenue |
+| **Tools** | QR code generator with brand logo · dedicated QR per category · Web Share API integration |
+| **Analytics** | Visit counter · device breakdown · peak hours · most-visited categories |
+| **Extras** | Summer/winter mode (auto open days) · closure periods · evening history archive · installable PWA |
+
+#### Architecture
+
+```
+Angular 21 (standalone components · signals · toSignal)
+Firebase Firestore   — real-time menu & booking data
+Firebase Auth        — admin authentication
+Firebase Hosting     — CDN deployment
+Bootstrap 5.3 + Angular Material 21
+PDF generation       — jsPDF
+```
+
+#### Evolution
+
+| Version | Highlight |
+|---------|-----------|
+| v1.0.0 | Public menu, allergen filter, admin CRUD, fuori-menu, PWA |
+| v1.1.x | Summer/winter mode, closure periods, evening archive, advanced analytics |
+| v1.2.0 | Full reservations system with real-time notifications & PDF |
+| v1.3.0 | Close reservations/takeaway toggles · PDF takeaway summary |
+| v1.4.0 | Smart autocomplete for takeaway orders (search by category) |
+| v1.5.0 | Specialità tab · branded QR codes · category deep-links · Web Share API |
+| v1.6.0 | In-app user manual PDF download button |
+
+---
+
 ## Education & Training
 
 ---
@@ -120,6 +172,7 @@ Team project con metodologia Scrum completa: analisi delle richieste cliente, pa
 | **Low-Level** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-3F2C53?style=flat&logo=dbeaver&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
+| **Cloud & DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) |
 | **Versioning & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | **IDE & Editor** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) |
 | **AI & Prompting** | ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white) ![Kilo Code](https://img.shields.io/badge/Kilo_Code-6C47FF?style=flat&logo=visualstudiocode&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat&logo=perplexity&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-FF3D6B?style=flat&logo=htmx&logoColor=white) |
@@ -162,7 +215,7 @@ Team project con metodologia Scrum completa: analisi delle richieste cliente, pa
 
 ## Languages
 
-🇷🇴 Romanian — Native &nbsp;|&nbsp; 🇮🇹 Italian — Native) &nbsp;|&nbsp; 🇬🇧 English — Intermediate High (B2) &nbsp;|&nbsp; 🇩🇪 German — Intermediate &nbsp;|&nbsp; 🇫🇷 French — Intermediate
+🇷🇴 Romanian — Native &nbsp;|&nbsp; 🇮🇹 Italian — Native &nbsp;|&nbsp; 🇬🇧 English — Intermediate High (B2) &nbsp;|&nbsp; 🇩🇪 German — Intermediate &nbsp;|&nbsp; 🇫🇷 French — Intermediate
 
 ---
 
@@ -186,4 +239,3 @@ Team project con metodologia Scrum completa: analisi delle richieste cliente, pa
 ⭐️ [vhacman](https://github.com/vhacman) · Ladispoli, Rome, Italy
 
 </div>
-
