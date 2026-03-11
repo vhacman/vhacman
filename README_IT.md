@@ -1,30 +1,90 @@
 <div align="center">
-  
+
 # Hacman Viorica Gabriela
+### 42 Roma Luiss · Generation Italy — Software Engineer & Java Full Stack Developer
 
-### Software Engineer in formazione · Java Backend & Low-Level C
+[![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.0.2-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Node.js](https://img.shields.io/badge/Node.js-339939?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MapStruct](https://img.shields.io/badge/MapStruct-1.6.3-E94E1B?style=flat&logo=java&logoColor=white)](https://mapstruct.org/)
+[![JUnit5](https://img.shields.io/badge/JUnit-5-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
-Sto costruendo le mie basi su due binari paralleli: sistemi low-level in C/C++ alla **42 Roma Luiss** e sviluppo enterprise in Java con **Generation Italy**.  
-Vengo da un percorso umanistico — lingue, comunicazione, team — e ho portato tutto questo nel codice.
+📖 **Leggi in altre lingue:** [🇬🇧 English](https://github.com/vhacman/vhacman/blob/main/README.md) | 🇮🇹 Italiano
 
-📖 **Leggi in un'altra lingua:** [🇬🇧 English](https://github.com/vhacman/vhacman/blob/main/README.md) | 🇮🇹 Italiano
-
----
 </div>
 
-## Chi sono
+---
 
-Dallo studio delle lingue e delle culture alla scrittura di codice — il mio percorso nel tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in **Lingue e Culture Europee (L11)** e anni di esperienza nel customer service e nella gestione di team, so come lavorare sotto pressione, risolvere problemi sul momento e comunicare tra mondi diversi.
+## Chi Sono
 
-Oggi sono completamente focalizzata sullo sviluppo software: studio **C/C++ low-level** alla **42 Roma Luiss**, **Java enterprise** e Frontend con Angular e JavaScript a **Generation Italy**, in parallelo — imparando che la persistenza batte sempre la perfezione.
+Dagli studi in lingue e culture alla scrittura di codice — il mio percorso nel tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in **Lingue e Culture Europee (L11)** e anni di esperienza nel servizio clienti e nella gestione di team, so lavorare sotto pressione, risolvere problemi sul momento e comunicare tra mondi diversi.
+
+Ora sono completamente dedita allo sviluppo software: studio **C/C++ low-level** a **42 Roma Luiss** e **Java enterprise** a **Generation Italy**, in parallelo. Ho costruito un ORM personalizzato da zero, implementato 10+ design pattern e completato 84+ progetti — imparando che la costanza supera sempre la perfezione.
+
+---
+
+## Progetti in Evidenza
+
+### Grecos Pizzeria — Menu Digitale & Pannello Admin
+
+[![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.dev/)
+[![Firebase](https://img.shields.io/badge/Firebase-Firestore_%2B_Auth_%2B_Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![PWA](https://img.shields.io/badge/PWA-installabile-5A0FC8?style=flat&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
+[![Live](https://img.shields.io/badge/Live-grecospizzeria--47768.web.app-4CAF50?style=flat&logo=firebase&logoColor=white)](https://grecospizzeria-47768.web.app)
+
+Applicazione web full-stack realizzata per la **Grecos Pizzeria** (Roma): i clienti scansionano un QR code e consultano il menu completo dal telefono, mentre il personale gestisce tutto da un pannello admin sicuro — senza bisogno di app store.
+
+**Cliente:** Grecos Pizzeria (@grecos11) · **Versione:** v1.6.0 · **Pubblicata:** Marzo 2026
+
+#### Funzionalità
+
+| Area | Descrizione |
+|------|-------------|
+| **Menu Pubblico** | 6 categorie (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · filtro allergeni in tempo reale (14 allergeni EU) · indicatori vegano/surgelato · navbar categorie sticky · tab "Specialità" per i piatti della serata |
+| **Pannello Admin** | Login sicuro · gestione piatti (aggiunta/modifica/toggle/eliminazione) · disponibilità ingredienti · banner messaggio del giorno |
+| **Prenotazioni** | Calendario settimanale (range 12 mesi) · dettagli completi · notifiche in tempo reale · toggle "arrivata" · esportazione PDF |
+| **Ordini Asporto** | Autocomplete intelligente (ricerca per categoria) · toggle chiudi ordini · PDF riepilogo con totale incasso giornaliero |
+| **Strumenti** | Generatore QR code con logo brand · QR dedicato per categoria · integrazione Web Share API |
+| **Statistiche** | Contatore visite · suddivisione per dispositivo · orari di picco · categorie più visitate |
+| **Extra** | Modalità estate/inverno (giorni apertura automatici) · periodi di chiusura · archivio storico serate · PWA installabile |
+
+#### Architettura
+
+```
+Angular 21 (standalone components · signals · toSignal)
+Firebase Firestore   — dati menu e prenotazioni in tempo reale
+Firebase Auth        — autenticazione admin
+Firebase Hosting     — deploy CDN
+Bootstrap 5.3 + Angular Material 21
+Generazione PDF      — jsPDF
+```
+
+#### Evoluzione
+
+| Versione | Novità principali |
+|----------|-------------------|
+| v1.0.0 | Menu pubblico, filtro allergeni, CRUD admin, fuori-menu, PWA |
+| v1.1.x | Modalità estate/inverno, chiusure, storico serate, statistiche avanzate |
+| v1.2.0 | Sistema prenotazioni completo con notifiche real-time e PDF |
+| v1.3.0 | Toggle chiudi prenotazioni/asporto · PDF riepilogo asporto |
+| v1.4.0 | Autocomplete intelligente per ordini asporto (ricerca per categoria) |
+| v1.5.0 | Tab Specialità · QR con logo brand · deep-link per categoria · Web Share API |
+| v1.6.0 | Bottone scarica manuale utente PDF direttamente dall'app |
 
 ---
 
 ## Formazione
 
-### 42 Roma Luiss — Programmazione Low-Level & System Administration
+---
 
-**Ottobre 2024 – in corso** · Apprendimento peer-to-peer
+### <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white" alt="42 School"> Programmazione Low-Level & Amministrazione di Sistema
+
+**Ottobre 2024 – Presente** · Apprendimento peer-to-peer
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -32,24 +92,23 @@ Oggi sono completamente focalizzata sullo sviluppo software: studio **C/C++ low-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Competenze acquisite:** gestione della memoria, system call, gestione processi e segnali, programmazione concorrente (thread, mutex, semafori), networking (TCP/IP, subnetting), grafica (MinilibX), OOP C++ e STL, system administration Linux.
+**Competenze acquisite:** gestione della memoria, system call, gestione processi e segnali, programmazione concorrente (thread, mutex, semafori), networking (TCP/IP, subnetting), grafica (MinilibX), C++ OOP & STL, amministrazione di sistema Linux.
 
-| Progetto | Descrizione | Tecnologie | Voto |
-|---------|-------------|------------|:-----:|
+| Progetto | Descrizione | Tecnologie | Punteggio |
+|---------|-------------|-------------|:---------:|
 | [Minishell](https://github.com/vhacman/minishell) | Shell completa con pipeline, redirect, built-in | C, fork, pipe, execve | 100/100 |
-| [Philosophers](https://github.com/vhacman/philo) | Problema dei filosofi a cena — sincronizzazione | C, pthread, mutex | 100/100 |
-| [so_long](https://github.com/vhacman/so_long) | Videogioco 2D con MinilibX | C, MinilibX | 122/100 ⭐ |
+| [Philosophers](https://github.com/vhacman/philo) | Problema dei filosofi — sincronizzazione | C, pthread, mutex | 100/100 |
+| [so_long](https://github.com/vhacman/so_long) | Gioco 2D con MinilibX | C, MinilibX | 122/100 ⭐ |
 
-[![Tutti i 14 progetti →](https://img.shields.io/badge/Tutti_i_14_progetti_con_voti-2BA5DE?style=flat&logo=42&logoColor=white)](https://github.com/vhacman/42_RomaLuiss/blob/main/README.md)
+[![Tutti i 14 progetti →](https://img.shields.io/badge/Tutti_i_14_progetti_con_punteggi-2BA5DE?style=flat&logo=42&logoColor=white)](https://github.com/vhacman/42_RomaLuiss/blob/main/README.md)
 
 [![vhacman's 42 stats](https://badge.mediaplus.ma/starryblue/vhacman)](https://github.com/oakoudad/badge42)
 
 ---
 
-### Generation Italy — Java Junior Full Stack Developer Bootcamp
+### <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=flat&logo=java&logoColor=white" alt="Generation Italy"> Java Junior Full Stack Developer Bootcamp
 
-**Dicembre 2024 – Aprile 2025** · 500h curriculum ufficiale + studio autonomo (15 settimane)
-
+**Dicembre 2024 – Aprile 2025** · 500h curriculum ufficiale + studio individuale (15 settimane)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -61,10 +120,9 @@ Oggi sono completamente focalizzata sullo sviluppo software: studio **C/C++ low-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Risultati principali:**
-
-- **84+ progetti** su 4 aree: fondamentali, applicazioni enterprise, Spring Boot, frontend
-- **13 applicazioni Spring Boot** — REST API, JPA, Thymeleaf, MapStruct, Lombok
-- **ORM custom** costruito da zero con Generic Repository Pattern e caching Full/Partial
+- **84+ progetti** in 4 aree: fondamenti, applicazioni business, Spring Boot, frontend
+- **13 applicazioni web Spring Boot** — REST API, JPA, Thymeleaf, MapStruct, Lombok
+- **Framework ORM personalizzato** costruito da zero con Generic Repository Pattern e caching Full/Partial
 - **Design pattern avanzati**: Repository, IoC Container, ETL, State, Command, Chain of Responsibility, Lazy/Eager Loading
 - **Algoritmi di scheduling sanitario**: gestione calendario con LinkedHashMap e Comparator avanzati
 - **Piattaforma food delivery** evoluta in due iterazioni (JavaEat v01 → v02) con MapStruct e relazioni ManyToMany
@@ -84,8 +142,8 @@ Oggi sono completamente focalizzata sullo sviluppo software: studio **C/C++ low-
 | 08 | [08_FullStack-SpringBoot](https://github.com/vhacman/08_FullStack-SpringBoot) | FullStack Spring Boot + Angular — 3 progetti |
 | 09 | [09_Database-MySql](https://github.com/vhacman/09_Database-MySql) | SQL fondamentali e query avanzate |
 
-[![Documentazione Tecnica](https://img.shields.io/badge/Documentazione_Tecnica-Note_&_Guide-181717?style=flat&logo=github)](https://github.com/vhacman/documentazioneTecnica)
-
+[![Documentazione Tecnica](https://img.shields.io/badge/Documentazione_Tecnica-Note_%26_Guide-181717?style=flat&logo=github)](https://github.com/vhacman/documentazioneTecnica)
+&nbsp;
 [![Materiale del Corso](https://img.shields.io/badge/Materiale_del_Corso-Cartella_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
 
 ---
@@ -94,27 +152,28 @@ Oggi sono completamente focalizzata sullo sviluppo software: studio **C/C++ low-
 
 | Area | Competenze |
 |------|-----------|
-| **Mindset** | Adattabilità · Mentalità di crescita · Zona di comfort · Persistenza |
+| **Mindset** | Adattabilità · Mentalità di crescita · Uscire dalla zona di comfort · Persistenza |
 | **Autogestione** | Gestione del tempo · Responsabilità personale · Proattività vs reattività |
 | **Team** | Gruppo vs. squadra · Comunicazione · Collaborazione remota |
-| **Tech Context** | Ruolo Scrum Master · AI generativa per il lavoro |
+| **Contesto Tech** | Ruolo Scrum Master · AI generativa per il lavoro |
 | **Agile & Scrum** | Sprint Planning · Sprint Backlog · Scrum Board · Roadmap · Cerimonie Agile |
 
 #### Progetto di Gruppo — *"ShareSphere"*
 
-Progetto team con metodologia Scrum completa: analisi delle richieste cliente, patto sociale del team, user story, sprint backlog, sprint planning, scrum board, roadmap, mockup desktop & mobile (homepage, profilo, pannello admin, blog, feedback) e resoconto sprint.
+Progetto di team con metodologia Scrum completa: analisi delle richieste cliente, patto sociale del team, user story, sprint backlog, sprint planning, scrum board, roadmap, mockup desktop & mobile (homepage, profilo, pannello admin, blog, feedback) e resoconto sprint.
 
 ---
 
 ## Competenze Tecniche
 
 | Area | Tecnologie |
-|------|-----------|
+|------|------------|
 | **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) ![MapStruct](https://img.shields.io/badge/MapStruct-E94E1B?style=flat&logo=java&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339939?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) |
 | **Low-Level** | ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-3F2C53?style=flat&logo=dbeaver&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
-| **Versionamento & Strumenti** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Cloud & DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) |
+| **Versioning & Strumenti** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | **IDE & Editor** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) |
 | **AI & Prompting** | ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white) ![Kilo Code](https://img.shields.io/badge/Kilo_Code-6C47FF?style=flat&logo=visualstudiocode&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat&logo=perplexity&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-FF3D6B?style=flat&logo=htmx&logoColor=white) |
 | **Produttività** | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft&logoColor=white) |
@@ -125,25 +184,30 @@ Progetto team con metodologia Scrum completa: analisi delle richieste cliente, p
 
 ## Statistiche GitHub
 
-![Visualizzazioni Profilo](https://komarev.com/ghpvc/?username=vhacman&label=Visualizzazioni+profilo&color=0e75b6&style=for-the-badge)
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Visite+profilo&color=0e75b6&style=for-the-badge)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vhacman&theme=tokyonight&hide_border=true)
 
-![Linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vhacman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![Grafico Attività GitHub](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vhacman&theme=tokyo-night&hide_border=true&area=true)
 
-![Trofei GitHub](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vhacman&theme=tokyonight&no-frame=true&row=1&column=7)
 
+</div>
 
-## Percorso Formativo
+---
+
+## Percorso Accademico
 
 | | |
 |---|---|
 | **Generation Italy** | Java Junior Full Stack Developer Bootcamp · Dic 2024 – Mar 2025 |
-| **42 Roma Luiss** | Software Engineering (C/C++, Low-Level, Sistemi) · Mar 2024 – in corso |
+| **42 Roma Luiss** | Software Engineering (C/C++, Low-Level, Sistemi) · Mar 2024 – Presente |
 | **Università e-Campus** | Lingue e Culture Europee L11 · 2022 – 2024 · 95/110 |
 | **Future Academy** | Master in Social Media Management · 2022 – 2023 |
 | **Liceo Linguistico** | Italiano, Inglese, Tedesco, Francese · 2013 – 2018 · 95/100 |
@@ -152,22 +216,27 @@ Progetto team con metodologia Scrum completa: analisi delle richieste cliente, p
 
 ## Lingue
 
-🇷🇴 Romeno — Madrelingua | 🇮🇹 Italiano — Madrelingua | 🇬🇧 Inglese — Intermediate High (B2) | 🇩🇪 Tedesco — Intermedio | 🇫🇷 Francese — Intermedio
+🇷🇴 Rumeno — Madrelingua &nbsp;|&nbsp; 🇮🇹 Italiano — Madrelingua &nbsp;|&nbsp; 🇬🇧 Inglese — Intermedio Alto (B2) &nbsp;|&nbsp; 🇩🇪 Tedesco — Intermedio &nbsp;|&nbsp; 🇫🇷 Francese — Intermedio
 
 ---
 
 ## Contatti
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Viorica_Gabriela_Hacman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viorica-gabriela-hacman-63a412267/)
-
 [![Email](https://img.shields.io/badge/Email-hacmanvioricagabriela%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hacmanvioricagabriela@gmail.com)
-
 [![42 Profile](https://img.shields.io/badge/42_Intra-vhacman-2BA5DE?style=for-the-badge&logo=42&logoColor=white)](https://profile.intra.42.fr/users/vhacman)
-
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-DevGabi98-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/DevGabi98)
+
+</div>
 
 ---
 
 > *"Un passo alla volta, sempre imparando"*
 
+<div align="center">
+
 ⭐️ [vhacman](https://github.com/vhacman) · Ladispoli, Roma, Italia
+
+</div>
