@@ -22,7 +22,7 @@
 
 Dagli studi in lingue e culture alla scrittura di codice — il mio percorso nel tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in **Lingue e Culture Europee (L11)** e anni di esperienza nel servizio clienti e nella gestione di team, so lavorare sotto pressione, risolvere problemi sul momento e comunicare tra mondi diversi.
 
-Ora sono completamente dedita allo sviluppo software: studio **C/C++ low-level** a **42 Roma Luiss** e **Java enterprise** a **Generation Italy**, in parallelo. Ho costruito un ORM personalizzato da zero, implementato 10+ design pattern e completato 84+ progetti — imparando che la costanza supera sempre la perfezione.
+Ora sono completamente dedita allo sviluppo software: studio **C/C++ low-level** a **42 Roma** e **Java enterprise** a **Generation Italy**, in parallelo. Ho costruito un ORM personalizzato da zero, implementato 10+ design pattern e completato 84+ progetti — imparando che la costanza supera sempre la perfezione.
 
 ---
 
