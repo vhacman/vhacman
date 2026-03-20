@@ -12,17 +12,17 @@
 [![JUnit5](https://img.shields.io/badge/JUnit-5-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
-📖 **Leggi in altre lingue:** [🇬🇧 English](https://github.com/vhacman/vhacman/blob/main/README.md) | 🇮🇹 Italiano
+📖 **Leggi in un'altra lingua:** [🇬🇧 English](./PROFILO.md) | 🇮🇹 Italiano
 
 </div>
 
 ---
 
-## Chi Sono
+## Chi sono
 
-Dagli studi in lingue e culture alla scrittura di codice — il mio percorso nel tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in **Lingue e Culture Europee (L11)** e anni di esperienza nel servizio clienti e nella gestione di team, so lavorare sotto pressione, risolvere problemi sul momento e comunicare tra mondi diversi.
+Da studentessa di lingue e culture a sviluppatrice — il mio percorso nel mondo tech è iniziato con curiosità e voglia di cambiamento. Con una laurea in **Lingue e Culture Europee (L11)** e anni di esperienza nel servizio clienti e nella gestione di team, so lavorare sotto pressione, risolvere problemi sul momento e comunicare in contesti diversi.
 
-Ora sono completamente dedita allo sviluppo software: studio **C/C++ low-level** a **42 Roma** e **Java enterprise** a **Generation Italy**, in parallelo.  Ho imparato che la costanza supera sempre la perfezione.
+Oggi sono completamente dedicata allo sviluppo software: studio **C/C++ di sistema** alla **42 Roma** e **Java enterprise** a **Generation Italy**, in parallelo. Ho imparato che la costanza vale più della perfezione, sempre.
 
 ---
 
@@ -37,44 +37,49 @@ Ora sono completamente dedita allo sviluppo software: studio **C/C++ low-level**
 [![PWA](https://img.shields.io/badge/PWA-installabile-5A0FC8?style=flat&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
 [![Live](https://img.shields.io/badge/Live-grecospizzeria--47768.web.app-4CAF50?style=flat&logo=firebase&logoColor=white)](https://grecospizzeria-47768.web.app)
 
-Applicazione web full-stack realizzata per la **Grecos Pizzeria** (Roma): i clienti scansionano un QR code e consultano il menu completo dal telefono, mentre il personale gestisce tutto da un pannello admin sicuro — senza bisogno di app store.
+Un'applicazione web full-stack realizzata per **Grecos Pizzeria** (Roma, Italia): i clienti inquadrano un QR code e sfogliano il menu completo dal telefono, mentre il personale gestisce tutto da un pannello admin protetto — senza app store.
 
-**Cliente:** Grecos Pizzeria (@grecos11) · **Versione:** v1.6.0 · **Pubblicata:** Marzo 2026
+**Cliente:** Grecos Pizzeria (@grecos11) · **Versione:** v1.9.0 · **Online da:** marzo 2026
 
 #### Funzionalità
 
-| Area | Descrizione |
+| Area | Funzionalità |
 |------|-------------|
-| **Menu Pubblico** | 6 categorie (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · filtro allergeni in tempo reale (14 allergeni EU) · indicatori vegano/surgelato · navbar categorie sticky · tab "Specialità" per i piatti della serata |
-| **Pannello Admin** | Login sicuro · gestione piatti (aggiunta/modifica/toggle/eliminazione) · disponibilità ingredienti · banner messaggio del giorno |
-| **Prenotazioni** | Calendario settimanale (range 12 mesi) · dettagli completi · notifiche in tempo reale · toggle "arrivata" · esportazione PDF |
-| **Ordini Asporto** | Autocomplete intelligente (ricerca per categoria) · toggle chiudi ordini · PDF riepilogo con totale incasso giornaliero |
-| **Strumenti** | Generatore QR code con logo brand · QR dedicato per categoria · integrazione Web Share API |
-| **Statistiche** | Contatore visite · suddivisione per dispositivo · orari di picco · categorie più visitate |
-| **Extra** | Modalità estate/inverno (giorni apertura automatici) · periodi di chiusura · archivio storico serate · PWA installabile |
+| **Menu Pubblico** | 6 categorie (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · filtro allergeni in tempo reale (14 allergeni EU) · indicatori vegano/surgelato · navbar categorie sticky · tab "Specialità" per i fuori menu della serata · card con chip categorie a collegamento diretto · link recensioni Google/TripAdvisor |
+| **Pannello Admin** | Login sicuro · gestione piatti (aggiungi/modifica/attiva-disattiva/elimina) · disponibilità ingredienti · banner messaggio del giorno · layout responsive desktop & tablet · modalità manutenzione |
+| **Prenotazioni** | Calendario settimanale (12 mesi) · dettaglio completo prenotazione · notifiche in tempo reale · toggle "arrivato" · gestione walk-in · export PDF (giornaliero/mensile/annuale) · messaggi di chiusura personalizzati |
+| **Ordini Asporto** | Autocomplete intelligente (ricerca per categoria) · sconto per ordine · toggle "consegnato" · toggle chiusura asporto · riepilogo PDF con incasso giornaliero (giornaliero/mensile/annuale) · messaggi di chiusura personalizzati |
+| **Strumenti** | Generatore QR con logo Grecos · QR dedicato per categoria · QR recensioni Google/TripAdvisor · integrazione Web Share API |
+| **Statistiche** | Contatore visite · ripartizione per dispositivo · orari di picco · categorie più visitate · selettore 7/30 giorni con auto-refresh |
+| **Extra** | Modalità estate/inverno (giorni apertura automatici) · periodi di chiusura · archivio storico serate · PWA installabile · calcolo cassa protetto da password · regole Firestore di produzione |
 
 #### Architettura
 
 ```
-Angular 21 (standalone components · signals · toSignal)
+Angular 21 (componenti standalone · signal · toSignal)
 Firebase Firestore   — dati menu e prenotazioni in tempo reale
 Firebase Auth        — autenticazione admin
-Firebase Hosting     — deploy CDN
+Firebase Hosting     — deploy su CDN
 Bootstrap 5.3 + Angular Material 21
 Generazione PDF      — jsPDF
 ```
 
 #### Evoluzione
 
-| Versione | Novità principali |
+| Versione | Novità principale |
 |----------|-------------------|
-| v1.0.0 | Menu pubblico, filtro allergeni, CRUD admin, fuori-menu, PWA |
-| v1.1.x | Modalità estate/inverno, chiusure, storico serate, statistiche avanzate |
-| v1.2.0 | Sistema prenotazioni completo con notifiche real-time e PDF |
-| v1.3.0 | Toggle chiudi prenotazioni/asporto · PDF riepilogo asporto |
-| v1.4.0 | Autocomplete intelligente per ordini asporto (ricerca per categoria) |
-| v1.5.0 | Tab Specialità · QR con logo brand · deep-link per categoria · Web Share API |
-| v1.6.0 | Bottone scarica manuale utente PDF direttamente dall'app |
+| v1.0.0 | Menu pubblico, filtro allergeni, CRUD admin, fuori menu, PWA |
+| v1.1.0 | Export PDF (jsPDF) · statistiche avanzate (selettore 7/30gg, grafici scrollabili, orari di picco) |
+| v1.2.0 | Sistema prenotazioni completo con notifiche real-time & PDF · asporto con autocomplete intelligente |
+| v1.3.0 | Tab Specialità · QR code con logo · deep-link per categoria |
+| v1.4.0 | Bottom-sheet conferma chiusura cucina · regole Firestore di produzione |
+| v1.5.0 | Fix responsive Android & iOS · PDF mensile/annuale · modal walk-in (non prenotati) |
+| v1.6.0 | Deploy affidabile con pre-build automatico · cache headers PWA ottimizzati |
+| v1.7.0 | Messaggi di chiusura dinamici per popup prenotazioni e asporto |
+| v1.8.0 | Layout desktop/tablet a due colonne · visualizza menu in dashboard · calcolo cassa protetto da password |
+| v1.8.2 | Sconto per ordine asporto · toggle consegnato · calcolo contanti automatico · soglia "scarso" ≤ 5 |
+| v1.8.4 | Fix critici form prenotazioni · modalità manutenzione · errori Firestore visibili nel form |
+| v1.9.0 | QR recensioni Google/TripAdvisor · card menu con chip categorie · link recensioni in homepage |
 
 ---
 
@@ -84,7 +89,7 @@ Generazione PDF      — jsPDF
 
 ### <img src="https://img.shields.io/badge/42-Roma_Luiss-2BA5DE?style=flat&logo=42&logoColor=white" alt="42 School"> Programmazione Low-Level & Amministrazione di Sistema
 
-**Ottobre 2024 – Presente** · Apprendimento peer-to-peer
+**Ottobre 2024 – in corso** · Apprendimento tra pari (peer-to-peer)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -92,12 +97,12 @@ Generazione PDF      — jsPDF
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-**Competenze acquisite:** gestione della memoria, system call, gestione processi e segnali, programmazione concorrente (thread, mutex, semafori), networking (TCP/IP, subnetting), grafica (MinilibX), C++ OOP & STL, amministrazione di sistema Linux.
+**Competenze acquisite:** gestione della memoria, system call, gestione processi e segnali, programmazione concorrente (thread, mutex, semafori), networking (TCP/IP, subnetting), grafica (MinilibX), OOP & STL in C++, amministrazione di sistema Linux.
 
 | Progetto | Descrizione | Tecnologie | Punteggio |
-|---------|-------------|-------------|:---------:|
-| [Minishell](https://github.com/vhacman/minishell) | Shell completa con pipeline, redirect, built-in | C, fork, pipe, execve | 100/100 |
-| [Philosophers](https://github.com/vhacman/philo) | Problema dei filosofi — sincronizzazione | C, pthread, mutex | 100/100 |
+|----------|-------------|------------|:---------:|
+| [Minishell](https://github.com/vhacman/minishell) | Shell completa con pipeline, redirezioni, built-in | C, fork, pipe, execve | 100/100 |
+| [Philosophers](https://github.com/vhacman/philo) | Problema dei filosofi a cena — sincronizzazione | C, pthread, mutex | 100/100 |
 | [so_long](https://github.com/vhacman/so_long) | Gioco 2D con MinilibX | C, MinilibX | 122/100 ⭐ |
 
 [![Tutti i 14 progetti →](https://img.shields.io/badge/Tutti_i_14_progetti_con_punteggi-2BA5DE?style=flat&logo=42&logoColor=white)](https://github.com/vhacman/42_RomaLuiss/blob/main/README.md)
@@ -106,9 +111,9 @@ Generazione PDF      — jsPDF
 
 ---
 
-### <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=flat&logo=java&logoColor=white" alt="Generation Italy"> Java Junior Full Stack Developer Bootcamp
+### <img src="https://img.shields.io/badge/Generation-Italy-FF6B35?style=flat&logo=java&logoColor=white" alt="Generation Italy"> Bootcamp Java Junior Full Stack Developer
 
-**Dicembre 2024 – Aprile 2025** · 500h curriculum ufficiale + studio individuale (15 settimane)
+**Dicembre 2024 – Aprile 2025** · 500h di curriculum ufficiale + studio autonomo (15 settimane)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -122,9 +127,9 @@ Generazione PDF      — jsPDF
 **Risultati principali:**
 - **84+ progetti** in 4 aree: fondamenti, applicazioni business, Spring Boot, frontend
 - **13 applicazioni web Spring Boot** — REST API, JPA, Thymeleaf, MapStruct, Lombok
-- **Framework ORM personalizzato** costruito da zero con Generic Repository Pattern e caching Full/Partial
+- **Framework ORM personalizzato** realizzato da zero con Generic Repository Pattern e caching Full/Partial
 - **Design pattern avanzati**: Repository, IoC Container, ETL, State, Command, Chain of Responsibility, Lazy/Eager Loading
-- **Algoritmi di scheduling sanitario**: gestione calendario con LinkedHashMap e Comparator avanzati
+- **Algoritmi di pianificazione sanitaria**: gestione calendario avanzata con LinkedHashMap e Comparator personalizzati
 - **Piattaforma food delivery** evoluta in due iterazioni (JavaEat v01 → v02) con MapStruct e relazioni ManyToMany
 
 #### Repository
@@ -148,19 +153,19 @@ Generazione PDF      — jsPDF
 
 ---
 
-## Soft Skills
+## Soft Skill
 
 | Area | Competenze |
 |------|-----------|
-| **Mindset** | Adattabilità · Mentalità di crescita · Uscire dalla zona di comfort · Persistenza |
+| **Mentalità** | Adattabilità · Mentalità di crescita · Uscita dalla zona di comfort · Persistenza |
 | **Autogestione** | Gestione del tempo · Responsabilità personale · Proattività vs reattività |
-| **Team** | Gruppo vs. squadra · Comunicazione · Collaborazione remota |
-| **Contesto Tech** | Ruolo Scrum Master · AI generativa per il lavoro |
+| **Lavoro di squadra** | Gruppo vs. squadra · Comunicazione · Collaborazione da remoto |
+| **Contesto Tech** | Ruolo Scrum Master · AI generativa applicata al lavoro |
 | **Agile & Scrum** | Sprint Planning · Sprint Backlog · Scrum Board · Roadmap · Cerimonie Agile |
 
 #### Progetto di Gruppo — *"ShareSphere"*
 
-Progetto di team con metodologia Scrum completa: analisi delle richieste cliente, patto sociale del team, user story, sprint backlog, sprint planning, scrum board, roadmap, mockup desktop & mobile (homepage, profilo, pannello admin, blog, feedback) e resoconto sprint.
+Progetto di team con metodologia Scrum completa: analisi delle richieste del cliente, patto sociale del team, user story, sprint backlog, sprint planning, scrum board, roadmap, mockup desktop & mobile (homepage, profilo, pannello admin, blog, feedback) e resoconto sprint.
 
 ---
 
@@ -173,7 +178,7 @@ Progetto di team con metodologia Scrum completa: analisi delle richieste cliente
 | **Database** | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white) ![DBeaver](https://img.shields.io/badge/DBeaver-3F2C53?style=flat&logo=dbeaver&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) |
 | **Cloud & DevOps** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white) |
-| **Versioning & Strumenti** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Versionamento & Strumenti** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 | **IDE & Editor** | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white) |
 | **AI & Prompting** | ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=flat&logo=anthropic&logoColor=white) ![Kilo Code](https://img.shields.io/badge/Kilo_Code-6C47FF?style=flat&logo=visualstudiocode&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) ![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat&logo=perplexity&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-FF3D6B?style=flat&logo=htmx&logoColor=white) |
 | **Produttività** | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white) ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft&logoColor=white) |
@@ -186,7 +191,7 @@ Progetto di team con metodologia Scrum completa: analisi delle richieste cliente
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Visite+profilo&color=0e75b6&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=vhacman&label=Visualizzazioni+profilo&color=0e75b6&style=for-the-badge)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vhacman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
@@ -206,8 +211,8 @@ Progetto di team con metodologia Scrum completa: analisi delle richieste cliente
 
 | | |
 |---|---|
-| **Generation Italy** | Java Junior Full Stack Developer Bootcamp · Dic 2024 – Mar 2025 |
-| **42 Roma Luiss** | Software Engineering (C/C++, Low-Level, Sistemi) · Mar 2024 – Presente |
+| **Generation Italy** | Bootcamp Java Junior Full Stack Developer · dic 2024 – mar 2025 |
+| **42 Roma Luiss** | Ingegneria del Software (C/C++, Low-Level, Sistemi) · mar 2024 – in corso |
 | **Università e-Campus** | Lingue e Culture Europee L11 · 2022 – 2024 · 95/110 |
 | **Future Academy** | Master in Social Media Management · 2022 – 2023 |
 | **Liceo Linguistico** | Italiano, Inglese, Tedesco, Francese · 2013 – 2018 · 95/100 |

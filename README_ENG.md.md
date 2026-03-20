@@ -45,41 +45,43 @@ A full-stack web application built for **Grecos Pizzeria** (Rome, Italy): custom
 
 | Area | Features |
 |------|----------|
-| **Public Menu** | 6 categories (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · real-time allergen filter (14 EU allergens) · vegan/frozen indicators · sticky category navbar · "Specialità" tab for nightly specials · chip-based category navigation cards · Google/TripAdvisor review links |
-| **Admin Panel** | Secure login · dish management (add/edit/toggle/delete) · ingredient availability · daily message banner · desktop & tablet responsive layout · maintenance mode |
-| **Reservations** | Weekly calendar (12-month range) · full booking details · real-time notifications · arrived toggle · walk-in tracking · PDF export (daily/monthly/yearly) · dynamic closure messages |
-| **Takeaway Orders** | Smart autocomplete (searches by category) · per-order discount · delivery toggle · close orders toggle · PDF summary with daily revenue (daily/monthly/yearly) · dynamic closure messages |
-| **Tools** | QR code generator with brand logo · dedicated QR per category · QR for Google/TripAdvisor reviews · Web Share API integration |
-| **Analytics** | Visit counter · device breakdown · peak hours · most-visited categories · 7/30 day selector with auto-refresh |
-| **Extras** | Summer/winter mode (auto open days) · closure periods · evening history archive · installable PWA · password-protected cash calculator · Firestore production security rules |
+| **Public Menu** | 6 categories (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · real-time allergen filter (14 EU allergens) · vegan/frozen indicators · sticky category navbar · "Specialità" tab for nightly specials · bottom-sheet dish detail · chip-based category cards with direct deep-links · Google/TripAdvisor review links |
+| **Admin Panel** | Secure login · dish management (add/edit/toggle/delete) · ingredient availability · daily message banner · desktop & tablet two-column CSS Grid layout · maintenance mode · inline dish editing · SHA-256 hashed cash calculator password |
+| **Reservations** | Weekly calendar (Thu/Fri/Sat/Sun) up to 12 months · daily KPIs (tables, covers, high-chairs) · add/edit/delete with confirmation · arrived toggle · walk-in bottom-sheet · real-time toast notifications · WhatsApp PNG sharing · PDF export (daily/monthly/yearly) · dynamic closure messages |
+| **Takeaway Orders** | Smart autocomplete by category (startsWith filter) · per-order discount with automatic calculation · delivery toggle · free-time input · close orders toggle · PDF summary with daily revenue (daily/monthly/yearly) · dynamic closure messages |
+| **Tools** | QR code generator with brand logo · dedicated QR per category (e.g. Dolci) · QR for Google/TripAdvisor reviews · Web Share API (native mobile share + clipboard fallback) |
+| **Analytics** | Visit counter · device breakdown · peak hours · most-visited categories · top-10 most-viewed dishes · 7/30 day selector with auto-refresh every 3 min · Microsoft Clarity behavioral analytics (localhost filtered) |
+| **Extras** | Summer/winter mode (auto open days) · closure periods with homepage banner · evening history archive · installable PWA with iOS/Android-specific install instructions · swipe-to-dismiss on all modals · IntersectionObserver scroll detection · Firestore production security rules (per-collection, admin-only writes) · `memoryLocalCache()` (replaces IndexedDB to prevent corruption) |
 
 #### Architecture
 
 ```
 Angular 21 (standalone components · signals · toSignal)
-Firebase Firestore   — real-time menu & booking data
+Firebase Firestore   — real-time menu & booking data (memoryLocalCache)
 Firebase Auth        — admin authentication
-Firebase Hosting     — CDN deployment
+Firebase Hosting     — CDN deployment with optimized cache headers
 Bootstrap 5.3 + Angular Material 21
-PDF generation       — jsPDF
+PDF generation       — jsPDF (offline-ready, no print dialogs)
+Behavioral analytics — Microsoft Clarity (localhost filtered)
+QR generation        — qrcode library (dynamic, downloadable PNG)
 ```
 
 #### Evolution
 
 | Version | Highlight |
 |---------|-----------|
-| v1.0.0 | Public menu, allergen filter, admin CRUD, fuori-menu, PWA |
-| v1.1.0 | PDF export (jsPDF) · advanced analytics (7/30 day selector, scrollable charts, peak hours) |
-| v1.2.0 | Full reservations system with real-time notifications & PDF · takeaway with smart autocomplete |
-| v1.3.0 | Specialità tab · branded QR codes · category deep-links |
-| v1.4.0 | Kitchen close confirmation bottom-sheet · Firestore production security rules |
-| v1.5.0 | Responsive mobile fix (Android & iOS) · monthly/yearly PDF export · walk-in tracking modal |
-| v1.6.0 | Reliable deploy with pre-build · optimized PWA cache headers |
+| v1.0.0 | Public menu (115 dishes), allergen filter, admin CRUD, fuori-menu, QR code, PWA |
+| v1.1.0 | jsPDF export (availability, QR, evening archive) · advanced analytics (auto-refresh, scrollable charts, peak hours, device KPIs) · evening history archive |
+| v1.2.0 | Full reservations (calendar, KPIs, real-time toasts, PDF) · takeaway autocomplete with auto-price · dish bottom-sheet · `memoryLocalCache` replaces IndexedDB |
+| v1.3.0 | Specialità tab · branded QR codes · `?cat=` deep-links · Web Share API · WhatsApp · user manual PDF |
+| v1.4.0 | Kitchen close confirmation + auto-reopen at 06:00 · Firestore per-collection security rules |
+| v1.5.0 | Android/iOS responsive fixes · monthly/yearly PDF · walk-in bottom-sheet · WhatsApp PNG sharing · inline booking edit · swipe-to-dismiss modals |
+| v1.6.0 | Predeploy auto-build hook · optimized cache headers · Microsoft Clarity localhost filter |
 | v1.7.0 | Dynamic closure messages for reservations and takeaway popups |
-| v1.8.0 | Desktop/tablet two-column layout · menu view in dashboard · password-protected cash calculator |
-| v1.8.2 | Per-order discount · delivery toggle · auto cash calculation · low-stock threshold (≤5) |
-| v1.8.4 | Booking form critical fixes · maintenance mode · Firestore error display in form |
-| v1.9.0 | Google/TripAdvisor review QR codes · chip-category menu cards · review links in homepage |
+| v1.8.0 | Desktop/tablet CSS Grid layout · menu view in dashboard · SHA-256 password-protected cash calculator |
+| v1.8.1–v1.8.2 | Per-order discount · delivery toggle · automatic cash calculation · low-stock threshold ≤ 5 |
+| v1.8.4–v1.8.5 | Booking form critical fixes (ViewEncapsulation) · maintenance mode · client-side Firestore sort |
+| v1.9.0 | Google/TripAdvisor review QR codes · chip-category menu cards · IntersectionObserver scroll detection |
 
 ---
 
