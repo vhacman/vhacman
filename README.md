@@ -39,19 +39,19 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 
 A full-stack web application built for **Grecos Pizzeria** (Rome, Italy): customers scan a QR code and browse the full menu on their phone, while staff manage everything from a secure admin panel — no app store required.
 
-**Client:** Grecos Pizzeria (@grecos11) · **Version:** v1.6.0 · **Deployed:** March 2026
+**Client:** Grecos Pizzeria (@grecos11) · **Version:** v1.9.0 · **Deployed:** March 2026
 
 #### What it does
 
 | Area | Features |
 |------|----------|
-| **Public Menu** | 6 categories (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · real-time allergen filter (14 EU allergens) · vegan/frozen indicators · sticky category navbar · "Specialità" tab for nightly specials |
-| **Admin Panel** | Secure login · dish management (add/edit/toggle/delete) · ingredient availability · daily message banner |
-| **Reservations** | Weekly calendar (12-month range) · full booking details · real-time notifications · arrived toggle · PDF export |
-| **Takeaway Orders** | Smart autocomplete (searches by category) · close orders toggle · PDF summary with daily revenue |
-| **Tools** | QR code generator with brand logo · dedicated QR per category · Web Share API integration |
-| **Analytics** | Visit counter · device breakdown · peak hours · most-visited categories |
-| **Extras** | Summer/winter mode (auto open days) · closure periods · evening history archive · installable PWA |
+| **Public Menu** | 6 categories (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · real-time allergen filter (14 EU allergens) · vegan/frozen indicators · sticky category navbar · "Specialità" tab for nightly specials · chip-based category navigation cards · Google/TripAdvisor review links |
+| **Admin Panel** | Secure login · dish management (add/edit/toggle/delete) · ingredient availability · daily message banner · desktop & tablet responsive layout · maintenance mode |
+| **Reservations** | Weekly calendar (12-month range) · full booking details · real-time notifications · arrived toggle · walk-in tracking · PDF export (daily/monthly/yearly) · dynamic closure messages |
+| **Takeaway Orders** | Smart autocomplete (searches by category) · per-order discount · delivery toggle · close orders toggle · PDF summary with daily revenue (daily/monthly/yearly) · dynamic closure messages |
+| **Tools** | QR code generator with brand logo · dedicated QR per category · QR for Google/TripAdvisor reviews · Web Share API integration |
+| **Analytics** | Visit counter · device breakdown · peak hours · most-visited categories · 7/30 day selector with auto-refresh |
+| **Extras** | Summer/winter mode (auto open days) · closure periods · evening history archive · installable PWA · password-protected cash calculator · Firestore production security rules |
 
 #### Architecture
 
@@ -69,12 +69,17 @@ PDF generation       — jsPDF
 | Version | Highlight |
 |---------|-----------|
 | v1.0.0 | Public menu, allergen filter, admin CRUD, fuori-menu, PWA |
-| v1.1.x | Summer/winter mode, closure periods, evening archive, advanced analytics |
-| v1.2.0 | Full reservations system with real-time notifications & PDF |
-| v1.3.0 | Close reservations/takeaway toggles · PDF takeaway summary |
-| v1.4.0 | Smart autocomplete for takeaway orders (search by category) |
-| v1.5.0 | Specialità tab · branded QR codes · category deep-links · Web Share API |
-| v1.6.0 | In-app user manual PDF download button |
+| v1.1.0 | PDF export (jsPDF) · advanced analytics (7/30 day selector, scrollable charts, peak hours) |
+| v1.2.0 | Full reservations system with real-time notifications & PDF · takeaway with smart autocomplete |
+| v1.3.0 | Specialità tab · branded QR codes · category deep-links |
+| v1.4.0 | Kitchen close confirmation bottom-sheet · Firestore production security rules |
+| v1.5.0 | Responsive mobile fix (Android & iOS) · monthly/yearly PDF export · walk-in tracking modal |
+| v1.6.0 | Reliable deploy with pre-build · optimized PWA cache headers |
+| v1.7.0 | Dynamic closure messages for reservations and takeaway popups |
+| v1.8.0 | Desktop/tablet two-column layout · menu view in dashboard · password-protected cash calculator |
+| v1.8.2 | Per-order discount · delivery toggle · auto cash calculation · low-stock threshold (≤5) |
+| v1.8.4 | Booking form critical fixes · maintenance mode · Firestore error display in form |
+| v1.9.0 | Google/TripAdvisor review QR codes · chip-category menu cards · review links in homepage |
 
 ---
 
