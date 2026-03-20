@@ -12,7 +12,7 @@
 [![JUnit5](https://img.shields.io/badge/JUnit-5-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 
-📖 **Leggi in un'altra lingua:** [🇬🇧 English](./PROFILO.md) | 🇮🇹 Italiano
+📖 **Leggi in un'altra lingua:** [🇬🇧 English](./README_ENG.md) | 🇮🇹 Italiano
 
 </div>
 
