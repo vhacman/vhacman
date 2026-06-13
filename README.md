@@ -94,6 +94,11 @@ Un'applicazione web full-stack realizzata per **Grecos Pizzeria** (Roma, Italia)
 
 #### Funzionalità
 
+<details>
+<summary><b>🍕 Funzionalità complete</b> — clicca per espandere</summary>
+
+<br>
+
 | Area | Funzionalità |
 |------|-------------|
 | **Menu Pubblico** | 6 categorie (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · filtro allergeni in tempo reale (14 allergeni EU) · indicatori vegano/surgelato · navbar categorie sticky · tab "Specialità" per i fuori menu della serata · card con chip categorie a collegamento diretto · link recensioni Google/TripAdvisor |
@@ -103,6 +108,8 @@ Un'applicazione web full-stack realizzata per **Grecos Pizzeria** (Roma, Italia)
 | **Strumenti** | Generatore QR con logo Grecos · QR dedicato per categoria · QR recensioni Google/TripAdvisor · integrazione Web Share API |
 | **Statistiche** | Contatore visite · ripartizione per dispositivo · orari di picco · categorie più visitate · selettore 7/30 giorni con auto-refresh |
 | **Extra** | Modalità estate/inverno (giorni apertura automatici) · periodi di chiusura · archivio storico serate · PWA installabile · calcolo cassa protetto da password · regole Firestore di produzione |
+
+</details>
 
 #### Architettura
 

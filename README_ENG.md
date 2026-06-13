@@ -94,6 +94,11 @@ A full-stack web application built for **Grecos Pizzeria** (Rome, Italy): custom
 
 #### What it does
 
+<details>
+<summary><b>🍕 Full feature list</b> — click to expand</summary>
+
+<br>
+
 | Area | Features |
 |------|----------|
 | **Public Menu** | 6 categories (Antipasti, Pizze Rosse, Pizze Bianche, Focacce & Calzoni, Dolci, Bevande) · real-time allergen filter (14 EU allergens) · vegan/frozen indicators · sticky category navbar · "Specialità" tab for nightly specials · bottom-sheet dish detail · chip-based category cards with direct deep-links · Google/TripAdvisor review links |
@@ -103,6 +108,8 @@ A full-stack web application built for **Grecos Pizzeria** (Rome, Italy): custom
 | **Tools** | QR code generator with brand logo · dedicated QR per category (e.g. Dolci) · QR for Google/TripAdvisor reviews · Web Share API (native mobile share + clipboard fallback) |
 | **Analytics** | Visit counter · device breakdown · peak hours · most-visited categories · top-10 most-viewed dishes · 7/30 day selector with auto-refresh every 3 min · Microsoft Clarity behavioral analytics (localhost filtered) |
 | **Extras** | Summer/winter mode (auto open days) · closure periods with homepage banner · evening history archive · installable PWA with iOS/Android-specific install instructions · swipe-to-dismiss on all modals · IntersectionObserver scroll detection · Firestore production security rules (per-collection, admin-only writes) · `memoryLocalCache()` (replaces IndexedDB to prevent corruption) |
+
+</details>
 
 #### Architecture
 
