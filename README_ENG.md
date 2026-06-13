@@ -39,7 +39,7 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 
 A full-stack web application built for **Grecos Pizzeria** (Rome, Italy): customers scan a QR code and browse the full menu on their phone, while staff manage everything from a secure admin panel — no app store required.
 
-**Client:** Grecos Pizzeria (@grecos11) · **Version:** v1.9.0 · **Deployed:** March 2026
+**Client:** Grecos Pizzeria (@grecos11) · **Version:** v2.5.0 · **Deployed:** March 2026
 
 #### What it does
 
@@ -82,6 +82,11 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 | v1.8.1–v1.8.2 | Per-order discount · delivery toggle · automatic cash calculation · low-stock threshold ≤ 5 |
 | v1.8.4–v1.8.5 | Booking form critical fixes (ViewEncapsulation) · maintenance mode · client-side Firestore sort |
 | v1.9.0 | Google/TripAdvisor review QR codes · chip-category menu cards · IntersectionObserver scroll detection |
+| v2.1.0 | Client address book · evening history archive · seasonal closure management |
+| v2.2.0 | Kitchen order tickets · order history · save confirmation |
+| v2.3.0 | Performance +14% (Lighthouse) · SEO · WCAG AA accessibility |
+| v2.4.0 | Dashboard menu reminders · menu freshness status · negative-cash warning |
+| v2.5.0 | Homepage punctuality alert banner · reselectable message/alert history · Settings promoted to dedicated hub |
 
 ---
 

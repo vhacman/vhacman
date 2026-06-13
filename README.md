@@ -39,7 +39,7 @@ Oggi sono completamente dedicata allo sviluppo software: studio **C/C++ di siste
 
 Un'applicazione web full-stack realizzata per **Grecos Pizzeria** (Roma, Italia): i clienti inquadrano un QR code e sfogliano il menu completo dal telefono, mentre il personale gestisce tutto da un pannello admin protetto — senza app store.
 
-**Cliente:** Grecos Pizzeria (@grecos11) · **Versione:** v1.9.0 · **Online da:** marzo 2026
+**Cliente:** Grecos Pizzeria (@grecos11) · **Versione:** v2.5.0 · **Online da:** marzo 2026
 
 #### Funzionalità
 
@@ -80,6 +80,11 @@ Generazione PDF      — jsPDF
 | v1.8.2 | Sconto per ordine asporto · toggle consegnato · calcolo contanti automatico · soglia "scarso" ≤ 5 |
 | v1.8.4 | Fix critici form prenotazioni · modalità manutenzione · errori Firestore visibili nel form |
 | v1.9.0 | QR recensioni Google/TripAdvisor · card menu con chip categorie · link recensioni in homepage |
+| v2.1.0 | Rubrica clienti · storico serate · gestione chiusure stagionali |
+| v2.2.0 | Comande cucina · storico comande · conferma salvataggio |
+| v2.3.0 | Performance +14% (Lighthouse) · SEO · accessibilità WCAG AA |
+| v2.4.0 | Promemoria menù in dashboard · stato aggiornamento menù · avviso cassa negativa |
+| v2.5.0 | Banner avviso puntualità in homepage · storico messaggi/avvisi riselezionabili · Impostazioni come hub dedicato |
 
 ---
 
