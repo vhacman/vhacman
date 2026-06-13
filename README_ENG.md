@@ -160,6 +160,30 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 
 ---
 
+### <img src="https://img.shields.io/badge/OpenText-Academy-2D2D2D?style=flat&logo=opentext&logoColor=white" alt="OpenText Academy"> OpenText Academy — Enterprise Content Management
+
+**2026** · Complete training path on OpenText ECM and ModuleSuite
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+![OpenText](https://img.shields.io/badge/OpenText_Content_Server-2D2D2D?style=flat&logo=opentext&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Skills acquired:** Enterprise Content Management with **OpenText Content Server** · OpenText REST APIs and **Apigee/OAuth2** authentication · server-side scripting in **Groovy** with **ModuleSuite** (Content Script, Beautiful WebForms, SmartPages) · Java→OpenText clients · advanced Spring Boot, JPA, Testing and Spring Security.
+
+| Area | Content |
+|------|---------|
+| **8 Modules** | SQL · Java · Spring · Groovy · ECM+Java · OpenText · Testing · Spring Security |
+| **ModuleSuite Course** | Content Script Fundamentals · Beautiful WebForms · SmartPages (tile/widget) |
+| **Final project** | mini-ECM **DocSphere** — Spring Boot + vanilla frontend |
+| **Team project** | **ShareSphere** — full Scrum methodology (user stories, sprints, roadmap, mockups) |
+
+[![Academy OpenText Repository](https://img.shields.io/badge/Repository-ACADEMYOPENTEXT-181717?style=flat&logo=github)](https://github.com/vhacman/ACADEMYOPENTEXT)
+
+---
+
 ## Soft Skills
 
 | Area | Competenze |
