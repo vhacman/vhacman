@@ -26,6 +26,57 @@ Oggi sono completamente dedicata allo sviluppo software: studio **C/C++ di siste
 
 ---
 
+## Esperienza Professionale
+
+### <img src="https://img.shields.io/badge/OpenText-Developer-2D2D2D?style=flat&logo=opentext&logoColor=white" alt="OpenText"> OpenText Developer Junior — Best Engage S.r.l.
+
+**Giugno 2026 – Presente** · A tempo indeterminato · Ibrida · Roma
+
+In missione presso **S.M.I. Technologies and Consulting Srl** tramite somministrazione **Best Engage S.r.l.**
+
+Sviluppo su piattaforma **OpenText Developer Cloud**: gestione di repository ECM, workflow documentali e integrazioni enterprise via REST API.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![OpenText](https://img.shields.io/badge/OpenText_Developer_Cloud-2D2D2D?style=flat&logo=opentext&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=postman&logoColor=white)
+
+---
+
+### <img src="https://img.shields.io/badge/OpenText-Academy-2D2D2D?style=flat&logo=opentext&logoColor=white" alt="OpenText Academy"> Academy OpenText — Junior Java Developer
+
+**Marzo 2026 – Maggio 2026** · Roma · *Assunta a tempo indeterminato al termine del percorso*
+
+Programma di formazione su sviluppo backend **Java** e OOP (principi **SOLID**), **Spring Boot**, **REST API**, persistenza con **Hibernate** e **Spring Data JPA**, autenticazione e autorizzazione con **Spring Security** e **JWT**, testing con **JUnit** e scripting in **Groovy**.
+
+Parte significativa dedicata alla piattaforma **OpenText Developer Cloud**: configurazione di repository ECM, modellazione di metadata personalizzati, gestione granulare dei permessi con approccio **zero-trust**, workflow documentali complessi, automazioni tramite **IM Services** e integrazioni con sistemi enterprise (**SAP, CRM, Microsoft 365**) via REST API.
+
+Il percorso si è concluso con la realizzazione di un sistema **ECM end-to-end** come project work finale.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OpenText](https://img.shields.io/badge/OpenText_Developer_Cloud-2D2D2D?style=flat&logo=opentext&logoColor=white)
+
+---
+
+### <img src="https://img.shields.io/badge/Web-Developer-DD0031?style=flat&logo=angular&logoColor=white" alt="Web Developer"> Web Developer | PWA & Digital Solutions — Grecos SRLS
+
+**Dicembre 2025 – Marzo 2026** · Stage · Da remoto · Ladispoli (RM)
+
+**PWA** sviluppata autonomamente per la digitalizzazione di una pizzeria. Menu digitale multilingua (**IT/EN**) con filtri allergeni, pannello admin con autenticazione per gestione prenotazioni, ordini asporto, disponibilità piatti, analytics e export PDF. Oltre **50 componenti**, integrazione **Microsoft Clarity**, supporto offline, conferma prenotazioni via **WhatsApp** e notifiche toast real-time.
+
+> Progetto sviluppato **pro bono** per la Pizzeria Grecos — primo progetto reale e per affetto verso il locale. Dettagli nella sezione [Progetti in Evidenza](#progetti-in-evidenza).
+
+![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Firestore_%2B_Auth_%2B_Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+
+---
+
 ## Progetti in Evidenza
 
 ### Grecos Pizzeria — Menu Digitale & Pannello Admin
@@ -155,30 +206,6 @@ Generazione PDF      — jsPDF
 [![Documentazione Tecnica](https://img.shields.io/badge/Documentazione_Tecnica-Note_%26_Guide-181717?style=flat&logo=github)](https://github.com/vhacman/documentazioneTecnica)
 &nbsp;
 [![Materiale del Corso](https://img.shields.io/badge/Materiale_del_Corso-Cartella_Drive-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
-
----
-
-### <img src="https://img.shields.io/badge/OpenText-Academy-2D2D2D?style=flat&logo=opentext&logoColor=white" alt="OpenText Academy"> Academy OpenText — Enterprise Content Management
-
-**2026** · Percorso formativo completo su OpenText ECM e ModuleSuite
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
-![OpenText](https://img.shields.io/badge/OpenText_Content_Server-2D2D2D?style=flat&logo=opentext&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Competenze acquisite:** Enterprise Content Management con **OpenText Content Server** · API REST OpenText e autenticazione **Apigee/OAuth2** · scripting server-side in **Groovy** con **ModuleSuite** (Content Script, Beautiful WebForms, SmartPages) · client Java→OpenText · Spring Boot avanzato, JPA, Testing e Spring Security.
-
-| Area | Contenuto |
-|------|-----------|
-| **8 Moduli** | SQL · Java · Spring · Groovy · ECM+Java · OpenText · Testing · Spring Security |
-| **Corso ModuleSuite** | Content Script Fundamentals · Beautiful WebForms · SmartPages (tile/widget) |
-| **Progetto finale** | mini-ECM **DocSphere** — Spring Boot + frontend vanilla |
-| **Progetto di gruppo** | **ShareSphere** — metodologia Scrum completa (user story, sprint, roadmap, mockup) |
-
-[![Repository Academy OpenText](https://img.shields.io/badge/Repository-ACADEMYOPENTEXT-181717?style=flat&logo=github)](https://github.com/vhacman/ACADEMYOPENTEXT)
 
 ---
 

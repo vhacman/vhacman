@@ -26,6 +26,57 @@ Now I'm fully committed to software development: studying **low-level C/C++** at
 
 ---
 
+## Professional Experience
+
+### <img src="https://img.shields.io/badge/OpenText-Developer-2D2D2D?style=flat&logo=opentext&logoColor=white" alt="OpenText"> OpenText Developer Junior — Best Engage S.r.l.
+
+**June 2026 – Present** · Permanent contract · Hybrid · Rome
+
+On assignment at **S.M.I. Technologies and Consulting Srl** through staffing agency **Best Engage S.r.l.**
+
+Development on the **OpenText Developer Cloud** platform: ECM repository management, document workflows and enterprise integrations via REST API.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![OpenText](https://img.shields.io/badge/OpenText_Developer_Cloud-2D2D2D?style=flat&logo=opentext&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=postman&logoColor=white)
+
+---
+
+### <img src="https://img.shields.io/badge/OpenText-Academy-2D2D2D?style=flat&logo=opentext&logoColor=white" alt="OpenText Academy"> OpenText Academy — Junior Java Developer
+
+**March 2026 – May 2026** · Rome · *Hired on a permanent contract upon completion*
+
+Training program covering backend development with **Java** and OOP (**SOLID** principles), **Spring Boot**, **REST API**, persistence with **Hibernate** and **Spring Data JPA**, authentication and authorization with **Spring Security** and **JWT**, testing with **JUnit** and scripting in **Groovy**.
+
+A significant part focused on the **OpenText Developer Cloud** platform: ECM repository configuration, custom metadata modeling, granular permission management with a **zero-trust** approach, complex document workflows, automations via **IM Services**, and integrations with enterprise systems (**SAP, CRM, Microsoft 365**) through REST API.
+
+The path concluded with building an end-to-end **ECM system** as the final project work.
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OpenText](https://img.shields.io/badge/OpenText_Developer_Cloud-2D2D2D?style=flat&logo=opentext&logoColor=white)
+
+---
+
+### <img src="https://img.shields.io/badge/Web-Developer-DD0031?style=flat&logo=angular&logoColor=white" alt="Web Developer"> Web Developer | PWA & Digital Solutions — Grecos SRLS
+
+**December 2025 – March 2026** · Internship · Remote · Ladispoli (Rome)
+
+**PWA** built independently to digitalize a pizzeria. Multilingual digital menu (**IT/EN**) with allergen filters, authenticated admin panel for reservations, takeaway orders, dish availability, analytics and PDF export. Over **50 components**, **Microsoft Clarity** integration, offline support, **WhatsApp** booking confirmation and real-time toast notifications.
+
+> Built **pro bono** for Grecos Pizzeria — my first real project and out of affection for the place. Details in the [Featured Projects](#featured-projects) section.
+
+![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Firestore_%2B_Auth_%2B_Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat&logo=pwa&logoColor=white)
+
+---
+
 ## Featured Projects
 
 ### Grecos Pizzeria — Digital Menu & Admin Panel
@@ -157,30 +208,6 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 [![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-Notes_&_Guides-181717?style=flat&logo=github)](https://github.com/vhacman/documentazioneTecnica)
 &nbsp;
 [![Course Materials](https://img.shields.io/badge/Course_Materials-Drive_Folder-4285F4?style=flat&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1f54Eu_EK2zw2XcMK-9qJH4ZErLXtV8Rj?hl=it)
-
----
-
-### <img src="https://img.shields.io/badge/OpenText-Academy-2D2D2D?style=flat&logo=opentext&logoColor=white" alt="OpenText Academy"> OpenText Academy — Enterprise Content Management
-
-**2026** · Complete training path on OpenText ECM and ModuleSuite
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat&logo=apachegroovy&logoColor=white)
-![OpenText](https://img.shields.io/badge/OpenText_Content_Server-2D2D2D?style=flat&logo=opentext&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-**Skills acquired:** Enterprise Content Management with **OpenText Content Server** · OpenText REST APIs and **Apigee/OAuth2** authentication · server-side scripting in **Groovy** with **ModuleSuite** (Content Script, Beautiful WebForms, SmartPages) · Java→OpenText clients · advanced Spring Boot, JPA, Testing and Spring Security.
-
-| Area | Content |
-|------|---------|
-| **8 Modules** | SQL · Java · Spring · Groovy · ECM+Java · OpenText · Testing · Spring Security |
-| **ModuleSuite Course** | Content Script Fundamentals · Beautiful WebForms · SmartPages (tile/widget) |
-| **Final project** | mini-ECM **DocSphere** — Spring Boot + vanilla frontend |
-| **Team project** | **ShareSphere** — full Scrum methodology (user stories, sprints, roadmap, mockups) |
-
-[![Academy OpenText Repository](https://img.shields.io/badge/Repository-ACADEMYOPENTEXT-181717?style=flat&logo=github)](https://github.com/vhacman/ACADEMYOPENTEXT)
 
 ---
 
