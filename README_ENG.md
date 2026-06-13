@@ -211,6 +211,19 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 
 ---
 
+### 🎓 Certifications
+
+| Certification | Issuer | Date |
+|---------------|--------|:----:|
+| The Complete Apache Groovy Developer Course | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | May 2026 |
+| Spring & Spring Boot (v5): The Complete Guide | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Apr 2026 |
+| Java Developer — Hi-Tech Path | ![Intesa Sanpaolo](https://img.shields.io/badge/Intesa_Sanpaolo-008C45?style=flat&logoColor=white) | Apr 2026 |
+| Junior Java Developer | ![Generation Italy](https://img.shields.io/badge/Generation_Italy-FF6B35?style=flat&logo=java&logoColor=white) | Apr 2026 |
+| Scrum Fundamentals Certified | ![SCRUMstudy](https://img.shields.io/badge/SCRUMstudy-0E76A8?style=flat&logoColor=white) | Mar 2026 |
+| Introduction to Front-End Development | ![Meta](https://img.shields.io/badge/Meta-0866FF?style=flat&logo=meta&logoColor=white) | May 2024 |
+
+---
+
 ## Soft Skills
 
 | Area | Competenze |

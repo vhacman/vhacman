@@ -209,6 +209,19 @@ Generazione PDF      — jsPDF
 
 ---
 
+### 🎓 Certificazioni
+
+| Certificazione | Ente | Data |
+|----------------|------|:----:|
+| The Complete Apache Groovy Developer Course | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Mag 2026 |
+| Spring e Spring Boot (v5): la guida completa | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=udemy&logoColor=white) | Apr 2026 |
+| Java Developer — Percorso Hi-Tech | ![Intesa Sanpaolo](https://img.shields.io/badge/Intesa_Sanpaolo-008C45?style=flat&logoColor=white) | Apr 2026 |
+| Junior Java Developer | ![Generation Italy](https://img.shields.io/badge/Generation_Italy-FF6B35?style=flat&logo=java&logoColor=white) | Apr 2026 |
+| Scrum Fundamentals Certified | ![SCRUMstudy](https://img.shields.io/badge/SCRUMstudy-0E76A8?style=flat&logoColor=white) | Mar 2026 |
+| Introduction to Front-End Development | ![Meta](https://img.shields.io/badge/Meta-0866FF?style=flat&logo=meta&logoColor=white) | Mag 2024 |
+
+---
+
 ## Soft Skill
 
 | Area | Competenze |
