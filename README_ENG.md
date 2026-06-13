@@ -119,6 +119,11 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 
 #### Evolution
 
+<details>
+<summary><b>📜 Version history (v1.0.0 → v2.5.0)</b> — click to expand</summary>
+
+<br>
+
 | Version | Highlight |
 |---------|-----------|
 | v1.0.0 | Public menu (115 dishes), allergen filter, admin CRUD, fuori-menu, QR code, PWA |
@@ -138,6 +143,8 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 | v2.3.0 | Performance +14% (Lighthouse) · SEO · WCAG AA accessibility |
 | v2.4.0 | Dashboard menu reminders · menu freshness status · negative-cash warning |
 | v2.5.0 | Homepage punctuality alert banner · reselectable message/alert history · Settings promoted to dedicated hub |
+
+</details>
 
 ---
 

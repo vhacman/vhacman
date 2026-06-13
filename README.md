@@ -117,6 +117,11 @@ Generazione PDF      — jsPDF
 
 #### Evoluzione
 
+<details>
+<summary><b>📜 Storico versioni (v1.0.0 → v2.5.0)</b> — clicca per espandere</summary>
+
+<br>
+
 | Versione | Novità principale |
 |----------|-------------------|
 | v1.0.0 | Menu pubblico, filtro allergeni, CRUD admin, fuori menu, PWA |
@@ -136,6 +141,8 @@ Generazione PDF      — jsPDF
 | v2.3.0 | Performance +14% (Lighthouse) · SEO · accessibilità WCAG AA |
 | v2.4.0 | Promemoria menù in dashboard · stato aggiornamento menù · avviso cassa negativa |
 | v2.5.0 | Banner avviso puntualità in homepage · storico messaggi/avvisi riselezionabili · Impostazioni come hub dedicato |
+
+</details>
 
 ---
 
