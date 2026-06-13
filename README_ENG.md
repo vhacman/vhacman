@@ -199,6 +199,11 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 
 #### Repositories
 
+<details>
+<summary><b>📦 10 repositories (00 → 09)</b> — click to expand</summary>
+
+<br>
+
 | # | Repository | Contenuto |
 |---|------------|-----------|
 | 00 | [00_libraries](https://github.com/vhacman/00_libraries) | Framework e librerie riutilizzabili (GenerationLibrary) |
@@ -211,6 +216,8 @@ QR generation        — qrcode library (dynamic, downloadable PNG)
 | 07 | [07_FullStack-NodeJS-Angular](https://github.com/vhacman/07_FullStack-NodeJS-Angular) | FullStack Node.js + Express + SQLite + Angular |
 | 08 | [08_FullStack-SpringBoot](https://github.com/vhacman/08_FullStack-SpringBoot) | FullStack Spring Boot + Angular — 3 progetti |
 | 09 | [09_Database-MySql](https://github.com/vhacman/09_Database-MySql) | SQL fondamentali e query avanzate |
+
+</details>
 
 [![Technical Documentation](https://img.shields.io/badge/Technical_Documentation-Notes_&_Guides-181717?style=flat&logo=github)](https://github.com/vhacman/documentazioneTecnica)
 &nbsp;
